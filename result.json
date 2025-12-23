@@ -1,8 +1,8 @@
 {
-  "rooms_and_residents": [
+  "rooms_with_students": [
     {
       "room": 0,
-      "residents": [
+      "students": [
         "Ann Skinner",
         "Craig Riggs",
         "Denise Oliver",
@@ -16,7 +16,7 @@
     },
     {
       "room": 1,
-      "residents": [
+      "students": [
         "Amy Williams",
         "Angela Gibson",
         "Angela Martin",
@@ -28,7 +28,7 @@
     },
     {
       "room": 2,
-      "residents": [
+      "students": [
         "Amanda Dominguez",
         "Ashley Fleming",
         "Courtney Landry",
@@ -42,7 +42,7 @@
     },
     {
       "room": 3,
-      "residents": [
+      "students": [
         "Erin Chapman",
         "Jennifer Chapman",
         "John Mason",
@@ -52,7 +52,7 @@
     },
     {
       "room": 4,
-      "residents": [
+      "students": [
         "Alexander Flowers",
         "Amy Lamb",
         "Bruce Bailey",
@@ -68,7 +68,7 @@
     },
     {
       "room": 5,
-      "residents": [
+      "students": [
         "Crystal Foster",
         "Emma Black",
         "James Jones",
@@ -82,7 +82,7 @@
     },
     {
       "room": 6,
-      "residents": [
+      "students": [
         "Bradley Mcbride",
         "Debra Ashley",
         "Devin Charles",
@@ -91,7 +91,7 @@
     },
     {
       "room": 7,
-      "residents": [
+      "students": [
         "Alex Woodard",
         "Angela Rasmussen",
         "Bradley Moses",
@@ -106,7 +106,7 @@
     },
     {
       "room": 8,
-      "residents": [
+      "students": [
         "Amanda Mcgrath",
         "Christina Sanders",
         "Desiree Peterson",
@@ -123,7 +123,7 @@
     },
     {
       "room": 9,
-      "residents": [
+      "students": [
         "Anne Holland",
         "Jared Nunez",
         "Justin Yu",
@@ -135,7 +135,7 @@
     },
     {
       "room": 10,
-      "residents": [
+      "students": [
         "Beth Collins",
         "Brandy Carr",
         "Charles Chandler",
@@ -153,7 +153,7 @@
     },
     {
       "room": 11,
-      "residents": [
+      "students": [
         "Andrea Rhodes",
         "Billy Nichols",
         "Carol Walker",
@@ -170,7 +170,7 @@
     },
     {
       "room": 12,
-      "residents": [
+      "students": [
         "Anthony Stein",
         "Benjamin Martinez",
         "Christopher Reynolds",
@@ -191,7 +191,7 @@
     },
     {
       "room": 13,
-      "residents": [
+      "students": [
         "Brent Lee",
         "Charles Hardy",
         "Chelsea Calhoun PhD",
@@ -206,7 +206,7 @@
     },
     {
       "room": 14,
-      "residents": [
+      "students": [
         "Karen Garza MD",
         "Kerry Thomas",
         "Marcus Murray",
@@ -218,7 +218,7 @@
     },
     {
       "room": 15,
-      "residents": [
+      "students": [
         "Barbara Roth",
         "Desiree Davis",
         "Eric Smith",
@@ -232,7 +232,7 @@
     },
     {
       "room": 16,
-      "residents": [
+      "students": [
         "Amy Monroe",
         "David Reed",
         "Dawn Soto",
@@ -247,7 +247,7 @@
     },
     {
       "room": 17,
-      "residents": [
+      "students": [
         "Alexandria Lopez",
         "Alexandria Ray",
         "Briana Schmitt",
@@ -261,7 +261,7 @@
     },
     {
       "room": 18,
-      "residents": [
+      "students": [
         "Adam Lucas",
         "Amy Galvan",
         "Anthony Day",
@@ -276,7 +276,7 @@
     },
     {
       "room": 19,
-      "residents": [
+      "students": [
         "Allison Miller",
         "Diane Gonzalez",
         "Gail Merritt",
@@ -294,7 +294,7 @@
     },
     {
       "room": 20,
-      "residents": [
+      "students": [
         "Bradley Fuller",
         "Brandon Graham",
         "Christopher Smith",
@@ -314,7 +314,7 @@
     },
     {
       "room": 21,
-      "residents": [
+      "students": [
         "Alison Lewis",
         "Angela Long",
         "Brett Mcgee",
@@ -334,7 +334,7 @@
     },
     {
       "room": 22,
-      "residents": [
+      "students": [
         "Anne Joyce",
         "Cameron Martinez",
         "Charles Hughes",
@@ -348,7 +348,7 @@
     },
     {
       "room": 23,
-      "residents": [
+      "students": [
         "Amanda Owens",
         "Bonnie Bryant",
         "Catherine Rosario",
@@ -369,7 +369,7 @@
     },
     {
       "room": 24,
-      "residents": [
+      "students": [
         "Amanda Adams",
         "Amy King",
         "Angel Gutierrez",
@@ -388,7 +388,7 @@
     },
     {
       "room": 25,
-      "residents": [
+      "students": [
         "Kayla Ruiz",
         "Michelle Johnson",
         "Paul Yang",
@@ -397,7 +397,7 @@
     },
     {
       "room": 26,
-      "residents": [
+      "students": [
         "Alicia Torres",
         "Charles Thompson",
         "Deanna Lyons",
@@ -409,7 +409,7 @@
     },
     {
       "room": 27,
-      "residents": [
+      "students": [
         "Carl Kelly",
         "Derek Nguyen",
         "Elijah Mcclain",
@@ -420,7 +420,7 @@
     },
     {
       "room": 28,
-      "residents": [
+      "students": [
         "Danielle Hughes",
         "Dean Hughes",
         "Jerry Kline",
@@ -432,7 +432,7 @@
     },
     {
       "room": 29,
-      "residents": [
+      "students": [
         "Amanda Olson",
         "Ashley Anderson",
         "Bradley Marsh",
@@ -449,7 +449,7 @@
     },
     {
       "room": 30,
-      "residents": [
+      "students": [
         "Alex Johnson",
         "Andrew Baker",
         "Anna Brown",
@@ -463,7 +463,7 @@
     },
     {
       "room": 31,
-      "residents": [
+      "students": [
         "Aaron Pearson",
         "Andrew Campbell",
         "Charles Bell",
@@ -481,7 +481,7 @@
     },
     {
       "room": 32,
-      "residents": [
+      "students": [
         "Alexandra Burke",
         "Charles Smith",
         "Jessica Sawyer",
@@ -495,7 +495,7 @@
     },
     {
       "room": 33,
-      "residents": [
+      "students": [
         "Donna Donaldson",
         "James Fuentes",
         "James Lopez",
@@ -509,7 +509,7 @@
     },
     {
       "room": 34,
-      "residents": [
+      "students": [
         "Brian Miller",
         "Connor Estes",
         "Eduardo Wheeler",
@@ -523,7 +523,7 @@
     },
     {
       "room": 35,
-      "residents": [
+      "students": [
         "Andrew Montgomery",
         "Angela Salazar",
         "Brandon Martin",
@@ -542,7 +542,7 @@
     },
     {
       "room": 36,
-      "residents": [
+      "students": [
         "David Woods",
         "Eric Phillips",
         "Jody Cohen",
@@ -557,7 +557,7 @@
     },
     {
       "room": 37,
-      "residents": [
+      "students": [
         "Danielle Richardson",
         "Dillon Acosta",
         "Dr. Lauren Gross",
@@ -574,7 +574,7 @@
     },
     {
       "room": 38,
-      "residents": [
+      "students": [
         "Allison White",
         "Ashley Williams",
         "Billy Petersen",
@@ -589,7 +589,7 @@
     },
     {
       "room": 39,
-      "residents": [
+      "students": [
         "Andres Cox",
         "Benjamin Espinoza",
         "Donna Romero",
@@ -606,7 +606,7 @@
     },
     {
       "room": 40,
-      "residents": [
+      "students": [
         "Alan Wells",
         "Alexander Miller",
         "Alexandra Lewis",
@@ -622,7 +622,7 @@
     },
     {
       "room": 41,
-      "residents": [
+      "students": [
         "Angela Dean",
         "Ashley Harris",
         "Austin Diaz",
@@ -642,7 +642,7 @@
     },
     {
       "room": 42,
-      "residents": [
+      "students": [
         "Chase Johnson",
         "Courtney Lopez",
         "Jason Kelly",
@@ -655,7 +655,7 @@
     },
     {
       "room": 43,
-      "residents": [
+      "students": [
         "Ann Malone",
         "Brian Morgan",
         "Daniel Sanchez",
@@ -669,7 +669,7 @@
     },
     {
       "room": 44,
-      "residents": [
+      "students": [
         "Clarence Smith",
         "Daniel Brown",
         "Jacob White",
@@ -690,7 +690,7 @@
     },
     {
       "room": 45,
-      "residents": [
+      "students": [
         "Alicia Spears",
         "Ashley Schultz",
         "Brianna Fletcher",
@@ -705,7 +705,7 @@
     },
     {
       "room": 46,
-      "residents": [
+      "students": [
         "Alexis Lopez",
         "Amanda Small",
         "Amy Murray",
@@ -722,7 +722,7 @@
     },
     {
       "room": 47,
-      "residents": [
+      "students": [
         "Carlos Kim",
         "Casey Johnson",
         "David Wright",
@@ -736,7 +736,7 @@
     },
     {
       "room": 48,
-      "residents": [
+      "students": [
         "Anna Gonzalez",
         "Dennis Goodman",
         "Ebony Robertson",
@@ -753,7 +753,7 @@
     },
     {
       "room": 49,
-      "residents": [
+      "students": [
         "Matthew Benson",
         "Michael Robertson",
         "Paul Coffey"
@@ -761,7 +761,7 @@
     },
     {
       "room": 50,
-      "residents": [
+      "students": [
         "Amy Allen",
         "Brian Ross",
         "Kelsey Stanley",
@@ -772,7 +772,7 @@
     },
     {
       "room": 51,
-      "residents": [
+      "students": [
         "Anthony Hammond",
         "David Wise MD",
         "Dennis Fisher",
@@ -792,7 +792,7 @@
     },
     {
       "room": 52,
-      "residents": [
+      "students": [
         "Ashley Church",
         "Ashley Smith",
         "Dawn Miller",
@@ -812,7 +812,7 @@
     },
     {
       "room": 53,
-      "residents": [
+      "students": [
         "Arthur Johnson",
         "Bryan Bruce",
         "Dylan Gallegos",
@@ -826,7 +826,7 @@
     },
     {
       "room": 54,
-      "residents": [
+      "students": [
         "Ann Phillips",
         "Brittany Durham",
         "Darren Cook",
@@ -837,7 +837,7 @@
     },
     {
       "room": 55,
-      "residents": [
+      "students": [
         "Amanda Campbell",
         "Christina Glenn",
         "James Welch",
@@ -851,7 +851,7 @@
     },
     {
       "room": 56,
-      "residents": [
+      "students": [
         "Caitlin Smith",
         "David Shannon",
         "Douglas Navarro",
@@ -869,7 +869,7 @@
     },
     {
       "room": 57,
-      "residents": [
+      "students": [
         "Anthony Peters",
         "Bryan Scott",
         "Eric Anderson",
@@ -883,7 +883,7 @@
     },
     {
       "room": 58,
-      "residents": [
+      "students": [
         "Austin Davis",
         "Chad Walker",
         "Curtis Hernandez",
@@ -900,7 +900,7 @@
     },
     {
       "room": 59,
-      "residents": [
+      "students": [
         "Aaron Hill",
         "Benjamin Franklin",
         "Craig Miranda",
@@ -914,7 +914,7 @@
     },
     {
       "room": 60,
-      "residents": [
+      "students": [
         "Brenda Sandoval",
         "Chase Jones",
         "Daniel Lawrence",
@@ -928,7 +928,7 @@
     },
     {
       "room": 61,
-      "residents": [
+      "students": [
         "Alexandra Mack",
         "Angela Williams",
         "Beth Sellers",
@@ -944,7 +944,7 @@
     },
     {
       "room": 62,
-      "residents": [
+      "students": [
         "Amanda Williams",
         "Autumn Simpson",
         "Christine Stone",
@@ -963,7 +963,7 @@
     },
     {
       "room": 63,
-      "residents": [
+      "students": [
         "Austin Cummings",
         "Brandon Dixon",
         "Charles Keller",
@@ -977,7 +977,7 @@
     },
     {
       "room": 64,
-      "residents": [
+      "students": [
         "Amanda Perry",
         "Ashley Williamson",
         "Benjamin Jenkins",
@@ -993,7 +993,7 @@
     },
     {
       "room": 65,
-      "residents": [
+      "students": [
         "Alexander Smith",
         "Angela Mills",
         "Christina Lowery",
@@ -1014,7 +1014,7 @@
     },
     {
       "room": 66,
-      "residents": [
+      "students": [
         "Danielle Pearson",
         "Emily Williams",
         "Kimberly Hernandez",
@@ -1025,7 +1025,7 @@
     },
     {
       "room": 67,
-      "residents": [
+      "students": [
         "Allen Gilbert",
         "Brandy Drake",
         "Danielle Edwards",
@@ -1040,7 +1040,7 @@
     },
     {
       "room": 68,
-      "residents": [
+      "students": [
         "Christine Roth",
         "Collin Smith",
         "Courtney Moss",
@@ -1057,7 +1057,7 @@
     },
     {
       "room": 69,
-      "residents": [
+      "students": [
         "Barry Sullivan DDS",
         "Chris Wood",
         "Eddie Villarreal",
@@ -1074,7 +1074,7 @@
     },
     {
       "room": 70,
-      "residents": [
+      "students": [
         "Aaron Anderson",
         "Angela Johns",
         "Ashley Hickman",
@@ -1091,7 +1091,7 @@
     },
     {
       "room": 71,
-      "residents": [
+      "students": [
         "Alex Reyes",
         "Audrey Potts",
         "Danielle Aguilar",
@@ -1106,7 +1106,7 @@
     },
     {
       "room": 72,
-      "residents": [
+      "students": [
         "Amy Carney",
         "Christy Brown",
         "Krista Johnson",
@@ -1119,7 +1119,7 @@
     },
     {
       "room": 73,
-      "residents": [
+      "students": [
         "Alexis Woodard",
         "Anna Mosley",
         "Brandi Frye",
@@ -1144,7 +1144,7 @@
     },
     {
       "room": 74,
-      "residents": [
+      "students": [
         "Ariana Allen",
         "Brandon Valdez",
         "Brenda Wilson",
@@ -1166,7 +1166,7 @@
     },
     {
       "room": 75,
-      "residents": [
+      "students": [
         "Andrew Perez",
         "Bonnie Jones",
         "David Thompson",
@@ -1178,7 +1178,7 @@
     },
     {
       "room": 76,
-      "residents": [
+      "students": [
         "Amy Mccann",
         "Anna Medina",
         "Brian Page",
@@ -1189,7 +1189,7 @@
     },
     {
       "room": 77,
-      "residents": [
+      "students": [
         "Angela Rice",
         "Dr. Matthew Johnson",
         "Jennifer Sheppard",
@@ -1203,7 +1203,7 @@
     },
     {
       "room": 78,
-      "residents": [
+      "students": [
         "Amanda Rhodes",
         "Bradley Garcia",
         "Corey Rollins",
@@ -1216,7 +1216,7 @@
     },
     {
       "room": 79,
-      "residents": [
+      "students": [
         "Ashley Melton",
         "Brandon Deleon",
         "Brittany Allen",
@@ -1227,7 +1227,7 @@
     },
     {
       "room": 80,
-      "residents": [
+      "students": [
         "Anthony Meyer",
         "Bryce Christian",
         "Jeffrey Edwards",
@@ -1239,7 +1239,7 @@
     },
     {
       "room": 81,
-      "residents": [
+      "students": [
         "Alan Salas",
         "Danielle Neal",
         "David Simpson",
@@ -1256,7 +1256,7 @@
     },
     {
       "room": 82,
-      "residents": [
+      "students": [
         "Alexander Garcia",
         "Benjamin Cobb",
         "Craig Smith",
@@ -1276,7 +1276,7 @@
     },
     {
       "room": 83,
-      "residents": [
+      "students": [
         "Alicia Gaines",
         "Alison Campos",
         "Cesar Floyd",
@@ -1292,7 +1292,7 @@
     },
     {
       "room": 84,
-      "residents": [
+      "students": [
         "Amanda Thompson",
         "Anna Vincent",
         "Cody Macias",
@@ -1308,7 +1308,7 @@
     },
     {
       "room": 85,
-      "residents": [
+      "students": [
         "Barbara Roman",
         "Christina Hopkins",
         "Christine Shaw",
@@ -1319,7 +1319,7 @@
     },
     {
       "room": 86,
-      "residents": [
+      "students": [
         "Anthony Armstrong",
         "Brian Roy",
         "Eric Sanders",
@@ -1333,7 +1333,7 @@
     },
     {
       "room": 87,
-      "residents": [
+      "students": [
         "Carrie Hansen",
         "Elizabeth Hammond",
         "Hannah Butler",
@@ -1351,7 +1351,7 @@
     },
     {
       "room": 88,
-      "residents": [
+      "students": [
         "Amy Harper",
         "Christine Jimenez",
         "Dana Stokes",
@@ -1365,7 +1365,7 @@
     },
     {
       "room": 89,
-      "residents": [
+      "students": [
         "Bradley Salazar",
         "Jason Munoz",
         "Kayla Henson",
@@ -1377,7 +1377,7 @@
     },
     {
       "room": 90,
-      "residents": [
+      "students": [
         "Amber Watson",
         "Christopher Rodriguez",
         "Heather Todd",
@@ -1393,7 +1393,7 @@
     },
     {
       "room": 91,
-      "residents": [
+      "students": [
         "Carl Ortiz",
         "Crystal Martin",
         "Dennis Garcia",
@@ -1408,7 +1408,7 @@
     },
     {
       "room": 92,
-      "residents": [
+      "students": [
         "Grant Bell",
         "Gregory Hobbs",
         "Kyle Houston",
@@ -1418,7 +1418,7 @@
     },
     {
       "room": 93,
-      "residents": [
+      "students": [
         "Christopher Beasley",
         "Heidi Diaz",
         "Jennifer Brown",
@@ -1435,7 +1435,7 @@
     },
     {
       "room": 94,
-      "residents": [
+      "students": [
         "Andrew Long",
         "Anthony Martin",
         "Antonio Gonzalez",
@@ -1451,7 +1451,7 @@
     },
     {
       "room": 95,
-      "residents": [
+      "students": [
         "Alexandra Rodriguez",
         "Brian Davis",
         "Daniel Harris",
@@ -1464,7 +1464,7 @@
     },
     {
       "room": 96,
-      "residents": [
+      "students": [
         "Brittany Robinson",
         "Cameron Holmes",
         "Cody Rivera",
@@ -1478,7 +1478,7 @@
     },
     {
       "room": 97,
-      "residents": [
+      "students": [
         "Andre Richardson",
         "Jacob Cook",
         "Karen Heath",
@@ -1488,7 +1488,7 @@
     },
     {
       "room": 98,
-      "residents": [
+      "students": [
         "Andrea Torres",
         "Angel Taylor",
         "Angela Mcclure",
@@ -1504,7 +1504,7 @@
     },
     {
       "room": 99,
-      "residents": [
+      "students": [
         "Amanda Weaver",
         "Brian Martin",
         "David Smith",
@@ -1517,7 +1517,7 @@
     },
     {
       "room": 100,
-      "residents": [
+      "students": [
         "Alexis Rogers",
         "Chelsea White",
         "Dean Chambers",
@@ -1531,7 +1531,7 @@
     },
     {
       "room": 101,
-      "residents": [
+      "students": [
         "Andrew Lam",
         "Andrew Sims",
         "Brenda Andrews",
@@ -1546,7 +1546,7 @@
     },
     {
       "room": 102,
-      "residents": [
+      "students": [
         "Alexis Thornton",
         "Jaime Gibbs",
         "Keith Campbell",
@@ -1556,7 +1556,7 @@
     },
     {
       "room": 103,
-      "residents": [
+      "students": [
         "Andrea Thomas",
         "Andrew Ramirez",
         "Barbara Morton",
@@ -1573,7 +1573,7 @@
     },
     {
       "room": 104,
-      "residents": [
+      "students": [
         "Arthur Jarvis",
         "Brittany Perez",
         "Charles Kelly",
@@ -1590,7 +1590,7 @@
     },
     {
       "room": 105,
-      "residents": [
+      "students": [
         "Abigail Gallagher",
         "Cassandra Clark",
         "Crystal Dickson",
@@ -1600,7 +1600,7 @@
     },
     {
       "room": 106,
-      "residents": [
+      "students": [
         "Aaron Chambers",
         "Ashley Hutchinson",
         "David Rodriguez",
@@ -1614,7 +1614,7 @@
     },
     {
       "room": 107,
-      "residents": [
+      "students": [
         "Christopher Edwards",
         "Dominique Cain",
         "Eduardo Ballard",
@@ -1631,7 +1631,7 @@
     },
     {
       "room": 108,
-      "residents": [
+      "students": [
         "Alicia Leon",
         "Becky Rich",
         "Jeffrey Turner",
@@ -1646,7 +1646,7 @@
     },
     {
       "room": 109,
-      "residents": [
+      "students": [
         "Amy Wilson",
         "Elizabeth Stein",
         "John Tucker",
@@ -1658,7 +1658,7 @@
     },
     {
       "room": 110,
-      "residents": [
+      "students": [
         "Aaron Morgan",
         "Ashley Smith",
         "Dawn Green",
@@ -1672,7 +1672,7 @@
     },
     {
       "room": 111,
-      "residents": [
+      "students": [
         "Angela Morgan",
         "Diamond Cardenas",
         "Justin Williams",
@@ -1687,7 +1687,7 @@
     },
     {
       "room": 112,
-      "residents": [
+      "students": [
         "Chelsea Williams",
         "Christian Bush",
         "Christina Brady",
@@ -1703,7 +1703,7 @@
     },
     {
       "room": 113,
-      "residents": [
+      "students": [
         "Anthony Vargas",
         "Debra Williams",
         "Dr. Mary Fleming",
@@ -1717,7 +1717,7 @@
     },
     {
       "room": 114,
-      "residents": [
+      "students": [
         "Alexandra Sanders",
         "Corey Hunt",
         "Heather Briggs",
@@ -1733,7 +1733,7 @@
     },
     {
       "room": 115,
-      "residents": [
+      "students": [
         "Catherine Roberts",
         "Greg Hernandez",
         "Kimberly Lynch",
@@ -1747,7 +1747,7 @@
     },
     {
       "room": 116,
-      "residents": [
+      "students": [
         "Brandon Garcia",
         "Brandon Wilson",
         "Brian Martin",
@@ -1766,7 +1766,7 @@
     },
     {
       "room": 117,
-      "residents": [
+      "students": [
         "Andrea Patel",
         "Brett Bullock",
         "Cheryl Dixon",
@@ -1783,7 +1783,7 @@
     },
     {
       "room": 118,
-      "residents": [
+      "students": [
         "David Wallace",
         "Jason Brown",
         "Jimmy Lee",
@@ -1798,7 +1798,7 @@
     },
     {
       "room": 119,
-      "residents": [
+      "students": [
         "Barbara Wilson",
         "Caitlin Perry",
         "Frank Aguilar",
@@ -1811,7 +1811,7 @@
     },
     {
       "room": 120,
-      "residents": [
+      "students": [
         "Ashlee Stokes",
         "Brian Sullivan",
         "Danielle Johnson",
@@ -1828,7 +1828,7 @@
     },
     {
       "room": 121,
-      "residents": [
+      "students": [
         "Brenda Brown",
         "Dale Richard",
         "Daniel Howard",
@@ -1843,7 +1843,7 @@
     },
     {
       "room": 122,
-      "residents": [
+      "students": [
         "Amber Hardy",
         "Angela Fox",
         "Jeffrey Wilson",
@@ -1858,7 +1858,7 @@
     },
     {
       "room": 123,
-      "residents": [
+      "students": [
         "Anthony Miranda",
         "David Frank",
         "Diana Conley",
@@ -1875,7 +1875,7 @@
     },
     {
       "room": 124,
-      "residents": [
+      "students": [
         "Breanna Olson",
         "Brent Compton",
         "Brett Cochran",
@@ -1894,7 +1894,7 @@
     },
     {
       "room": 125,
-      "residents": [
+      "students": [
         "Barbara Doyle",
         "Christopher Bailey",
         "Lisa Moon",
@@ -1907,7 +1907,7 @@
     },
     {
       "room": 126,
-      "residents": [
+      "students": [
         "Andrea Dickerson",
         "Erin Small",
         "Howard Martin",
@@ -1923,7 +1923,7 @@
     },
     {
       "room": 127,
-      "residents": [
+      "students": [
         "Colleen Sanders",
         "Jasmine Poole",
         "Kristen Holloway",
@@ -1939,7 +1939,7 @@
     },
     {
       "room": 128,
-      "residents": [
+      "students": [
         "Chase Mcintyre",
         "Christina Jordan",
         "Danielle Miller",
@@ -1957,7 +1957,7 @@
     },
     {
       "room": 129,
-      "residents": [
+      "students": [
         "Angela Calhoun",
         "Charles Morris",
         "Juan Strickland",
@@ -1970,7 +1970,7 @@
     },
     {
       "room": 130,
-      "residents": [
+      "students": [
         "Adam Garcia",
         "Brandon Boyd",
         "Brian Hawkins",
@@ -1985,7 +1985,7 @@
     },
     {
       "room": 131,
-      "residents": [
+      "students": [
         "Diane Martinez",
         "Jennifer Garcia",
         "Katherine Smith",
@@ -1998,7 +1998,7 @@
     },
     {
       "room": 132,
-      "residents": [
+      "students": [
         "Brandon Rosales",
         "Brianna York",
         "Christine Solomon",
@@ -2014,7 +2014,7 @@
     },
     {
       "room": 133,
-      "residents": [
+      "students": [
         "Curtis Harper",
         "Curtis Rubio",
         "Danny Lin",
@@ -2035,7 +2035,7 @@
     },
     {
       "room": 134,
-      "residents": [
+      "students": [
         "Amber Cole",
         "Jordan Aguilar",
         "Richard Hunt",
@@ -2044,7 +2044,7 @@
     },
     {
       "room": 135,
-      "residents": [
+      "students": [
         "Amanda Brown",
         "Eric Sanchez",
         "Kelly Huffman",
@@ -2056,7 +2056,7 @@
     },
     {
       "room": 136,
-      "residents": [
+      "students": [
         "Anthony Campbell DDS",
         "Christopher Davidson",
         "Ivan Richardson",
@@ -2077,7 +2077,7 @@
     },
     {
       "room": 137,
-      "residents": [
+      "students": [
         "Alan Kelley",
         "Angela Strickland",
         "Colleen Harding",
@@ -2093,7 +2093,7 @@
     },
     {
       "room": 138,
-      "residents": [
+      "students": [
         "Barbara Chang",
         "Brenda Becker",
         "Cassandra Kline",
@@ -2111,7 +2111,7 @@
     },
     {
       "room": 139,
-      "residents": [
+      "students": [
         "Adriana Roach",
         "Carol Meadows",
         "Daniel Williams",
@@ -2130,7 +2130,7 @@
     },
     {
       "room": 140,
-      "residents": [
+      "students": [
         "Christopher Romero",
         "Justin Salinas",
         "Lisa Moran",
@@ -2140,7 +2140,7 @@
     },
     {
       "room": 141,
-      "residents": [
+      "students": [
         "Adam Ortiz",
         "Alexander Potter",
         "Antonio Martinez",
@@ -2150,7 +2150,7 @@
     },
     {
       "room": 142,
-      "residents": [
+      "students": [
         "Allison Jackson",
         "Cynthia Porter",
         "Donna Smith",
@@ -2166,7 +2166,7 @@
     },
     {
       "room": 143,
-      "residents": [
+      "students": [
         "Adam Baird",
         "Carla Durham",
         "Clinton York",
@@ -2181,7 +2181,7 @@
     },
     {
       "room": 144,
-      "residents": [
+      "students": [
         "Alexander Raymond",
         "Angela Reed",
         "Desiree Knight",
@@ -2197,7 +2197,7 @@
     },
     {
       "room": 145,
-      "residents": [
+      "students": [
         "Anna Young",
         "Christopher Larson",
         "Donna Campbell",
@@ -2218,7 +2218,7 @@
     },
     {
       "room": 146,
-      "residents": [
+      "students": [
         "Alex Oconnor",
         "Alexis Walls",
         "Ashlee Melendez",
@@ -2235,7 +2235,7 @@
     },
     {
       "room": 147,
-      "residents": [
+      "students": [
         "Barbara Roberts",
         "Brandon Gilbert",
         "Dr. Kevin Fleming Jr.",
@@ -2248,7 +2248,7 @@
     },
     {
       "room": 148,
-      "residents": [
+      "students": [
         "Carolyn Love",
         "Daniel Mendoza",
         "Matthew Bryant",
@@ -2260,7 +2260,7 @@
     },
     {
       "room": 149,
-      "residents": [
+      "students": [
         "Alexa Garner",
         "Anthony Cooper",
         "April Baldwin",
@@ -2276,7 +2276,7 @@
     },
     {
       "room": 150,
-      "residents": [
+      "students": [
         "Bradley Ramirez",
         "James Miller",
         "Michael Gray",
@@ -2287,7 +2287,7 @@
     },
     {
       "room": 151,
-      "residents": [
+      "students": [
         "Amy Fisher",
         "David Hatfield",
         "Frank Singh",
@@ -2304,7 +2304,7 @@
     },
     {
       "room": 152,
-      "residents": [
+      "students": [
         "Amy Lang",
         "David Hernandez",
         "Debra Gilbert",
@@ -2315,7 +2315,7 @@
     },
     {
       "room": 153,
-      "residents": [
+      "students": [
         "Angela Baker",
         "Harold Smith",
         "Helen Rodriguez",
@@ -2327,7 +2327,7 @@
     },
     {
       "room": 154,
-      "residents": [
+      "students": [
         "Brenda Moreno",
         "Kimberly Adams",
         "Rebecca Chavez"
@@ -2335,7 +2335,7 @@
     },
     {
       "room": 155,
-      "residents": [
+      "students": [
         "April Butler",
         "Chad Cunningham",
         "Christopher Shelton",
@@ -2358,7 +2358,7 @@
     },
     {
       "room": 156,
-      "residents": [
+      "students": [
         "Dr. Jorge Sullivan",
         "Emily Mcdonald",
         "Jason Baker",
@@ -2372,7 +2372,7 @@
     },
     {
       "room": 157,
-      "residents": [
+      "students": [
         "Brendan Parks",
         "David Duke",
         "Kristen Anderson",
@@ -2381,7 +2381,7 @@
     },
     {
       "room": 158,
-      "residents": [
+      "students": [
         "Barbara Deleon",
         "Chelsea Clark",
         "Daniel Johnson",
@@ -2393,7 +2393,7 @@
     },
     {
       "room": 159,
-      "residents": [
+      "students": [
         "Christopher Gray",
         "Craig Padilla",
         "Dakota Sweeney",
@@ -2405,7 +2405,7 @@
     },
     {
       "room": 160,
-      "residents": [
+      "students": [
         "Anthony Baker",
         "Barbara Richmond",
         "David Browning",
@@ -2420,7 +2420,7 @@
     },
     {
       "room": 161,
-      "residents": [
+      "students": [
         "Andrea Briggs",
         "Arthur May",
         "Brenda Maldonado",
@@ -2440,7 +2440,7 @@
     },
     {
       "room": 162,
-      "residents": [
+      "students": [
         "Angela Michael",
         "Bryan Marshall",
         "Crystal Rodriguez",
@@ -2455,7 +2455,7 @@
     },
     {
       "room": 163,
-      "residents": [
+      "students": [
         "Anne Yates",
         "Ashley Padilla",
         "Darren Anderson",
@@ -2468,7 +2468,7 @@
     },
     {
       "room": 164,
-      "residents": [
+      "students": [
         "Alec Howard",
         "Dennis Sanchez",
         "Gregory Lyons",
@@ -2481,7 +2481,7 @@
     },
     {
       "room": 165,
-      "residents": [
+      "students": [
         "Brianna Solis",
         "Brooke Nelson",
         "Bryan Larson",
@@ -2496,7 +2496,7 @@
     },
     {
       "room": 166,
-      "residents": [
+      "students": [
         "Andrea Neal",
         "Andrew Stevens",
         "David Reyes",
@@ -2510,7 +2510,7 @@
     },
     {
       "room": 167,
-      "residents": [
+      "students": [
         "Carla Chen",
         "Daniel Richardson",
         "Jared Hogan",
@@ -2522,7 +2522,7 @@
     },
     {
       "room": 168,
-      "residents": [
+      "students": [
         "Christine Mccoy",
         "Christopher Duran",
         "Erika Wilson",
@@ -2534,7 +2534,7 @@
     },
     {
       "room": 169,
-      "residents": [
+      "students": [
         "Amy Willis",
         "Jessica Jackson",
         "Julie Davis",
@@ -2553,7 +2553,7 @@
     },
     {
       "room": 170,
-      "residents": [
+      "students": [
         "George Wright",
         "Janet Jennings",
         "Jeffery Allen",
@@ -2565,7 +2565,7 @@
     },
     {
       "room": 171,
-      "residents": [
+      "students": [
         "Brendan Nelson",
         "Laura Moore",
         "Matthew Velez",
@@ -2576,7 +2576,7 @@
     },
     {
       "room": 172,
-      "residents": [
+      "students": [
         "Brooke Anderson",
         "Christine Brady",
         "Joshua Thompson",
@@ -2591,7 +2591,7 @@
     },
     {
       "room": 173,
-      "residents": [
+      "students": [
         "Adam Miranda",
         "Ashley Adams",
         "Ashley Peters",
@@ -2606,7 +2606,7 @@
     },
     {
       "room": 174,
-      "residents": [
+      "students": [
         "Angela Edwards",
         "Brittany Herrera",
         "Jared Garcia",
@@ -2622,7 +2622,7 @@
     },
     {
       "room": 175,
-      "residents": [
+      "students": [
         "Angela Bryant",
         "Angela Medina",
         "Brenda Smith",
@@ -2640,7 +2640,7 @@
     },
     {
       "room": 176,
-      "residents": [
+      "students": [
         "Craig Campbell",
         "Grace Gross",
         "Jennifer Carr",
@@ -2657,7 +2657,7 @@
     },
     {
       "room": 177,
-      "residents": [
+      "students": [
         "April Singleton",
         "Diana Ramos",
         "Jennifer Harrison",
@@ -2668,7 +2668,7 @@
     },
     {
       "room": 178,
-      "residents": [
+      "students": [
         "Alexis Martin",
         "David Avila",
         "Holly Nelson",
@@ -2677,7 +2677,7 @@
     },
     {
       "room": 179,
-      "residents": [
+      "students": [
         "Anna Mccoy",
         "Anthony Ware",
         "Debra Blair",
@@ -2692,7 +2692,7 @@
     },
     {
       "room": 180,
-      "residents": [
+      "students": [
         "Daniel Chapman",
         "Devin Schaefer",
         "Duane Lopez",
@@ -2705,7 +2705,7 @@
     },
     {
       "room": 181,
-      "residents": [
+      "students": [
         "Andrea Rogers",
         "Christopher Hernandez",
         "Jessica Frey",
@@ -2717,7 +2717,7 @@
     },
     {
       "room": 182,
-      "residents": [
+      "students": [
         "Aaron Roberts",
         "Andrew Olson",
         "Christopher Mendoza",
@@ -2728,7 +2728,7 @@
     },
     {
       "room": 183,
-      "residents": [
+      "students": [
         "Barry Garner",
         "Danielle Campbell",
         "Dillon Lang",
@@ -2740,7 +2740,7 @@
     },
     {
       "room": 184,
-      "residents": [
+      "students": [
         "Gina Rodriguez",
         "Ivan Franklin",
         "Jeffrey Gomez",
@@ -2751,7 +2751,7 @@
     },
     {
       "room": 185,
-      "residents": [
+      "students": [
         "Christina Woods",
         "Christopher Murphy",
         "Jeremy Atkinson",
@@ -2764,7 +2764,7 @@
     },
     {
       "room": 186,
-      "residents": [
+      "students": [
         "Cory Mcbride",
         "Cristina Beltran",
         "Hunter Turner",
@@ -2775,7 +2775,7 @@
     },
     {
       "room": 187,
-      "residents": [
+      "students": [
         "Breanna George",
         "Charles Jimenez",
         "Jennifer Green",
@@ -2794,7 +2794,7 @@
     },
     {
       "room": 188,
-      "residents": [
+      "students": [
         "Andrea Parks",
         "Catherine Novak",
         "Christina Henderson",
@@ -2811,7 +2811,7 @@
     },
     {
       "room": 189,
-      "residents": [
+      "students": [
         "Beth Taylor",
         "Cassandra Turner",
         "Chase Johnson",
@@ -2828,7 +2828,7 @@
     },
     {
       "room": 190,
-      "residents": [
+      "students": [
         "Amy Ritter MD",
         "Eric Herrera",
         "Faith Pena",
@@ -2842,7 +2842,7 @@
     },
     {
       "room": 191,
-      "residents": [
+      "students": [
         "Alexandra Martinez",
         "Craig Pope",
         "David Hardy",
@@ -2854,7 +2854,7 @@
     },
     {
       "room": 192,
-      "residents": [
+      "students": [
         "Cheryl Lawson",
         "Gregory Cobb",
         "Jennifer Mcknight",
@@ -2867,7 +2867,7 @@
     },
     {
       "room": 193,
-      "residents": [
+      "students": [
         "Angela Robinson",
         "Anthony Adams",
         "Daniel Woods",
@@ -2883,7 +2883,7 @@
     },
     {
       "room": 194,
-      "residents": [
+      "students": [
         "Amy Harris",
         "Brandon Gordon",
         "Dr. Andrew Mason",
@@ -2896,7 +2896,7 @@
     },
     {
       "room": 195,
-      "residents": [
+      "students": [
         "Abigail Jones",
         "Alyssa Mcgee",
         "Bradley Brown",
@@ -2915,7 +2915,7 @@
     },
     {
       "room": 196,
-      "residents": [
+      "students": [
         "Amanda Bell",
         "Benjamin Stephenson",
         "Elizabeth Reilly",
@@ -2933,7 +2933,7 @@
     },
     {
       "room": 197,
-      "residents": [
+      "students": [
         "Alexandra Lewis",
         "Amanda Moore",
         "Andrew Curry",
@@ -2957,7 +2957,7 @@
     },
     {
       "room": 198,
-      "residents": [
+      "students": [
         "Alexander Daniel",
         "Ashley Jones",
         "Ashley Kelly",
@@ -2975,7 +2975,7 @@
     },
     {
       "room": 199,
-      "residents": [
+      "students": [
         "Andre Wong",
         "Brandy Anderson",
         "Crystal Walsh",
@@ -2992,7 +2992,7 @@
     },
     {
       "room": 200,
-      "residents": [
+      "students": [
         "Alice Butler",
         "Anthony Mitchell",
         "Ashley Stephens",
@@ -3012,7 +3012,7 @@
     },
     {
       "room": 201,
-      "residents": [
+      "students": [
         "Christina Jordan",
         "Daniel Payne",
         "Danielle Stone",
@@ -3030,7 +3030,7 @@
     },
     {
       "room": 202,
-      "residents": [
+      "students": [
         "Angela Bowman",
         "James Pruitt",
         "Jennifer Tyler",
@@ -3043,7 +3043,7 @@
     },
     {
       "room": 203,
-      "residents": [
+      "students": [
         "Chelsea Huffman",
         "Christina Lawrence",
         "Christine Jackson",
@@ -3057,7 +3057,7 @@
     },
     {
       "room": 204,
-      "residents": [
+      "students": [
         "Betty Mitchell",
         "Jacob Alvarez",
         "Jose Deleon",
@@ -3071,7 +3071,7 @@
     },
     {
       "room": 205,
-      "residents": [
+      "students": [
         "Andrea Norris",
         "Charlene Salazar",
         "Courtney Spencer",
@@ -3092,7 +3092,7 @@
     },
     {
       "room": 206,
-      "residents": [
+      "students": [
         "Bruce Mccarthy",
         "Bryan Jensen",
         "Jessica Green",
@@ -3103,7 +3103,7 @@
     },
     {
       "room": 207,
-      "residents": [
+      "students": [
         "Amy Roy",
         "Erin Smith",
         "Gabrielle Collins",
@@ -3119,7 +3119,7 @@
     },
     {
       "room": 208,
-      "residents": [
+      "students": [
         "Alicia Swanson",
         "Ann Garcia",
         "Jennifer George",
@@ -3134,7 +3134,7 @@
     },
     {
       "room": 209,
-      "residents": [
+      "students": [
         "Brad Smith",
         "Daniel Herrera",
         "Erin Miller",
@@ -3155,7 +3155,7 @@
     },
     {
       "room": 210,
-      "residents": [
+      "students": [
         "Allison Schwartz",
         "Christine Gutierrez",
         "David Munoz",
@@ -3169,7 +3169,7 @@
     },
     {
       "room": 211,
-      "residents": [
+      "students": [
         "Christian Rangel",
         "James Rodriguez",
         "Johnny Salas",
@@ -3183,7 +3183,7 @@
     },
     {
       "room": 212,
-      "residents": [
+      "students": [
         "Allen Roberts",
         "Andrea Obrien",
         "Brandon Murray",
@@ -3196,7 +3196,7 @@
     },
     {
       "room": 213,
-      "residents": [
+      "students": [
         "Andrea Estes",
         "Arthur Johnson",
         "Ashley Cooley",
@@ -3213,7 +3213,7 @@
     },
     {
       "room": 214,
-      "residents": [
+      "students": [
         "Austin English",
         "Bryce Cobb",
         "Courtney Wade",
@@ -3232,7 +3232,7 @@
     },
     {
       "room": 215,
-      "residents": [
+      "students": [
         "Alexis Bishop",
         "Dr. Rhonda Hamilton",
         "Erik Hughes",
@@ -3247,7 +3247,7 @@
     },
     {
       "room": 216,
-      "residents": [
+      "students": [
         "Ashley Rivera",
         "Barry Weaver",
         "Brian Moore",
@@ -3258,7 +3258,7 @@
     },
     {
       "room": 217,
-      "residents": [
+      "students": [
         "Andrea Guerrero",
         "Brandon Moore",
         "Christopher Long",
@@ -3277,7 +3277,7 @@
     },
     {
       "room": 218,
-      "residents": [
+      "students": [
         "Karen Alexander",
         "Kimberly Cole",
         "Matthew Morgan",
@@ -3290,7 +3290,7 @@
     },
     {
       "room": 219,
-      "residents": [
+      "students": [
         "Brandon James",
         "Brandy Conway",
         "Daniel Larson",
@@ -3301,7 +3301,7 @@
     },
     {
       "room": 220,
-      "residents": [
+      "students": [
         "Alan Watson",
         "Amy Williams",
         "Anthony Higgins",
@@ -3316,7 +3316,7 @@
     },
     {
       "room": 221,
-      "residents": [
+      "students": [
         "Charles Moore",
         "Dr. Shelby Shepherd DDS",
         "Frank Matthews",
@@ -3333,7 +3333,7 @@
     },
     {
       "room": 222,
-      "residents": [
+      "students": [
         "Christopher Shannon",
         "Donald Little",
         "Hannah Lopez",
@@ -3347,7 +3347,7 @@
     },
     {
       "room": 223,
-      "residents": [
+      "students": [
         "Elizabeth Terrell",
         "Micheal Schneider",
         "Robert Huynh",
@@ -3358,7 +3358,7 @@
     },
     {
       "room": 224,
-      "residents": [
+      "students": [
         "Alison Hull",
         "Anthony Cole",
         "Carl Woods",
@@ -3370,7 +3370,7 @@
     },
     {
       "room": 225,
-      "residents": [
+      "students": [
         "Amber Owen",
         "Amy Collins",
         "Christopher Gentry",
@@ -3389,7 +3389,7 @@
     },
     {
       "room": 226,
-      "residents": [
+      "students": [
         "Charles Martinez",
         "Christopher Burton",
         "Julie Church",
@@ -3402,7 +3402,7 @@
     },
     {
       "room": 227,
-      "residents": [
+      "students": [
         "Allison Cortez",
         "Brenda Beasley",
         "Christopher Huerta",
@@ -3418,7 +3418,7 @@
     },
     {
       "room": 228,
-      "residents": [
+      "students": [
         "Cassandra Choi",
         "David Lin",
         "Edwin Stone",
@@ -3432,7 +3432,7 @@
     },
     {
       "room": 229,
-      "residents": [
+      "students": [
         "Betty Bell",
         "David Kelly",
         "Edward Thomas",
@@ -3444,7 +3444,7 @@
     },
     {
       "room": 230,
-      "residents": [
+      "students": [
         "Billy Flores",
         "Chloe Macdonald",
         "David French",
@@ -3459,7 +3459,7 @@
     },
     {
       "room": 231,
-      "residents": [
+      "students": [
         "Belinda Olson",
         "Brian Savage",
         "Chad Owen",
@@ -3475,7 +3475,7 @@
     },
     {
       "room": 232,
-      "residents": [
+      "students": [
         "Daniel Andrews",
         "Daniel Morris",
         "John Boyd",
@@ -3488,7 +3488,7 @@
     },
     {
       "room": 233,
-      "residents": [
+      "students": [
         "Albert Carr",
         "Christopher Baker",
         "David Meyer",
@@ -3504,7 +3504,7 @@
     },
     {
       "room": 234,
-      "residents": [
+      "students": [
         "Alyssa Berg",
         "Brandon White",
         "Crystal Boyd",
@@ -3520,7 +3520,7 @@
     },
     {
       "room": 235,
-      "residents": [
+      "students": [
         "Amber Harris",
         "Brandi Hardin",
         "Brian Webb",
@@ -3536,7 +3536,7 @@
     },
     {
       "room": 236,
-      "residents": [
+      "students": [
         "Aaron Burns",
         "Brenda Taylor",
         "Candice Moreno",
@@ -3551,7 +3551,7 @@
     },
     {
       "room": 237,
-      "residents": [
+      "students": [
         "Allison Mitchell",
         "Andrea Black",
         "Bryce Johnson",
@@ -3572,7 +3572,7 @@
     },
     {
       "room": 238,
-      "residents": [
+      "students": [
         "Carla King",
         "Christian Holden",
         "David Watts",
@@ -3589,7 +3589,7 @@
     },
     {
       "room": 239,
-      "residents": [
+      "students": [
         "Billy Valdez",
         "Dylan Lindsey",
         "Hector Huff",
@@ -3604,7 +3604,7 @@
     },
     {
       "room": 240,
-      "residents": [
+      "students": [
         "Adam Chase",
         "Adam Hernandez",
         "Angela Miller",
@@ -3621,7 +3621,7 @@
     },
     {
       "room": 241,
-      "residents": [
+      "students": [
         "Blake Roman",
         "Elizabeth Acevedo",
         "Eric Brown",
@@ -3636,7 +3636,7 @@
     },
     {
       "room": 242,
-      "residents": [
+      "students": [
         "Becky Frost",
         "Brenda Kelley",
         "Christian Gray",
@@ -3654,7 +3654,7 @@
     },
     {
       "room": 243,
-      "residents": [
+      "students": [
         "Brian Gonzales",
         "Brian Porter",
         "Christopher Jackson",
@@ -3668,7 +3668,7 @@
     },
     {
       "room": 244,
-      "residents": [
+      "students": [
         "Amanda Wood",
         "Amy Gordon",
         "Andre Watts",
@@ -3683,7 +3683,7 @@
     },
     {
       "room": 245,
-      "residents": [
+      "students": [
         "Angelica Martin",
         "Daniel Sanchez",
         "Debra Coleman",
@@ -3698,7 +3698,7 @@
     },
     {
       "room": 246,
-      "residents": [
+      "students": [
         "Michael Thomas",
         "Molly Moss",
         "Monica Gomez",
@@ -3708,7 +3708,7 @@
     },
     {
       "room": 247,
-      "residents": [
+      "students": [
         "Brandon Russo",
         "Christopher Miller",
         "David Hopkins",
@@ -3725,7 +3725,7 @@
     },
     {
       "room": 248,
-      "residents": [
+      "students": [
         "April Elliott MD",
         "Carrie Hardy",
         "Cassandra Williams",
@@ -3738,7 +3738,7 @@
     },
     {
       "room": 249,
-      "residents": [
+      "students": [
         "Amanda Taylor",
         "Andrew Carter",
         "Darryl Anderson",
@@ -3755,7 +3755,7 @@
     },
     {
       "room": 250,
-      "residents": [
+      "students": [
         "Alicia Robinson",
         "Charles Tate",
         "Christopher Morris",
@@ -3772,7 +3772,7 @@
     },
     {
       "room": 251,
-      "residents": [
+      "students": [
         "Charles Barker",
         "Danielle Griffith",
         "Grace Crawford",
@@ -3785,7 +3785,7 @@
     },
     {
       "room": 252,
-      "residents": [
+      "students": [
         "Alexandra Cabrera",
         "Anna Fuller",
         "Christopher Young",
@@ -3801,7 +3801,7 @@
     },
     {
       "room": 253,
-      "residents": [
+      "students": [
         "Danielle Wang",
         "Denise Hunt",
         "Felicia Jones",
@@ -3819,7 +3819,7 @@
     },
     {
       "room": 254,
-      "residents": [
+      "students": [
         "Cynthia Castro",
         "Daniel Johnson",
         "Darlene Campbell",
@@ -3832,7 +3832,7 @@
     },
     {
       "room": 255,
-      "residents": [
+      "students": [
         "Allison Shepherd",
         "Daniel Hoover",
         "Dr. Eileen Wagner PhD",
@@ -3843,7 +3843,7 @@
     },
     {
       "room": 256,
-      "residents": [
+      "students": [
         "Diane Horton",
         "James Davis",
         "Joseph Johnson",
@@ -3859,7 +3859,7 @@
     },
     {
       "room": 257,
-      "residents": [
+      "students": [
         "Alexander Burton",
         "Beverly Short",
         "Desiree Wallace",
@@ -3872,7 +3872,7 @@
     },
     {
       "room": 258,
-      "residents": [
+      "students": [
         "Adam Davis",
         "Alexander Diaz",
         "Brian Meyers",
@@ -3885,7 +3885,7 @@
     },
     {
       "room": 259,
-      "residents": [
+      "students": [
         "Amanda Elliott",
         "Cathy Bailey",
         "Chad Thomas",
@@ -3904,7 +3904,7 @@
     },
     {
       "room": 260,
-      "residents": [
+      "students": [
         "Diane Perry",
         "Jennifer Henderson",
         "John Duncan",
@@ -3921,7 +3921,7 @@
     },
     {
       "room": 261,
-      "residents": [
+      "students": [
         "Abigail Smith",
         "Bryan Mays",
         "David Black",
@@ -3933,7 +3933,7 @@
     },
     {
       "room": 262,
-      "residents": [
+      "students": [
         "Hayley Pacheco",
         "Jennifer Robertson",
         "John Johnson",
@@ -3946,7 +3946,7 @@
     },
     {
       "room": 263,
-      "residents": [
+      "students": [
         "Anthony Morales",
         "Emily Nunez",
         "Eric Cox",
@@ -3960,7 +3960,7 @@
     },
     {
       "room": 264,
-      "residents": [
+      "students": [
         "Andrew Stevens",
         "Angel Schneider MD",
         "Janice Bradley",
@@ -3972,7 +3972,7 @@
     },
     {
       "room": 265,
-      "residents": [
+      "students": [
         "Alison Thornton",
         "Benjamin Lee",
         "Brandon Ortiz",
@@ -3991,7 +3991,7 @@
     },
     {
       "room": 266,
-      "residents": [
+      "students": [
         "Barbara Jordan",
         "Brian Robertson",
         "David Dawson",
@@ -4009,7 +4009,7 @@
     },
     {
       "room": 267,
-      "residents": [
+      "students": [
         "Charles Woods",
         "Karen Jones",
         "Karen Webb",
@@ -4021,7 +4021,7 @@
     },
     {
       "room": 268,
-      "residents": [
+      "students": [
         "Alejandro Harrell",
         "Alicia Morales",
         "Benjamin Becker",
@@ -4041,7 +4041,7 @@
     },
     {
       "room": 269,
-      "residents": [
+      "students": [
         "Carmen Blackburn",
         "Deborah Bowen",
         "Derek Mathews",
@@ -4056,7 +4056,7 @@
     },
     {
       "room": 270,
-      "residents": [
+      "students": [
         "Amy Fields",
         "Bryan Walker",
         "Christina Anderson",
@@ -4071,7 +4071,7 @@
     },
     {
       "room": 271,
-      "residents": [
+      "students": [
         "Angelica Paul",
         "Chase Miller",
         "Chelsea Davis",
@@ -4087,7 +4087,7 @@
     },
     {
       "room": 272,
-      "residents": [
+      "students": [
         "Alison Garcia",
         "Amber Garcia",
         "Anna Welch",
@@ -4100,7 +4100,7 @@
     },
     {
       "room": 273,
-      "residents": [
+      "students": [
         "Brenda Gutierrez",
         "Carrie Perkins",
         "Derek Ray",
@@ -4114,7 +4114,7 @@
     },
     {
       "room": 274,
-      "residents": [
+      "students": [
         "Dean Bradley",
         "Dr. Victoria Austin",
         "Elizabeth Bell",
@@ -4129,7 +4129,7 @@
     },
     {
       "room": 275,
-      "residents": [
+      "students": [
         "Anna Hunter",
         "Dr. Jessica Anderson MD",
         "Jessica Watkins",
@@ -4146,7 +4146,7 @@
     },
     {
       "room": 276,
-      "residents": [
+      "students": [
         "Angela Simmons",
         "Brittany White",
         "Joseph Davis",
@@ -4161,7 +4161,7 @@
     },
     {
       "room": 277,
-      "residents": [
+      "students": [
         "Andre Martinez",
         "Andrea Silva",
         "Brett Ruiz",
@@ -4176,7 +4176,7 @@
     },
     {
       "room": 278,
-      "residents": [
+      "students": [
         "Barbara Patterson",
         "Daniel Kelley",
         "James Barnes",
@@ -4190,7 +4190,7 @@
     },
     {
       "room": 279,
-      "residents": [
+      "students": [
         "Arthur Romero",
         "Brian Jones",
         "John Phillips",
@@ -4205,7 +4205,7 @@
     },
     {
       "room": 280,
-      "residents": [
+      "students": [
         "Austin Spencer",
         "Christopher Mcguire",
         "David Lewis",
@@ -4221,7 +4221,7 @@
     },
     {
       "room": 281,
-      "residents": [
+      "students": [
         "Cynthia Kelly",
         "Gary Fernandez",
         "Jennifer Cooper",
@@ -4234,7 +4234,7 @@
     },
     {
       "room": 282,
-      "residents": [
+      "students": [
         "Audrey Smith",
         "Christopher Walsh",
         "Danielle Mitchell",
@@ -4249,7 +4249,7 @@
     },
     {
       "room": 283,
-      "residents": [
+      "students": [
         "Amanda Bailey",
         "Anthony Bailey",
         "Brittany Hawkins",
@@ -4261,7 +4261,7 @@
     },
     {
       "room": 284,
-      "residents": [
+      "students": [
         "Jared Hughes",
         "Jessica Francis",
         "Joseph White",
@@ -4277,7 +4277,7 @@
     },
     {
       "room": 285,
-      "residents": [
+      "students": [
         "Cathy Blake",
         "Christina Edwards",
         "Christopher Robinson",
@@ -4292,7 +4292,7 @@
     },
     {
       "room": 286,
-      "residents": [
+      "students": [
         "Heather Gonzalez",
         "Jeremy Green",
         "John Jenkins",
@@ -4303,7 +4303,7 @@
     },
     {
       "room": 287,
-      "residents": [
+      "students": [
         "Anthony Weaver",
         "Brian Gates",
         "Diana Sutton",
@@ -4320,7 +4320,7 @@
     },
     {
       "room": 288,
-      "residents": [
+      "students": [
         "Andrea Riley",
         "David Rivas",
         "Erica Richards",
@@ -4334,7 +4334,7 @@
     },
     {
       "room": 289,
-      "residents": [
+      "students": [
         "Amanda Rose",
         "Andrea Gonzalez",
         "Beth Ruiz",
@@ -4354,7 +4354,7 @@
     },
     {
       "room": 290,
-      "residents": [
+      "students": [
         "Angela Singleton",
         "Brittany Scott",
         "Isabel Cardenas",
@@ -4368,7 +4368,7 @@
     },
     {
       "room": 291,
-      "residents": [
+      "students": [
         "Caitlin Cox",
         "Dana Flowers",
         "Daniel Hays",
@@ -4383,7 +4383,7 @@
     },
     {
       "room": 292,
-      "residents": [
+      "students": [
         "Adriana Gibson",
         "Bryce Carr",
         "Carmen Lewis",
@@ -4398,7 +4398,7 @@
     },
     {
       "room": 293,
-      "residents": [
+      "students": [
         "Andrew Hubbard",
         "Ashley Williams",
         "David Smith",
@@ -4415,7 +4415,7 @@
     },
     {
       "room": 294,
-      "residents": [
+      "students": [
         "Amber Patterson",
         "Austin Robinson",
         "Brandi Wong",
@@ -4431,7 +4431,7 @@
     },
     {
       "room": 295,
-      "residents": [
+      "students": [
         "Andrew White",
         "Anne Adams",
         "Brianna Brown",
@@ -4444,7 +4444,7 @@
     },
     {
       "room": 296,
-      "residents": [
+      "students": [
         "Bob Jensen",
         "Crystal Gilbert",
         "Dawn Robinson",
@@ -4457,7 +4457,7 @@
     },
     {
       "room": 297,
-      "residents": [
+      "students": [
         "Alexis Evans",
         "Ashlee Jenkins",
         "Ashley Alvarado",
@@ -4475,7 +4475,7 @@
     },
     {
       "room": 298,
-      "residents": [
+      "students": [
         "Alexandria Santiago",
         "Danielle Dickerson",
         "Heather Gonzalez DDS",
@@ -4489,7 +4489,7 @@
     },
     {
       "room": 299,
-      "residents": [
+      "students": [
         "Alyssa Dalton",
         "Brittany Melton",
         "David Baldwin",
@@ -4502,7 +4502,7 @@
     },
     {
       "room": 300,
-      "residents": [
+      "students": [
         "Andrew English",
         "Brittney Wells",
         "John Vaughan",
@@ -4519,7 +4519,7 @@
     },
     {
       "room": 301,
-      "residents": [
+      "students": [
         "Alexis Kennedy",
         "Alexis Matthews",
         "David Singh",
@@ -4534,7 +4534,7 @@
     },
     {
       "room": 302,
-      "residents": [
+      "students": [
         "Ashley Lopez",
         "Brittany Carpenter",
         "Bruce Turner",
@@ -4547,7 +4547,7 @@
     },
     {
       "room": 303,
-      "residents": [
+      "students": [
         "Brandon Willis",
         "Brent Flores",
         "Dr. Paul Clayton",
@@ -4561,7 +4561,7 @@
     },
     {
       "room": 304,
-      "residents": [
+      "students": [
         "Amber Rodriguez",
         "Brian Moore",
         "Christopher Parker",
@@ -4577,7 +4577,7 @@
     },
     {
       "room": 305,
-      "residents": [
+      "students": [
         "Albert Banks",
         "Austin Gomez",
         "Bryan Allen",
@@ -4596,7 +4596,7 @@
     },
     {
       "room": 306,
-      "residents": [
+      "students": [
         "Alex Hernandez",
         "Anthony Chandler",
         "Ashley Collins",
@@ -4611,7 +4611,7 @@
     },
     {
       "room": 307,
-      "residents": [
+      "students": [
         "Amanda Harris",
         "Amanda Mack",
         "Andrew Mcdaniel",
@@ -4626,7 +4626,7 @@
     },
     {
       "room": 308,
-      "residents": [
+      "students": [
         "Brittany Smith",
         "Desiree Martinez",
         "Janet Duarte",
@@ -4641,7 +4641,7 @@
     },
     {
       "room": 309,
-      "residents": [
+      "students": [
         "Amanda Jensen",
         "Ashley James",
         "Douglas Jones",
@@ -4653,7 +4653,7 @@
     },
     {
       "room": 310,
-      "residents": [
+      "students": [
         "Antonio Dorsey",
         "Ashlee Joseph",
         "Brandon Baker",
@@ -4668,7 +4668,7 @@
     },
     {
       "room": 311,
-      "residents": [
+      "students": [
         "Abigail Ramos",
         "Barbara Parks",
         "Betty Shannon",
@@ -4687,7 +4687,7 @@
     },
     {
       "room": 312,
-      "residents": [
+      "students": [
         "Christian Brown",
         "Christina Farley",
         "Daniel Wade",
@@ -4703,7 +4703,7 @@
     },
     {
       "room": 313,
-      "residents": [
+      "students": [
         "Alexis Allen",
         "Caleb Ward",
         "Cheryl Duffy",
@@ -4716,7 +4716,7 @@
     },
     {
       "room": 314,
-      "residents": [
+      "students": [
         "Candice Rice DDS",
         "Daniel Clay",
         "Daniel Collier",
@@ -4732,7 +4732,7 @@
     },
     {
       "room": 315,
-      "residents": [
+      "students": [
         "Alex Garcia",
         "April Flores",
         "Christopher Evans",
@@ -4747,7 +4747,7 @@
     },
     {
       "room": 316,
-      "residents": [
+      "students": [
         "Brenda Warren",
         "Derek Kirk",
         "Desiree Ruiz",
@@ -4763,7 +4763,7 @@
     },
     {
       "room": 317,
-      "residents": [
+      "students": [
         "Allison Malone",
         "Angela Miller",
         "Bradley Arnold",
@@ -4782,7 +4782,7 @@
     },
     {
       "room": 318,
-      "residents": [
+      "students": [
         "Alicia Brown",
         "Amanda Meyer",
         "Arthur Graham",
@@ -4802,7 +4802,7 @@
     },
     {
       "room": 319,
-      "residents": [
+      "students": [
         "Alexandra Richards",
         "Anthony Rivers",
         "Collin Henderson",
@@ -4818,7 +4818,7 @@
     },
     {
       "room": 320,
-      "residents": [
+      "students": [
         "Cody Buchanan",
         "Cory Harvey",
         "Laura Jones",
@@ -4830,7 +4830,7 @@
     },
     {
       "room": 321,
-      "residents": [
+      "students": [
         "Angela Lawrence",
         "Carol Anthony",
         "Diane Montgomery",
@@ -4848,7 +4848,7 @@
     },
     {
       "room": 322,
-      "residents": [
+      "students": [
         "David Hunt",
         "Heidi Thomas",
         "Janice Brown",
@@ -4862,7 +4862,7 @@
     },
     {
       "room": 323,
-      "residents": [
+      "students": [
         "Adam Dickerson",
         "Alison Lee",
         "Andrea Franco",
@@ -4880,7 +4880,7 @@
     },
     {
       "room": 324,
-      "residents": [
+      "students": [
         "Anthony Duke",
         "David Myers",
         "Emily Gray",
@@ -4891,7 +4891,7 @@
     },
     {
       "room": 325,
-      "residents": [
+      "students": [
         "Daniel Cooper",
         "Daniel Parker",
         "Kevin Conway",
@@ -4902,7 +4902,7 @@
     },
     {
       "room": 326,
-      "residents": [
+      "students": [
         "Alexis Solomon",
         "Amy Patton",
         "Becky Rowland",
@@ -4925,7 +4925,7 @@
     },
     {
       "room": 327,
-      "residents": [
+      "students": [
         "Aaron Velez",
         "Amy Davis",
         "Christopher Campbell",
@@ -4938,7 +4938,7 @@
     },
     {
       "room": 328,
-      "residents": [
+      "students": [
         "Belinda Mcdonald",
         "Dennis Jackson",
         "Elaine Wilkerson",
@@ -4959,7 +4959,7 @@
     },
     {
       "room": 329,
-      "residents": [
+      "students": [
         "Cody Barnes",
         "Daniel Dawson",
         "Dawn Kemp",
@@ -4974,7 +4974,7 @@
     },
     {
       "room": 330,
-      "residents": [
+      "students": [
         "Carrie Coleman",
         "Christopher Hanson",
         "Ernest Shannon",
@@ -4990,7 +4990,7 @@
     },
     {
       "room": 331,
-      "residents": [
+      "students": [
         "Alex Ferguson",
         "Amy Arnold",
         "Andrea Powell",
@@ -5007,7 +5007,7 @@
     },
     {
       "room": 332,
-      "residents": [
+      "students": [
         "Emily Villegas",
         "Eric Payne",
         "Jason Taylor",
@@ -5023,7 +5023,7 @@
     },
     {
       "room": 333,
-      "residents": [
+      "students": [
         "Adam Case",
         "Emily Richard",
         "Kevin Watson",
@@ -5033,7 +5033,7 @@
     },
     {
       "room": 334,
-      "residents": [
+      "students": [
         "Alyssa Bryant",
         "Annette Johnson",
         "Christopher Barber",
@@ -5048,7 +5048,7 @@
     },
     {
       "room": 335,
-      "residents": [
+      "students": [
         "Brandon Smith",
         "Casey Vincent",
         "Jane Hawkins",
@@ -5061,7 +5061,7 @@
     },
     {
       "room": 336,
-      "residents": [
+      "students": [
         "Alicia Harding",
         "Anita Gutierrez",
         "Anne Lutz",
@@ -5077,7 +5077,7 @@
     },
     {
       "room": 337,
-      "residents": [
+      "students": [
         "Brian Herman",
         "Craig Warner",
         "James Horne",
@@ -5093,7 +5093,7 @@
     },
     {
       "room": 338,
-      "residents": [
+      "students": [
         "Amanda Bell",
         "Angel Elliott",
         "Anthony Chambers",
@@ -5109,7 +5109,7 @@
     },
     {
       "room": 339,
-      "residents": [
+      "students": [
         "Anthony Carson",
         "Benjamin Duran",
         "Cassidy Navarro",
@@ -5122,7 +5122,7 @@
     },
     {
       "room": 340,
-      "residents": [
+      "students": [
         "Angela Munoz",
         "Kelly Simon",
         "Kimberly Kemp",
@@ -5134,7 +5134,7 @@
     },
     {
       "room": 341,
-      "residents": [
+      "students": [
         "Amy Patterson",
         "Jennifer Hicks",
         "Jennifer Moreno",
@@ -5148,7 +5148,7 @@
     },
     {
       "room": 342,
-      "residents": [
+      "students": [
         "Danielle Miranda",
         "Denise Conway",
         "Elizabeth Williams DVM",
@@ -5167,7 +5167,7 @@
     },
     {
       "room": 343,
-      "residents": [
+      "students": [
         "Carol Smith",
         "Charles Lynch PhD",
         "Jeffrey Hall",
@@ -5186,7 +5186,7 @@
     },
     {
       "room": 344,
-      "residents": [
+      "students": [
         "Andrew Howard",
         "Barbara Franco",
         "Brandy Jensen",
@@ -5204,7 +5204,7 @@
     },
     {
       "room": 345,
-      "residents": [
+      "students": [
         "Collin Bowen",
         "Glenn Werner",
         "Kelly Camacho",
@@ -5213,7 +5213,7 @@
     },
     {
       "room": 346,
-      "residents": [
+      "students": [
         "Allen Armstrong",
         "Gina Hernandez",
         "Heidi Soto",
@@ -5228,7 +5228,7 @@
     },
     {
       "room": 347,
-      "residents": [
+      "students": [
         "Anthony Meadows",
         "Danny Williams",
         "George Owens",
@@ -5245,7 +5245,7 @@
     },
     {
       "room": 348,
-      "residents": [
+      "students": [
         "Brandon Dougherty",
         "Brittney Hood",
         "Cody Santana",
@@ -5262,7 +5262,7 @@
     },
     {
       "room": 349,
-      "residents": [
+      "students": [
         "Amy Torres",
         "Angela Brown",
         "Evan Brooks",
@@ -5275,7 +5275,7 @@
     },
     {
       "room": 350,
-      "residents": [
+      "students": [
         "Beth Greene",
         "Bradley Long",
         "Diana Singleton",
@@ -5291,7 +5291,7 @@
     },
     {
       "room": 351,
-      "residents": [
+      "students": [
         "Chase Kidd",
         "Chase Patrick",
         "James Nguyen",
@@ -5302,7 +5302,7 @@
     },
     {
       "room": 352,
-      "residents": [
+      "students": [
         "Cheryl Obrien",
         "Joseph Vaughn",
         "Kayla Jones",
@@ -5315,7 +5315,7 @@
     },
     {
       "room": 353,
-      "residents": [
+      "students": [
         "Adam Cooper",
         "Elizabeth Fritz",
         "Jennifer York",
@@ -5324,7 +5324,7 @@
     },
     {
       "room": 354,
-      "residents": [
+      "students": [
         "Caitlin Mills",
         "Carmen Shields",
         "Erik Reeves",
@@ -5335,7 +5335,7 @@
     },
     {
       "room": 355,
-      "residents": [
+      "students": [
         "Cindy Lam",
         "Cynthia English",
         "Emily King",
@@ -5356,7 +5356,7 @@
     },
     {
       "room": 356,
-      "residents": [
+      "students": [
         "Brooke Miller",
         "Bruce Rivera",
         "Christina Davis",
@@ -5377,7 +5377,7 @@
     },
     {
       "room": 357,
-      "residents": [
+      "students": [
         "Amanda Ward",
         "Arthur Porter",
         "Chad Franklin",
@@ -5398,7 +5398,7 @@
     },
     {
       "room": 358,
-      "residents": [
+      "students": [
         "Cody Hickman",
         "Desiree Turner MD",
         "Jason Smith",
@@ -5414,7 +5414,7 @@
     },
     {
       "room": 359,
-      "residents": [
+      "students": [
         "Alexa Gomez",
         "Brittany Martinez",
         "Cathy Carr",
@@ -5437,7 +5437,7 @@
     },
     {
       "room": 360,
-      "residents": [
+      "students": [
         "Amy Ramirez",
         "Barbara Prince MD",
         "Beverly Morgan",
@@ -5450,7 +5450,7 @@
     },
     {
       "room": 361,
-      "residents": [
+      "students": [
         "Christopher Young",
         "Karen Hill",
         "Karen Wang",
@@ -5461,7 +5461,7 @@
     },
     {
       "room": 362,
-      "residents": [
+      "students": [
         "Dr. Seth Robinson",
         "Jonathan Williams",
         "Lee Powers",
@@ -5476,7 +5476,7 @@
     },
     {
       "room": 363,
-      "residents": [
+      "students": [
         "Brian Steele",
         "Gregory Huerta",
         "Lacey Roberts",
@@ -5488,7 +5488,7 @@
     },
     {
       "room": 364,
-      "residents": [
+      "students": [
         "Alexis Vaughn",
         "Charles Sparks",
         "Gina Garcia",
@@ -5501,7 +5501,7 @@
     },
     {
       "room": 365,
-      "residents": [
+      "students": [
         "Christopher Brown",
         "Christopher Hernandez",
         "Cindy Mckee",
@@ -5520,7 +5520,7 @@
     },
     {
       "room": 366,
-      "residents": [
+      "students": [
         "Amber Weber",
         "Ann Mason",
         "Ashley Gonzalez",
@@ -5540,7 +5540,7 @@
     },
     {
       "room": 367,
-      "residents": [
+      "students": [
         "Amanda Robinson",
         "Catherine Zimmerman",
         "Evan Jones",
@@ -5556,7 +5556,7 @@
     },
     {
       "room": 368,
-      "residents": [
+      "students": [
         "Christopher Powell",
         "Dennis Williams",
         "Emily Miller",
@@ -5574,7 +5574,7 @@
     },
     {
       "room": 369,
-      "residents": [
+      "students": [
         "Amy Parker",
         "Andrea Francis",
         "Brian Hill",
@@ -5592,7 +5592,7 @@
     },
     {
       "room": 370,
-      "residents": [
+      "students": [
         "Alexis Hernandez",
         "Cory Carpenter",
         "Elizabeth Campbell",
@@ -5607,7 +5607,7 @@
     },
     {
       "room": 371,
-      "residents": [
+      "students": [
         "Angela Fletcher",
         "Angie Wright",
         "Anthony Figueroa",
@@ -5626,7 +5626,7 @@
     },
     {
       "room": 372,
-      "residents": [
+      "students": [
         "Amber Villarreal",
         "Brooke Wells",
         "Carlos Mendoza",
@@ -5638,7 +5638,7 @@
     },
     {
       "room": 373,
-      "residents": [
+      "students": [
         "Alex Flores",
         "Angela Murphy",
         "Angela Smith",
@@ -5659,7 +5659,7 @@
     },
     {
       "room": 374,
-      "residents": [
+      "students": [
         "Brian Mckinney",
         "Brittany Stokes",
         "Danielle Rivas",
@@ -5673,7 +5673,7 @@
     },
     {
       "room": 375,
-      "residents": [
+      "students": [
         "Alan Lee",
         "Gabrielle Collins",
         "John Scott",
@@ -5686,7 +5686,7 @@
     },
     {
       "room": 376,
-      "residents": [
+      "students": [
         "Becky Snow",
         "Donald Martinez",
         "Joann Miller",
@@ -5702,7 +5702,7 @@
     },
     {
       "room": 377,
-      "residents": [
+      "students": [
         "Amanda Harris",
         "Benjamin Parks",
         "Curtis Jordan",
@@ -5715,7 +5715,7 @@
     },
     {
       "room": 378,
-      "residents": [
+      "students": [
         "Bruce Vargas",
         "Christopher Thompson",
         "Emily Horne",
@@ -5731,7 +5731,7 @@
     },
     {
       "room": 379,
-      "residents": [
+      "students": [
         "Angela Reyes",
         "Emily Gentry",
         "Joseph Calhoun",
@@ -5748,7 +5748,7 @@
     },
     {
       "room": 380,
-      "residents": [
+      "students": [
         "Adam Collins",
         "Andrew Tran",
         "Christine Perez",
@@ -5761,7 +5761,7 @@
     },
     {
       "room": 381,
-      "residents": [
+      "students": [
         "Brian Bowers",
         "Caitlyn Hayes",
         "Christina Chavez",
@@ -5777,7 +5777,7 @@
     },
     {
       "room": 382,
-      "residents": [
+      "students": [
         "Amy Roberts",
         "James Greene",
         "Jamie Mack",
@@ -5787,7 +5787,7 @@
     },
     {
       "room": 383,
-      "residents": [
+      "students": [
         "Brittany Phillips",
         "Katherine Reed",
         "Larry Bradley",
@@ -5797,7 +5797,7 @@
     },
     {
       "room": 384,
-      "residents": [
+      "students": [
         "Christina Wilson",
         "Craig Hayes",
         "Deborah Mahoney",
@@ -5809,7 +5809,7 @@
     },
     {
       "room": 385,
-      "residents": [
+      "students": [
         "Austin Rogers",
         "Bryan Harris",
         "Gregory Graham",
@@ -5825,7 +5825,7 @@
     },
     {
       "room": 386,
-      "residents": [
+      "students": [
         "Anthony Hall",
         "Ashley Spencer",
         "Briana Travis",
@@ -5841,7 +5841,7 @@
     },
     {
       "room": 387,
-      "residents": [
+      "students": [
         "Christopher Perez",
         "Erica Perkins",
         "Linda Bond",
@@ -5856,7 +5856,7 @@
     },
     {
       "room": 388,
-      "residents": [
+      "students": [
         "Amber Beard",
         "Andrea Good",
         "Daniel Davis",
@@ -5870,7 +5870,7 @@
     },
     {
       "room": 389,
-      "residents": [
+      "students": [
         "Christine Deleon",
         "Darren Jones",
         "Jeanette Nelson",
@@ -5884,7 +5884,7 @@
     },
     {
       "room": 390,
-      "residents": [
+      "students": [
         "Alexander David",
         "Alexander Gay",
         "Angela Adams",
@@ -5904,7 +5904,7 @@
     },
     {
       "room": 391,
-      "residents": [
+      "students": [
         "Angela Harris",
         "Charles Graham",
         "Connor Wilson",
@@ -5919,7 +5919,7 @@
     },
     {
       "room": 392,
-      "residents": [
+      "students": [
         "Amanda Mccormick",
         "Crystal Klein",
         "Ellen Salazar",
@@ -5942,7 +5942,7 @@
     },
     {
       "room": 393,
-      "residents": [
+      "students": [
         "Christina Anderson",
         "Desiree Guzman",
         "Elizabeth Wang",
@@ -5955,7 +5955,7 @@
     },
     {
       "room": 394,
-      "residents": [
+      "students": [
         "Andrea Moore",
         "Brandy Vazquez",
         "Bruce Green III",
@@ -5969,7 +5969,7 @@
     },
     {
       "room": 395,
-      "residents": [
+      "students": [
         "Corey Frank",
         "Crystal Rasmussen",
         "David Garza",
@@ -5987,7 +5987,7 @@
     },
     {
       "room": 396,
-      "residents": [
+      "students": [
         "Dana Evans",
         "Dr. Leonard George",
         "Nicholas King",
@@ -5997,7 +5997,7 @@
     },
     {
       "room": 397,
-      "residents": [
+      "students": [
         "Amy Jacobs",
         "Angela Oliver",
         "Denise Sparks",
@@ -6010,7 +6010,7 @@
     },
     {
       "room": 398,
-      "residents": [
+      "students": [
         "Ashlee Murphy",
         "Cassidy Walls",
         "Christopher Hutchinson",
@@ -6028,7 +6028,7 @@
     },
     {
       "room": 399,
-      "residents": [
+      "students": [
         "Brandy Love",
         "Heather Willis",
         "Jaime Bennett",
@@ -6042,7 +6042,7 @@
     },
     {
       "room": 400,
-      "residents": [
+      "students": [
         "Ashley Schmidt",
         "James Robertson",
         "Joshua Morales",
@@ -6058,7 +6058,7 @@
     },
     {
       "room": 401,
-      "residents": [
+      "students": [
         "Clayton Conner",
         "Dominique Smith",
         "Heather Knox",
@@ -6070,7 +6070,7 @@
     },
     {
       "room": 402,
-      "residents": [
+      "students": [
         "Carl Norris",
         "Darren Ibarra",
         "Gregory Turner",
@@ -6085,7 +6085,7 @@
     },
     {
       "room": 403,
-      "residents": [
+      "students": [
         "Howard Smith",
         "Larry Duffy",
         "Michael Campbell",
@@ -6096,7 +6096,7 @@
     },
     {
       "room": 404,
-      "residents": [
+      "students": [
         "Brandon Murphy",
         "Charles Tyler",
         "Darrell Murphy",
@@ -6108,7 +6108,7 @@
     },
     {
       "room": 405,
-      "residents": [
+      "students": [
         "Andrew Reed",
         "Brittany Stone",
         "Danielle Robbins",
@@ -6120,7 +6120,7 @@
     },
     {
       "room": 406,
-      "residents": [
+      "students": [
         "Alexandria Fischer",
         "Amy Lindsey",
         "Brad Bell",
@@ -6139,7 +6139,7 @@
     },
     {
       "room": 407,
-      "residents": [
+      "students": [
         "Alvin Jones",
         "Courtney Davenport",
         "Gina Wright MD",
@@ -6154,7 +6154,7 @@
     },
     {
       "room": 408,
-      "residents": [
+      "students": [
         "Angela Burns",
         "James Obrien",
         "Judith Doyle",
@@ -6168,7 +6168,7 @@
     },
     {
       "room": 409,
-      "residents": [
+      "students": [
         "Alexandra Green",
         "Carol Anderson",
         "Cynthia Miller",
@@ -6181,7 +6181,7 @@
     },
     {
       "room": 410,
-      "residents": [
+      "students": [
         "Diana Sullivan",
         "Janice Graham",
         "Karen Jimenez",
@@ -6192,7 +6192,7 @@
     },
     {
       "room": 411,
-      "residents": [
+      "students": [
         "Cathy Clark",
         "Debbie Alvarado",
         "Kyle Merritt",
@@ -6206,7 +6206,7 @@
     },
     {
       "room": 412,
-      "residents": [
+      "students": [
         "Brandi Russo DDS",
         "Bruce Wagner",
         "Christie Ramirez",
@@ -6224,7 +6224,7 @@
     },
     {
       "room": 413,
-      "residents": [
+      "students": [
         "Amy Peterson",
         "Christopher Norman",
         "David Gregory",
@@ -6238,7 +6238,7 @@
     },
     {
       "room": 414,
-      "residents": [
+      "students": [
         "Brandon Giles",
         "Brendan Jones",
         "Christopher Smith",
@@ -6253,7 +6253,7 @@
     },
     {
       "room": 415,
-      "residents": [
+      "students": [
         "Billy Yang",
         "Colleen Foster",
         "Cory Alvarado",
@@ -6270,7 +6270,7 @@
     },
     {
       "room": 416,
-      "residents": [
+      "students": [
         "Cathy Johnson",
         "Joseph Wilson",
         "Katie Eaton",
@@ -6283,7 +6283,7 @@
     },
     {
       "room": 417,
-      "residents": [
+      "students": [
         "Allison Craig",
         "Danielle Montoya",
         "Jeffrey Cooper",
@@ -6297,7 +6297,7 @@
     },
     {
       "room": 418,
-      "residents": [
+      "students": [
         "Aaron Heath II",
         "Anna Russo",
         "Crystal Hall",
@@ -6317,7 +6317,7 @@
     },
     {
       "room": 419,
-      "residents": [
+      "students": [
         "Margaret Mckee",
         "Robin Moore",
         "Stephanie Davis"
@@ -6325,7 +6325,7 @@
     },
     {
       "room": 420,
-      "residents": [
+      "students": [
         "Alicia Peterson",
         "Christine Baldwin",
         "Deanna Hodge",
@@ -6336,7 +6336,7 @@
     },
     {
       "room": 421,
-      "residents": [
+      "students": [
         "Alex Mills",
         "Ann Hammond",
         "Caroline Parker",
@@ -6350,14 +6350,14 @@
     },
     {
       "room": 422,
-      "residents": [
+      "students": [
         "Barry Pham",
         "Johnathan Hanson"
       ]
     },
     {
       "room": 423,
-      "residents": [
+      "students": [
         "Aaron Morgan",
         "Amanda Coleman PhD",
         "Audrey Watkins",
@@ -6378,7 +6378,7 @@
     },
     {
       "room": 424,
-      "residents": [
+      "students": [
         "Benjamin Shelton",
         "Cody Lewis",
         "Jodi Howard",
@@ -6391,7 +6391,7 @@
     },
     {
       "room": 425,
-      "residents": [
+      "students": [
         "Charles Henry",
         "Claire Davis",
         "Kelly Moore",
@@ -6405,7 +6405,7 @@
     },
     {
       "room": 426,
-      "residents": [
+      "students": [
         "Brian Newman",
         "Gary Houston",
         "Jessica Johnson",
@@ -6420,7 +6420,7 @@
     },
     {
       "room": 427,
-      "residents": [
+      "students": [
         "Antonio Reese",
         "Bradley Brown",
         "Jeremy Schultz",
@@ -6433,7 +6433,7 @@
     },
     {
       "room": 428,
-      "residents": [
+      "students": [
         "Barbara Morris",
         "Darin Mora",
         "David Coleman",
@@ -6448,7 +6448,7 @@
     },
     {
       "room": 429,
-      "residents": [
+      "students": [
         "Craig Cox",
         "Daniel Perez",
         "Frank Myers",
@@ -6463,7 +6463,7 @@
     },
     {
       "room": 430,
-      "residents": [
+      "students": [
         "Andres Williamson",
         "Carl Wise",
         "Caroline Garcia",
@@ -6477,7 +6477,7 @@
     },
     {
       "room": 431,
-      "residents": [
+      "students": [
         "Brandon Dickerson",
         "Brian Rodriguez",
         "Candice Jordan",
@@ -6493,7 +6493,7 @@
     },
     {
       "room": 432,
-      "residents": [
+      "students": [
         "Alyssa Martinez",
         "Carolyn Terrell",
         "Charlene Rodriguez",
@@ -6513,7 +6513,7 @@
     },
     {
       "room": 433,
-      "residents": [
+      "students": [
         "Alan Clarke",
         "Amanda Burton",
         "Elizabeth Reeves",
@@ -6527,7 +6527,7 @@
     },
     {
       "room": 434,
-      "residents": [
+      "students": [
         "Alexa Armstrong",
         "Alisha Maldonado",
         "Andrew Carson",
@@ -6541,7 +6541,7 @@
     },
     {
       "room": 435,
-      "residents": [
+      "students": [
         "Amanda Miller",
         "Brian Alexander",
         "David Munoz",
@@ -6557,7 +6557,7 @@
     },
     {
       "room": 436,
-      "residents": [
+      "students": [
         "Anna Francis",
         "Corey Lopez",
         "Darryl Potts",
@@ -6567,7 +6567,7 @@
     },
     {
       "room": 437,
-      "residents": [
+      "students": [
         "Andrew Hobbs",
         "Angela Hunt",
         "Anthony Brown",
@@ -6588,7 +6588,7 @@
     },
     {
       "room": 438,
-      "residents": [
+      "students": [
         "Allen Best",
         "Ana Peterson",
         "Eduardo Fletcher",
@@ -6604,7 +6604,7 @@
     },
     {
       "room": 439,
-      "residents": [
+      "students": [
         "Anthony Schmidt",
         "Ariel Graves DDS",
         "Brian Jones DDS",
@@ -6620,7 +6620,7 @@
     },
     {
       "room": 440,
-      "residents": [
+      "students": [
         "Anita Hall",
         "Colin Lester",
         "Jonathan Lloyd",
@@ -6631,7 +6631,7 @@
     },
     {
       "room": 441,
-      "residents": [
+      "students": [
         "Christopher Lang",
         "Gregory Conley",
         "Heather Cole",
@@ -6643,7 +6643,7 @@
     },
     {
       "room": 442,
-      "residents": [
+      "students": [
         "Ashley Armstrong",
         "Christine Brock",
         "Daniel Greer",
@@ -6663,7 +6663,7 @@
     },
     {
       "room": 443,
-      "residents": [
+      "students": [
         "Glenn Carr",
         "Sean Garcia",
         "Tyler Ponce",
@@ -6672,7 +6672,7 @@
     },
     {
       "room": 444,
-      "residents": [
+      "students": [
         "Anna Carroll",
         "Dave Robinson",
         "Deborah Brown",
@@ -6685,7 +6685,7 @@
     },
     {
       "room": 445,
-      "residents": [
+      "students": [
         "Angela Jones",
         "April Thompson",
         "Ashley Strickland",
@@ -6698,7 +6698,7 @@
     },
     {
       "room": 446,
-      "residents": [
+      "students": [
         "Caleb Salazar",
         "Gina Park",
         "Hailey Garcia",
@@ -6714,7 +6714,7 @@
     },
     {
       "room": 447,
-      "residents": [
+      "students": [
         "Abigail Nunez",
         "Anthony Daniels",
         "Brandy Simmons",
@@ -6733,7 +6733,7 @@
     },
     {
       "room": 448,
-      "residents": [
+      "students": [
         "Aaron Young",
         "Charles Christensen",
         "Cynthia White",
@@ -6756,7 +6756,7 @@
     },
     {
       "room": 449,
-      "residents": [
+      "students": [
         "Amber Pierce",
         "Austin Stephenson",
         "Erik Molina",
@@ -6769,7 +6769,7 @@
     },
     {
       "room": 450,
-      "residents": [
+      "students": [
         "Belinda Bowman",
         "Edward Thomas",
         "Joanne Ray",
@@ -6780,7 +6780,7 @@
     },
     {
       "room": 451,
-      "residents": [
+      "students": [
         "Carlos Boyer",
         "Colton Williams",
         "Daniel Kirk",
@@ -6800,7 +6800,7 @@
     },
     {
       "room": 452,
-      "residents": [
+      "students": [
         "Angela Kent",
         "Anna Nguyen",
         "Charles Morris",
@@ -6819,7 +6819,7 @@
     },
     {
       "room": 453,
-      "residents": [
+      "students": [
         "Elaine Page",
         "Emily Jackson",
         "Henry Mitchell",
@@ -6834,7 +6834,7 @@
     },
     {
       "room": 454,
-      "residents": [
+      "students": [
         "Ann Jensen",
         "John Owens",
         "Jonathan Erickson",
@@ -6848,7 +6848,7 @@
     },
     {
       "room": 455,
-      "residents": [
+      "students": [
         "Adam Morgan",
         "Blake Fischer",
         "Danny Sullivan",
@@ -6863,7 +6863,7 @@
     },
     {
       "room": 456,
-      "residents": [
+      "students": [
         "Angela Cole",
         "Cassandra Rivera",
         "Dustin Daniel",
@@ -6874,7 +6874,7 @@
     },
     {
       "room": 457,
-      "residents": [
+      "students": [
         "Allen Cooper",
         "Anita Rosales",
         "Bradley Ashley",
@@ -6892,7 +6892,7 @@
     },
     {
       "room": 458,
-      "residents": [
+      "students": [
         "Bethany Tyler",
         "David Blackburn",
         "Karen Keith",
@@ -6906,7 +6906,7 @@
     },
     {
       "room": 459,
-      "residents": [
+      "students": [
         "Aaron Thomas",
         "Douglas Conley",
         "Javier Lewis",
@@ -6922,7 +6922,7 @@
     },
     {
       "room": 460,
-      "residents": [
+      "students": [
         "Bradley Berger",
         "Bradley Hawkins",
         "Edward Stafford",
@@ -6941,7 +6941,7 @@
     },
     {
       "room": 461,
-      "residents": [
+      "students": [
         "Ashley Long",
         "Benjamin Harvey",
         "Kelsey Sullivan",
@@ -6954,7 +6954,7 @@
     },
     {
       "room": 462,
-      "residents": [
+      "students": [
         "Connie Lewis",
         "Daniel Hopkins",
         "Jessica Richard",
@@ -6967,7 +6967,7 @@
     },
     {
       "room": 463,
-      "residents": [
+      "students": [
         "Aaron Hayes",
         "Carmen Dickerson",
         "Cindy Clark",
@@ -6983,7 +6983,7 @@
     },
     {
       "room": 464,
-      "residents": [
+      "students": [
         "Amy Stevens",
         "Anne Hernandez",
         "Billy Black",
@@ -7004,7 +7004,7 @@
     },
     {
       "room": 465,
-      "residents": [
+      "students": [
         "Allison Weaver",
         "Ian Parker",
         "Jason Mcdowell",
@@ -7020,7 +7020,7 @@
     },
     {
       "room": 466,
-      "residents": [
+      "students": [
         "Carol Sanders",
         "Crystal Mueller",
         "David Sims",
@@ -7030,7 +7030,7 @@
     },
     {
       "room": 467,
-      "residents": [
+      "students": [
         "Christopher Shaw",
         "James Decker",
         "Jonathan Oliver",
@@ -7046,7 +7046,7 @@
     },
     {
       "room": 468,
-      "residents": [
+      "students": [
         "Amanda Reyes",
         "Chad Merritt",
         "Jane Benjamin",
@@ -7062,7 +7062,7 @@
     },
     {
       "room": 469,
-      "residents": [
+      "students": [
         "Adam Rocha",
         "Ashley Hutchinson",
         "Bruce Rogers",
@@ -7082,7 +7082,7 @@
     },
     {
       "room": 470,
-      "residents": [
+      "students": [
         "Brett King",
         "David Perkins",
         "Kendra Smith",
@@ -7095,7 +7095,7 @@
     },
     {
       "room": 471,
-      "residents": [
+      "students": [
         "Andrea Williams",
         "Christina Perez",
         "Crystal Sanchez",
@@ -7110,7 +7110,7 @@
     },
     {
       "room": 472,
-      "residents": [
+      "students": [
         "Ashley French",
         "Daisy Sanchez",
         "Gerald Carter",
@@ -7123,7 +7123,7 @@
     },
     {
       "room": 473,
-      "residents": [
+      "students": [
         "Christina Rodriguez",
         "Dana Johnson",
         "Gary Johnson",
@@ -7142,7 +7142,7 @@
     },
     {
       "room": 474,
-      "residents": [
+      "students": [
         "Aaron Ford",
         "Amy Cruz",
         "Cody Huerta",
@@ -7156,7 +7156,7 @@
     },
     {
       "room": 475,
-      "residents": [
+      "students": [
         "Courtney Cain",
         "Dawn Gilmore",
         "Jennifer Smith",
@@ -7170,7 +7170,7 @@
     },
     {
       "room": 476,
-      "residents": [
+      "students": [
         "Amy White",
         "Daniel Jimenez",
         "Lori Baldwin",
@@ -7184,7 +7184,7 @@
     },
     {
       "room": 477,
-      "residents": [
+      "students": [
         "Andrew Foster",
         "Anthony Moss",
         "Isaac Brown",
@@ -7199,7 +7199,7 @@
     },
     {
       "room": 478,
-      "residents": [
+      "students": [
         "Denise Mitchell",
         "Jerome Howell",
         "Kathleen Smith",
@@ -7210,7 +7210,7 @@
     },
     {
       "room": 479,
-      "residents": [
+      "students": [
         "George Hanson",
         "Logan Adams",
         "Michael Welch",
@@ -7221,7 +7221,7 @@
     },
     {
       "room": 480,
-      "residents": [
+      "students": [
         "Garrett Hill",
         "Joshua Hayes",
         "Julie Hall",
@@ -7232,7 +7232,7 @@
     },
     {
       "room": 481,
-      "residents": [
+      "students": [
         "Alex Wilson",
         "Alexandra Stanley",
         "Autumn Fleming",
@@ -7246,13 +7246,13 @@
     },
     {
       "room": 482,
-      "residents": [
+      "students": [
         null
       ]
     },
     {
       "room": 483,
-      "residents": [
+      "students": [
         "Andrew Johnson",
         "Ashley Huff",
         "Jeffrey Copeland",
@@ -7267,7 +7267,7 @@
     },
     {
       "room": 484,
-      "residents": [
+      "students": [
         "Christine Higgins",
         "Jennifer Jones MD",
         "John Miller",
@@ -7276,7 +7276,7 @@
     },
     {
       "room": 485,
-      "residents": [
+      "students": [
         "Ashley Pace",
         "Kelsey Floyd",
         "Kimberly Campbell",
@@ -7288,7 +7288,7 @@
     },
     {
       "room": 486,
-      "residents": [
+      "students": [
         "Adam Chang",
         "Christopher Hicks",
         "Cynthia Maxwell",
@@ -7310,7 +7310,7 @@
     },
     {
       "room": 487,
-      "residents": [
+      "students": [
         "Jeremy Gordon",
         "John Thompson",
         "Larry Mooney",
@@ -7319,7 +7319,7 @@
     },
     {
       "room": 488,
-      "residents": [
+      "students": [
         "Ashley West DVM",
         "Charles Oconnell",
         "Donna Contreras",
@@ -7339,7 +7339,7 @@
     },
     {
       "room": 489,
-      "residents": [
+      "students": [
         "Calvin Frost",
         "Cassandra Davis",
         "Catherine Gordon",
@@ -7361,7 +7361,7 @@
     },
     {
       "room": 490,
-      "residents": [
+      "students": [
         "Angela Gray",
         "Brooke Gonzalez",
         "Dawn Parsons",
@@ -7377,7 +7377,7 @@
     },
     {
       "room": 491,
-      "residents": [
+      "students": [
         "Benjamin Francis",
         "Carolyn Adkins",
         "Danielle Mccarty",
@@ -7399,7 +7399,7 @@
     },
     {
       "room": 492,
-      "residents": [
+      "students": [
         "Chad Gonzales",
         "Jessica Day",
         "Karen Munoz",
@@ -7412,7 +7412,7 @@
     },
     {
       "room": 493,
-      "residents": [
+      "students": [
         "Dana Snyder",
         "David Jones",
         "Jonathan Delacruz",
@@ -7424,7 +7424,7 @@
     },
     {
       "room": 494,
-      "residents": [
+      "students": [
         "Bradley Church",
         "Heather Mcclure",
         "Ronald Ramirez",
@@ -7435,7 +7435,7 @@
     },
     {
       "room": 495,
-      "residents": [
+      "students": [
         "Alicia Mcknight",
         "Jonathan Lee",
         "Joshua Gonzalez",
@@ -7446,7 +7446,7 @@
     },
     {
       "room": 496,
-      "residents": [
+      "students": [
         "Alexander Patrick",
         "Cody Wolf",
         "Deanna Christensen",
@@ -7463,7 +7463,7 @@
     },
     {
       "room": 497,
-      "residents": [
+      "students": [
         "Alexandra Russell",
         "Angela Manning",
         "Daniel Johnson",
@@ -7485,7 +7485,7 @@
     },
     {
       "room": 498,
-      "residents": [
+      "students": [
         "Mr. James Morales",
         "Scott Lamb",
         "Traci Gomez",
@@ -7494,7 +7494,7 @@
     },
     {
       "room": 499,
-      "residents": [
+      "students": [
         "David Mcdonald",
         "Garrett Stout",
         "Kenneth Turner",
@@ -7507,7 +7507,7 @@
     },
     {
       "room": 500,
-      "residents": [
+      "students": [
         "Amanda Collins",
         "Amy Morgan",
         "Donald Ford",
@@ -7522,7 +7522,7 @@
     },
     {
       "room": 501,
-      "residents": [
+      "students": [
         "Brittney Campbell",
         "Daniel Walker",
         "David Ryan",
@@ -7537,7 +7537,7 @@
     },
     {
       "room": 502,
-      "residents": [
+      "students": [
         "Debra Moran",
         "Jasmine Holder",
         "Katelyn Mckinney",
@@ -7550,7 +7550,7 @@
     },
     {
       "room": 503,
-      "residents": [
+      "students": [
         "Angelica Smith",
         "Ariana Sweeney",
         "Ashlee Martin",
@@ -7565,7 +7565,7 @@
     },
     {
       "room": 504,
-      "residents": [
+      "students": [
         "Joe Brown",
         "John Combs",
         "Krystal Charles",
@@ -7580,7 +7580,7 @@
     },
     {
       "room": 505,
-      "residents": [
+      "students": [
         "Bryan Dorsey",
         "Chelsey Elliott",
         "Erin Harris",
@@ -7600,7 +7600,7 @@
     },
     {
       "room": 506,
-      "residents": [
+      "students": [
         "Andrew Flores",
         "Carolyn Willis",
         "Cathy Gardner",
@@ -7623,7 +7623,7 @@
     },
     {
       "room": 507,
-      "residents": [
+      "students": [
         "Abigail Mills",
         "Beverly Mcdaniel",
         "Jacob Deleon",
@@ -7637,7 +7637,7 @@
     },
     {
       "room": 508,
-      "residents": [
+      "students": [
         "Amanda Jennings",
         "Amanda Nelson",
         "Andrew Brewer",
@@ -7651,7 +7651,7 @@
     },
     {
       "room": 509,
-      "residents": [
+      "students": [
         "Brandon Sawyer",
         "Bryan Woodard",
         "Calvin Johnson",
@@ -7668,7 +7668,7 @@
     },
     {
       "room": 510,
-      "residents": [
+      "students": [
         "Angela Jones",
         "Catherine Brown",
         "David Carter",
@@ -7687,7 +7687,7 @@
     },
     {
       "room": 511,
-      "residents": [
+      "students": [
         "Brandon Hernandez",
         "Charles Hinton",
         "Christine Johnson",
@@ -7702,7 +7702,7 @@
     },
     {
       "room": 512,
-      "residents": [
+      "students": [
         "Alexis Bush",
         "Allen Chase",
         "Brandon Nguyen",
@@ -7716,7 +7716,7 @@
     },
     {
       "room": 513,
-      "residents": [
+      "students": [
         "Daniel Johnson",
         "Greg Brock",
         "Haley Morales",
@@ -7733,7 +7733,7 @@
     },
     {
       "room": 514,
-      "residents": [
+      "students": [
         "Alyssa Barry",
         "Anna Shah",
         "Brett Larson",
@@ -7753,7 +7753,7 @@
     },
     {
       "room": 515,
-      "residents": [
+      "students": [
         "David Kemp",
         "Emily Watson",
         "Jesus Wright",
@@ -7768,7 +7768,7 @@
     },
     {
       "room": 516,
-      "residents": [
+      "students": [
         "Alicia Gilmore",
         "Angela Jones",
         "Ashley Green",
@@ -7786,7 +7786,7 @@
     },
     {
       "room": 517,
-      "residents": [
+      "students": [
         "Bonnie Smith",
         "Don Cameron",
         "Gabriela Hernandez",
@@ -7800,7 +7800,7 @@
     },
     {
       "room": 518,
-      "residents": [
+      "students": [
         "Brian Parker",
         "Destiny Moore",
         "Edward Goodman",
@@ -7816,7 +7816,7 @@
     },
     {
       "room": 519,
-      "residents": [
+      "students": [
         "Angela Rogers",
         "Christopher Ward",
         "Dalton Smith",
@@ -7833,7 +7833,7 @@
     },
     {
       "room": 520,
-      "residents": [
+      "students": [
         "Brandon Phillips",
         "Deborah Hughes",
         "Jonathan Gutierrez",
@@ -7851,7 +7851,7 @@
     },
     {
       "room": 521,
-      "residents": [
+      "students": [
         "Amanda Stewart",
         "Andrew Crane",
         "Cory Caldwell",
@@ -7872,7 +7872,7 @@
     },
     {
       "room": 522,
-      "residents": [
+      "students": [
         "Brian Rios",
         "Chloe Vega",
         "Hannah Hickman",
@@ -7882,7 +7882,7 @@
     },
     {
       "room": 523,
-      "residents": [
+      "students": [
         "Benjamin Campbell",
         "Christopher Adams",
         "Christopher Rodriguez",
@@ -7898,7 +7898,7 @@
     },
     {
       "room": 524,
-      "residents": [
+      "students": [
         "James May",
         "Jose Love",
         "Karen Moody",
@@ -7911,7 +7911,7 @@
     },
     {
       "room": 525,
-      "residents": [
+      "students": [
         "Anna Castaneda",
         "Colleen Curtis",
         "Darrell Dudley MD",
@@ -7930,7 +7930,7 @@
     },
     {
       "room": 526,
-      "residents": [
+      "students": [
         "Alexandra Smith",
         "Benjamin Mathews",
         "Catherine Bass",
@@ -7945,7 +7945,7 @@
     },
     {
       "room": 527,
-      "residents": [
+      "students": [
         "Adrian Compton",
         "Aimee Kelly",
         "Carla Schultz",
@@ -7963,7 +7963,7 @@
     },
     {
       "room": 528,
-      "residents": [
+      "students": [
         "Alexandria Wilcox",
         "Amanda Peck",
         "Brittany Hamilton",
@@ -7979,7 +7979,7 @@
     },
     {
       "room": 529,
-      "residents": [
+      "students": [
         "Carla Frederick",
         "Christopher Rivera",
         "Dr. Nicole Huerta DVM",
@@ -7993,7 +7993,7 @@
     },
     {
       "room": 530,
-      "residents": [
+      "students": [
         "Angela Galvan",
         "Brian Walls",
         "David Thompson",
@@ -8012,7 +8012,7 @@
     },
     {
       "room": 531,
-      "residents": [
+      "students": [
         "John Sanders",
         "Jonathan Mathis",
         "Laura Whitehead",
@@ -8025,7 +8025,7 @@
     },
     {
       "room": 532,
-      "residents": [
+      "students": [
         "Alexander Callahan",
         "Ashley Carlson",
         "Guy Bowers",
@@ -8042,7 +8042,7 @@
     },
     {
       "room": 533,
-      "residents": [
+      "students": [
         "James Parks",
         "Jeffrey Green",
         "Mary Hunt",
@@ -8057,7 +8057,7 @@
     },
     {
       "room": 534,
-      "residents": [
+      "students": [
         "Amanda Hayes",
         "Carrie Mathis",
         "Cody Maxwell",
@@ -8076,7 +8076,7 @@
     },
     {
       "room": 535,
-      "residents": [
+      "students": [
         "Abigail Bray",
         "Austin Williams",
         "Catherine Maddox",
@@ -8096,7 +8096,7 @@
     },
     {
       "room": 536,
-      "residents": [
+      "students": [
         "Allison Medina",
         "Betty Arnold",
         "Erin Gomez",
@@ -8111,7 +8111,7 @@
     },
     {
       "room": 537,
-      "residents": [
+      "students": [
         "Amanda Hernandez",
         "Brian Nelson",
         "Christopher Lowe PhD",
@@ -8129,7 +8129,7 @@
     },
     {
       "room": 538,
-      "residents": [
+      "students": [
         "Amber Schmidt",
         "Kenneth Holmes",
         "Kristin Schultz",
@@ -8139,7 +8139,7 @@
     },
     {
       "room": 539,
-      "residents": [
+      "students": [
         "Debbie Gonzales",
         "Heidi Tran",
         "Jake Garcia",
@@ -8152,7 +8152,7 @@
     },
     {
       "room": 540,
-      "residents": [
+      "students": [
         "Ashley Hunt",
         "Elizabeth Turner",
         "Kyle Copeland",
@@ -8162,7 +8162,7 @@
     },
     {
       "room": 541,
-      "residents": [
+      "students": [
         "Amy Hutchinson",
         "Andrew Andrews",
         "Anthony Johnson",
@@ -8182,7 +8182,7 @@
     },
     {
       "room": 542,
-      "residents": [
+      "students": [
         "Brad Lopez",
         "Donald Houston",
         "Douglas Norton",
@@ -8196,7 +8196,7 @@
     },
     {
       "room": 543,
-      "residents": [
+      "students": [
         "Alyssa Price",
         "Brandon Boyd",
         "Craig Rodriguez",
@@ -8215,7 +8215,7 @@
     },
     {
       "room": 544,
-      "residents": [
+      "students": [
         "Allen Allen",
         "Joel Wood",
         "Joseph Erickson",
@@ -8233,7 +8233,7 @@
     },
     {
       "room": 545,
-      "residents": [
+      "students": [
         "Alexandra Davis",
         "Alexis Miller",
         "Angela Cole",
@@ -8250,7 +8250,7 @@
     },
     {
       "room": 546,
-      "residents": [
+      "students": [
         "Alexander Hart",
         "Bethany Estrada",
         "Brian Hernandez",
@@ -8265,7 +8265,7 @@
     },
     {
       "room": 547,
-      "residents": [
+      "students": [
         "Brandon Johnston",
         "Brandon Smith",
         "Cassidy Nichols",
@@ -8283,7 +8283,7 @@
     },
     {
       "room": 548,
-      "residents": [
+      "students": [
         "Christopher Norris",
         "Connie Kennedy",
         "Daniel Coleman",
@@ -8299,7 +8299,7 @@
     },
     {
       "room": 549,
-      "residents": [
+      "students": [
         "Andrea Flores",
         "Craig Garza",
         "David Hendricks",
@@ -8312,7 +8312,7 @@
     },
     {
       "room": 550,
-      "residents": [
+      "students": [
         "Audrey Haynes",
         "Brian Bradley",
         "Emily Colon",
@@ -8332,7 +8332,7 @@
     },
     {
       "room": 551,
-      "residents": [
+      "students": [
         "Amanda Powell",
         "Anthony Gonzalez",
         "Cynthia York",
@@ -8345,7 +8345,7 @@
     },
     {
       "room": 552,
-      "residents": [
+      "students": [
         "Alejandro Dixon",
         "Deanna Mueller",
         "Jack Tanner",
@@ -8361,7 +8361,7 @@
     },
     {
       "room": 553,
-      "residents": [
+      "students": [
         "Adrienne Gonzalez",
         "Allison Cox",
         "Crystal Peters",
@@ -8379,7 +8379,7 @@
     },
     {
       "room": 554,
-      "residents": [
+      "students": [
         "Joshua White",
         "Kelly Smith",
         "Martha Hart",
@@ -8391,7 +8391,7 @@
     },
     {
       "room": 555,
-      "residents": [
+      "students": [
         "Andrea Ruiz",
         "Ashlee Mendoza",
         "Brandon Arias",
@@ -8404,7 +8404,7 @@
     },
     {
       "room": 556,
-      "residents": [
+      "students": [
         "Abigail Cruz",
         "Angie Gordon",
         "Casey Alvarado",
@@ -8426,7 +8426,7 @@
     },
     {
       "room": 557,
-      "residents": [
+      "students": [
         "Andrew Hernandez",
         "Brian Singleton",
         "Chelsea Woodard",
@@ -8445,7 +8445,7 @@
     },
     {
       "room": 558,
-      "residents": [
+      "students": [
         "Amy Hunt",
         "John Smith",
         "Kenneth Small",
@@ -8457,7 +8457,7 @@
     },
     {
       "room": 559,
-      "residents": [
+      "students": [
         "Christina Sutton",
         "Daniel Bryant",
         "David Tran MD",
@@ -8476,7 +8476,7 @@
     },
     {
       "room": 560,
-      "residents": [
+      "students": [
         "Alexander Bruce",
         "Alexis Rogers",
         "Alyssa Rodriguez",
@@ -8491,7 +8491,7 @@
     },
     {
       "room": 561,
-      "residents": [
+      "students": [
         "Jennifer Baldwin",
         "Jennifer Miller",
         "Karen Brown",
@@ -8509,7 +8509,7 @@
     },
     {
       "room": 562,
-      "residents": [
+      "students": [
         "Amanda Gallagher",
         "Amanda Walton",
         "Bonnie Stevens",
@@ -8523,7 +8523,7 @@
     },
     {
       "room": 563,
-      "residents": [
+      "students": [
         "Aaron Villanueva",
         "Alan Zhang",
         "Amy Mendoza",
@@ -8544,7 +8544,7 @@
     },
     {
       "room": 564,
-      "residents": [
+      "students": [
         "Alejandro Weber",
         "Andrew Barber",
         "Carlos Lowe",
@@ -8556,7 +8556,7 @@
     },
     {
       "room": 565,
-      "residents": [
+      "students": [
         "Alexander Johnson",
         "Justin Anderson",
         "Kristen Stout",
@@ -8570,7 +8570,7 @@
     },
     {
       "room": 566,
-      "residents": [
+      "students": [
         "Brooke Holmes",
         "Chad Gibson",
         "Christine Burch",
@@ -8584,7 +8584,7 @@
     },
     {
       "room": 567,
-      "residents": [
+      "students": [
         "Andrew Farmer",
         "Angela Woods",
         "Bryan Robinson",
@@ -8599,7 +8599,7 @@
     },
     {
       "room": 568,
-      "residents": [
+      "students": [
         "Alexandra Garcia",
         "Andrea Daniels",
         "Cynthia Hutchinson",
@@ -8611,7 +8611,7 @@
     },
     {
       "room": 569,
-      "residents": [
+      "students": [
         "Amanda Brown",
         "Emily Moore",
         "James Mercer",
@@ -8622,7 +8622,7 @@
     },
     {
       "room": 570,
-      "residents": [
+      "students": [
         "Alexander Salas",
         "Alison Lewis MD",
         "Andrew Johns",
@@ -8638,7 +8638,7 @@
     },
     {
       "room": 571,
-      "residents": [
+      "students": [
         "Heather Nelson",
         "Jane Aguilar",
         "Michelle Rogers",
@@ -8648,7 +8648,7 @@
     },
     {
       "room": 572,
-      "residents": [
+      "students": [
         "Adrian George",
         "Alan Caldwell",
         "Alex Patel",
@@ -8667,7 +8667,7 @@
     },
     {
       "room": 573,
-      "residents": [
+      "students": [
         "Alyssa Gomez MD",
         "Benjamin Richmond",
         "Brenda Scott",
@@ -8689,7 +8689,7 @@
     },
     {
       "room": 574,
-      "residents": [
+      "students": [
         "Anne Lewis",
         "Crystal West",
         "Daniel Sims",
@@ -8704,7 +8704,7 @@
     },
     {
       "room": 575,
-      "residents": [
+      "students": [
         "Amy Foley",
         "Elizabeth Evans",
         "James Weber",
@@ -8721,7 +8721,7 @@
     },
     {
       "room": 576,
-      "residents": [
+      "students": [
         "Aaron Davis MD",
         "Antonio Moore",
         "Christian Reese",
@@ -8736,7 +8736,7 @@
     },
     {
       "room": 577,
-      "residents": [
+      "students": [
         "Brittany Patrick",
         "Charlene Calderon",
         "Dawn Martinez",
@@ -8749,7 +8749,7 @@
     },
     {
       "room": 578,
-      "residents": [
+      "students": [
         "Amanda Walker",
         "Andrew Tapia",
         "Emily Perry",
@@ -8760,7 +8760,7 @@
     },
     {
       "room": 579,
-      "residents": [
+      "students": [
         "David Lowe",
         "Donald Pace",
         "Ethan Gibson",
@@ -8772,7 +8772,7 @@
     },
     {
       "room": 580,
-      "residents": [
+      "students": [
         "Angela Knight",
         "Angela Young",
         "Ashley Sanders",
@@ -8784,7 +8784,7 @@
     },
     {
       "room": 581,
-      "residents": [
+      "students": [
         "Curtis Wilson",
         "Donald Cole",
         "Elizabeth Lewis",
@@ -8802,7 +8802,7 @@
     },
     {
       "room": 582,
-      "residents": [
+      "students": [
         "Brandi Gordon",
         "Daniel Powell",
         "Dawn Swanson",
@@ -8820,7 +8820,7 @@
     },
     {
       "room": 583,
-      "residents": [
+      "students": [
         "Adam Crosby MD",
         "Ashley Hammond DDS",
         "Lauren Morgan",
@@ -8834,7 +8834,7 @@
     },
     {
       "room": 584,
-      "residents": [
+      "students": [
         "Aaron Thomas",
         "Amber Butler",
         "Amy House",
@@ -8850,7 +8850,7 @@
     },
     {
       "room": 585,
-      "residents": [
+      "students": [
         "Annette Donaldson",
         "Daniel Hughes",
         "Debbie Fernandez",
@@ -8862,7 +8862,7 @@
     },
     {
       "room": 586,
-      "residents": [
+      "students": [
         "Amy Kaiser",
         "Crystal Carter MD",
         "Elijah Leonard",
@@ -8875,7 +8875,7 @@
     },
     {
       "room": 587,
-      "residents": [
+      "students": [
         "Alexander Carter",
         "Chris Vargas",
         "Eileen White",
@@ -8889,7 +8889,7 @@
     },
     {
       "room": 588,
-      "residents": [
+      "students": [
         "Ashley Jordan",
         "Carlos Bryant",
         "Edward Young",
@@ -8906,7 +8906,7 @@
     },
     {
       "room": 589,
-      "residents": [
+      "students": [
         "Carol Knight",
         "David Kramer",
         "Diana Washington",
@@ -8918,7 +8918,7 @@
     },
     {
       "room": 590,
-      "residents": [
+      "students": [
         "Danielle Novak",
         "Douglas Wilson",
         "Edward Keller",
@@ -8935,7 +8935,7 @@
     },
     {
       "room": 591,
-      "residents": [
+      "students": [
         "Andrea Sherman",
         "Andrew Williams",
         "Charles Lyons",
@@ -8958,7 +8958,7 @@
     },
     {
       "room": 592,
-      "residents": [
+      "students": [
         "Amber Galloway",
         "Andrew Barnett",
         "Jacqueline Giles",
@@ -8974,7 +8974,7 @@
     },
     {
       "room": 593,
-      "residents": [
+      "students": [
         "Amy Garcia",
         "Angel Newman",
         "Angela Bowers",
@@ -8987,7 +8987,7 @@
     },
     {
       "room": 594,
-      "residents": [
+      "students": [
         "Alexander Mccarty",
         "Gary Watson",
         "James Morgan",
@@ -9003,7 +9003,7 @@
     },
     {
       "room": 595,
-      "residents": [
+      "students": [
         "Angela Garcia",
         "Blake Huber",
         "Frederick Mclaughlin MD",
@@ -9015,7 +9015,7 @@
     },
     {
       "room": 596,
-      "residents": [
+      "students": [
         "Ashley Perez",
         "Courtney James",
         "Debra Roth",
@@ -9029,7 +9029,7 @@
     },
     {
       "room": 597,
-      "residents": [
+      "students": [
         "Bryan Hamilton",
         "Christopher Rivera",
         "David Turner",
@@ -9047,7 +9047,7 @@
     },
     {
       "room": 598,
-      "residents": [
+      "students": [
         "Annette Anderson",
         "Benjamin Webb",
         "Carl Donovan",
@@ -9061,7 +9061,7 @@
     },
     {
       "room": 599,
-      "residents": [
+      "students": [
         "Alison Santos",
         "Angela Velasquez",
         "Brian Bradford",
@@ -9082,7 +9082,7 @@
     },
     {
       "room": 600,
-      "residents": [
+      "students": [
         "Allison Peters",
         "Derrick Baker",
         "Mark Shannon",
@@ -9094,7 +9094,7 @@
     },
     {
       "room": 601,
-      "residents": [
+      "students": [
         "Ashley Holt",
         "Ashley Miller",
         "Danielle Watson",
@@ -9110,7 +9110,7 @@
     },
     {
       "room": 602,
-      "residents": [
+      "students": [
         "Beth Mcintyre",
         "Brett Daniel",
         "Cheryl Shaw",
@@ -9125,7 +9125,7 @@
     },
     {
       "room": 603,
-      "residents": [
+      "students": [
         "Angela Lewis",
         "Christopher Barnes",
         "David Flores",
@@ -9143,7 +9143,7 @@
     },
     {
       "room": 604,
-      "residents": [
+      "students": [
         "Ashley Harvey",
         "Brian Young",
         "David Simpson",
@@ -9156,7 +9156,7 @@
     },
     {
       "room": 605,
-      "residents": [
+      "students": [
         "Andrea Mills",
         "Angelica Johnson",
         "Brittney Jackson",
@@ -9169,7 +9169,7 @@
     },
     {
       "room": 606,
-      "residents": [
+      "students": [
         "Caitlin Ochoa",
         "Carla Smith",
         "Catherine Morales",
@@ -9184,7 +9184,7 @@
     },
     {
       "room": 607,
-      "residents": [
+      "students": [
         "Amanda Scott",
         "Barbara Taylor",
         "Diana Mann",
@@ -9200,7 +9200,7 @@
     },
     {
       "room": 608,
-      "residents": [
+      "students": [
         "Aaron Holmes",
         "Adam Larson",
         "Charles Long",
@@ -9219,7 +9219,7 @@
     },
     {
       "room": 609,
-      "residents": [
+      "students": [
         "Antonio Morgan",
         "David Clark",
         "Emily Harris",
@@ -9234,7 +9234,7 @@
     },
     {
       "room": 610,
-      "residents": [
+      "students": [
         "Bonnie Jackson",
         "Carlos Trujillo",
         "Daniel Cunningham",
@@ -9247,7 +9247,7 @@
     },
     {
       "room": 611,
-      "residents": [
+      "students": [
         "Eric Thompson",
         "Latasha Greer",
         "Stephen Solomon",
@@ -9256,7 +9256,7 @@
     },
     {
       "room": 612,
-      "residents": [
+      "students": [
         "Angel Brooks",
         "David Lee",
         "Heather Bowen DDS",
@@ -9271,7 +9271,7 @@
     },
     {
       "room": 613,
-      "residents": [
+      "students": [
         "Aaron Moody",
         "Ashley Bush",
         "Courtney Farrell",
@@ -9287,7 +9287,7 @@
     },
     {
       "room": 614,
-      "residents": [
+      "students": [
         "Diana Palmer",
         "Kimberly Henson",
         "Laura Caldwell",
@@ -9298,7 +9298,7 @@
     },
     {
       "room": 615,
-      "residents": [
+      "students": [
         "Alexandra Brennan",
         "Eddie Simmons",
         "Gina Mclean",
@@ -9310,7 +9310,7 @@
     },
     {
       "room": 616,
-      "residents": [
+      "students": [
         "Alexandra Pearson",
         "Donald Mathis",
         "Jason Morales",
@@ -9322,7 +9322,7 @@
     },
     {
       "room": 617,
-      "residents": [
+      "students": [
         "Alexandra Hendricks",
         "Amanda Mills",
         "Destiny Mathews",
@@ -9337,7 +9337,7 @@
     },
     {
       "room": 618,
-      "residents": [
+      "students": [
         "Adriana Mann",
         "Claire Phillips",
         "Cory Kelly",
@@ -9354,7 +9354,7 @@
     },
     {
       "room": 619,
-      "residents": [
+      "students": [
         "Alejandro Tyler",
         "Amanda Rogers",
         "Angela Shepard",
@@ -9368,7 +9368,7 @@
     },
     {
       "room": 620,
-      "residents": [
+      "students": [
         "Alexander Fuller",
         "April Davis",
         "Christopher Mendez",
@@ -9383,7 +9383,7 @@
     },
     {
       "room": 621,
-      "residents": [
+      "students": [
         "Betty Douglas",
         "Brian Clements",
         "Brian Ramirez",
@@ -9398,7 +9398,7 @@
     },
     {
       "room": 622,
-      "residents": [
+      "students": [
         "Alicia Mueller",
         "Emily Nielsen",
         "Jose Baker",
@@ -9416,7 +9416,7 @@
     },
     {
       "room": 623,
-      "residents": [
+      "students": [
         "Brandon Arnold MD",
         "Brandon Hughes",
         "Brian Rodgers",
@@ -9431,7 +9431,7 @@
     },
     {
       "room": 624,
-      "residents": [
+      "students": [
         "Adam Howard",
         "Alexandra Gonzalez",
         "Christine Adams",
@@ -9444,7 +9444,7 @@
     },
     {
       "room": 625,
-      "residents": [
+      "students": [
         "Aaron Bell",
         "Angela Collins",
         "Chloe Norton",
@@ -9459,7 +9459,7 @@
     },
     {
       "room": 626,
-      "residents": [
+      "students": [
         "Amanda Brown",
         "Andre Burns",
         "Bryan Whitehead",
@@ -9477,7 +9477,7 @@
     },
     {
       "room": 627,
-      "residents": [
+      "students": [
         "Andre Jackson",
         "Andrew Ryan",
         "Brandon Hurley",
@@ -9497,7 +9497,7 @@
     },
     {
       "room": 628,
-      "residents": [
+      "students": [
         "Brian Olson",
         "Denise Lawson",
         "Judith Tucker",
@@ -9507,7 +9507,7 @@
     },
     {
       "room": 629,
-      "residents": [
+      "students": [
         "Aaron Boyd",
         "Brandon Morton",
         "Caleb Freeman",
@@ -9524,7 +9524,7 @@
     },
     {
       "room": 630,
-      "residents": [
+      "students": [
         "Joshua Powell",
         "Juan Salazar",
         "Leslie Valdez",
@@ -9539,7 +9539,7 @@
     },
     {
       "room": 631,
-      "residents": [
+      "students": [
         "Amber Gentry",
         "Courtney Glover",
         "Hector Williams",
@@ -9560,7 +9560,7 @@
     },
     {
       "room": 632,
-      "residents": [
+      "students": [
         "Brian Frazier DDS",
         "Crystal Lee",
         "Erin Miller",
@@ -9574,7 +9574,7 @@
     },
     {
       "room": 633,
-      "residents": [
+      "students": [
         "Barbara Wagner",
         "Christine Johnson",
         "Cynthia Jarvis",
@@ -9586,7 +9586,7 @@
     },
     {
       "room": 634,
-      "residents": [
+      "students": [
         "David Ellis",
         "Mark Wilson",
         "Tina Wheeler",
@@ -9597,7 +9597,7 @@
     },
     {
       "room": 635,
-      "residents": [
+      "students": [
         "Adrienne Gutierrez",
         "Amanda Cummings",
         "Eric Burnett",
@@ -9610,7 +9610,7 @@
     },
     {
       "room": 636,
-      "residents": [
+      "students": [
         "Amber Holmes",
         "Christopher Johnson",
         "Lauren Jackson",
@@ -9620,7 +9620,7 @@
     },
     {
       "room": 637,
-      "residents": [
+      "students": [
         "Amy Garrison",
         "Ana Lindsey",
         "Benjamin Park",
@@ -9638,7 +9638,7 @@
     },
     {
       "room": 638,
-      "residents": [
+      "students": [
         "Andrew Price",
         "Annette Woods",
         "Anthony Frazier",
@@ -9650,7 +9650,7 @@
     },
     {
       "room": 639,
-      "residents": [
+      "students": [
         "Crystal Mcdonald",
         "Dana Davis",
         "Kenneth Peters",
@@ -9663,7 +9663,7 @@
     },
     {
       "room": 640,
-      "residents": [
+      "students": [
         "Bonnie Ferguson",
         "Christine Black",
         "Julie Brewer",
@@ -9674,7 +9674,7 @@
     },
     {
       "room": 641,
-      "residents": [
+      "students": [
         "Brian Coleman",
         "Deanna Evans",
         "Harry Cross",
@@ -9687,7 +9687,7 @@
     },
     {
       "room": 642,
-      "residents": [
+      "students": [
         "Alexis Finley",
         "Amanda Graves",
         "Benjamin Velazquez",
@@ -9701,7 +9701,7 @@
     },
     {
       "room": 643,
-      "residents": [
+      "students": [
         "Charlene Barr",
         "Courtney Kelley",
         "Darius Johnson",
@@ -9717,7 +9717,7 @@
     },
     {
       "room": 644,
-      "residents": [
+      "students": [
         "Amy Anderson",
         "Angela Lambert",
         "Kathryn Rodgers",
@@ -9730,7 +9730,7 @@
     },
     {
       "room": 645,
-      "residents": [
+      "students": [
         "Alexis Anderson",
         "Alexis Brandt",
         "Dylan Wagner",
@@ -9741,7 +9741,7 @@
     },
     {
       "room": 646,
-      "residents": [
+      "students": [
         "Andrew Black",
         "Christina Ewing",
         "Christopher Jackson",
@@ -9760,7 +9760,7 @@
     },
     {
       "room": 647,
-      "residents": [
+      "students": [
         "Alexis Shelton",
         "Angelica Dudley",
         "Claire Gomez",
@@ -9774,7 +9774,7 @@
     },
     {
       "room": 648,
-      "residents": [
+      "students": [
         "Andrew Lewis",
         "Christian Miller",
         "Jared Barton",
@@ -9787,7 +9787,7 @@
     },
     {
       "room": 649,
-      "residents": [
+      "students": [
         "Alyssa Barnes",
         "Anthony Spears",
         "Beth Allen",
@@ -9801,7 +9801,7 @@
     },
     {
       "room": 650,
-      "residents": [
+      "students": [
         "Anita Richardson",
         "Heather Russell",
         "John Howell",
@@ -9816,7 +9816,7 @@
     },
     {
       "room": 651,
-      "residents": [
+      "students": [
         "April Garcia",
         "Caitlin Jackson",
         "Darren Taylor",
@@ -9831,7 +9831,7 @@
     },
     {
       "room": 652,
-      "residents": [
+      "students": [
         "Heather Sanders MD",
         "Joshua Banks",
         "Mark Trevino",
@@ -9843,7 +9843,7 @@
     },
     {
       "room": 653,
-      "residents": [
+      "students": [
         "Alex Robinson",
         "Bailey Archer",
         "Bethany Graham",
@@ -9856,7 +9856,7 @@
     },
     {
       "room": 654,
-      "residents": [
+      "students": [
         "David Edwards",
         "Holly Lopez",
         "James Osborn",
@@ -9873,7 +9873,7 @@
     },
     {
       "room": 655,
-      "residents": [
+      "students": [
         "Brianna Mcdowell",
         "Daniel Mcmillan",
         "Dr. Denise Smith",
@@ -9887,7 +9887,7 @@
     },
     {
       "room": 656,
-      "residents": [
+      "students": [
         "Albert Henderson",
         "Andre Davidson",
         "Caleb Benton",
@@ -9905,7 +9905,7 @@
     },
     {
       "room": 657,
-      "residents": [
+      "students": [
         "Angela Lopez",
         "Connor Anderson",
         "Cynthia Day",
@@ -9925,7 +9925,7 @@
     },
     {
       "room": 658,
-      "residents": [
+      "students": [
         "Ariel Gomez",
         "Brian Pena",
         "Caleb Thomas",
@@ -9940,7 +9940,7 @@
     },
     {
       "room": 659,
-      "residents": [
+      "students": [
         "Curtis Obrien",
         "Kevin Hill",
         "Lauren Armstrong",
@@ -9952,7 +9952,7 @@
     },
     {
       "room": 660,
-      "residents": [
+      "students": [
         "Bobby Graham",
         "David Robinson",
         "Dr. Isaac Dixon",
@@ -9970,7 +9970,7 @@
     },
     {
       "room": 661,
-      "residents": [
+      "students": [
         "Curtis Obrien",
         "Jason Jones",
         "Stephen Smith"
@@ -9978,7 +9978,7 @@
     },
     {
       "room": 662,
-      "residents": [
+      "students": [
         "Cory Walters",
         "David Rivera",
         "Diane Green",
@@ -9990,7 +9990,7 @@
     },
     {
       "room": 663,
-      "residents": [
+      "students": [
         "Adam Cole",
         "Allison Martin",
         "Jessica Scott",
@@ -10001,7 +10001,7 @@
     },
     {
       "room": 664,
-      "residents": [
+      "students": [
         "Alyssa Moore",
         "James Johnston",
         "Kyle King",
@@ -10011,7 +10011,7 @@
     },
     {
       "room": 665,
-      "residents": [
+      "students": [
         "Antonio Logan",
         "Carl Bishop",
         "Casey Crawford",
@@ -10030,7 +10030,7 @@
     },
     {
       "room": 666,
-      "residents": [
+      "students": [
         "Carol Thomas",
         "Chelsea Rivera",
         "Jacob Acevedo",
@@ -10043,7 +10043,7 @@
     },
     {
       "room": 667,
-      "residents": [
+      "students": [
         "Allison Waters",
         "Herbert Willis",
         "James Weeks",
@@ -10056,7 +10056,7 @@
     },
     {
       "room": 668,
-      "residents": [
+      "students": [
         "Angela Carr",
         "Anita Scott",
         "Ashley Cox",
@@ -10069,7 +10069,7 @@
     },
     {
       "room": 669,
-      "residents": [
+      "students": [
         "Brian Hamilton",
         "Danielle Lawrence",
         "Holly Johnson",
@@ -10081,7 +10081,7 @@
     },
     {
       "room": 670,
-      "residents": [
+      "students": [
         "Cole Hall",
         "David Hunt",
         "Gregory Long",
@@ -10096,7 +10096,7 @@
     },
     {
       "room": 671,
-      "residents": [
+      "students": [
         "Ariana Moore",
         "Christopher Huff",
         "Ebony Guzman",
@@ -10110,7 +10110,7 @@
     },
     {
       "room": 672,
-      "residents": [
+      "students": [
         "Christopher Oneill",
         "Corey Smith",
         "Denise Martinez",
@@ -10125,7 +10125,7 @@
     },
     {
       "room": 673,
-      "residents": [
+      "students": [
         "Andre Meyer",
         "Christine Choi",
         "David Sutton",
@@ -10139,7 +10139,7 @@
     },
     {
       "room": 674,
-      "residents": [
+      "students": [
         "Albert Martin",
         "Brenda Irwin",
         "Dr. Roberto Young III",
@@ -10153,7 +10153,7 @@
     },
     {
       "room": 675,
-      "residents": [
+      "students": [
         "Carol Kelly",
         "Cassandra Patterson",
         "Heather Merritt",
@@ -10170,7 +10170,7 @@
     },
     {
       "room": 676,
-      "residents": [
+      "students": [
         "Amy Buckley",
         "Angela Lopez",
         "Dana Clarke",
@@ -10183,7 +10183,7 @@
     },
     {
       "room": 677,
-      "residents": [
+      "students": [
         "James Davenport",
         "Thomas Richards DDS",
         "Zachary Mcconnell"
@@ -10191,7 +10191,7 @@
     },
     {
       "room": 678,
-      "residents": [
+      "students": [
         "George Johnson",
         "Jodi Johnson",
         "Kelsey Martinez",
@@ -10204,7 +10204,7 @@
     },
     {
       "room": 679,
-      "residents": [
+      "students": [
         "Anita Andrews",
         "Ashley Smith",
         "Christine Wang",
@@ -10223,7 +10223,7 @@
     },
     {
       "room": 680,
-      "residents": [
+      "students": [
         "Gabriella Miles",
         "John Morton",
         "Kenneth Adams",
@@ -10238,7 +10238,7 @@
     },
     {
       "room": 681,
-      "residents": [
+      "students": [
         "Heather Turner",
         "Lance Thomas",
         "Stephanie Brown",
@@ -10247,7 +10247,7 @@
     },
     {
       "room": 682,
-      "residents": [
+      "students": [
         "Cathy Black",
         "Crystal Myers",
         "Lisa Watts",
@@ -10263,7 +10263,7 @@
     },
     {
       "room": 683,
-      "residents": [
+      "students": [
         "Donald Erickson",
         "Gerald Duran",
         "Gina Nichols",
@@ -10277,7 +10277,7 @@
     },
     {
       "room": 684,
-      "residents": [
+      "students": [
         "Alison Walsh",
         "Cameron Mann",
         "Charles Martinez",
@@ -10292,7 +10292,7 @@
     },
     {
       "room": 685,
-      "residents": [
+      "students": [
         "Adam Rogers",
         "Carlos Short",
         "Christopher Burke",
@@ -10309,7 +10309,7 @@
     },
     {
       "room": 686,
-      "residents": [
+      "students": [
         "Benjamin Palmer Jr.",
         "David Mayer",
         "Kenneth Boyd",
@@ -10321,7 +10321,7 @@
     },
     {
       "room": 687,
-      "residents": [
+      "students": [
         "Brittany May",
         "Elaine Gallagher",
         "Hunter Weber",
@@ -10334,7 +10334,7 @@
     },
     {
       "room": 688,
-      "residents": [
+      "students": [
         "Brandi Brock",
         "Haley Jones",
         "Jennifer Abbott",
@@ -10349,7 +10349,7 @@
     },
     {
       "room": 689,
-      "residents": [
+      "students": [
         "Barbara Collins",
         "Breanna Charles",
         "Drew Snyder",
@@ -10361,7 +10361,7 @@
     },
     {
       "room": 690,
-      "residents": [
+      "students": [
         "Alexander Roy",
         "Carmen Atkins",
         "Douglas Moon",
@@ -10375,7 +10375,7 @@
     },
     {
       "room": 691,
-      "residents": [
+      "students": [
         "Danny Butler",
         "Douglas Davis",
         "Joseph Martin",
@@ -10388,7 +10388,7 @@
     },
     {
       "room": 692,
-      "residents": [
+      "students": [
         "Carlos Sharp",
         "Catherine Andrade",
         "Chad Cox",
@@ -10403,7 +10403,7 @@
     },
     {
       "room": 693,
-      "residents": [
+      "students": [
         "Alicia Serrano",
         "Catherine Fields",
         "Crystal Singh",
@@ -10418,7 +10418,7 @@
     },
     {
       "room": 694,
-      "residents": [
+      "students": [
         "Brian Williams",
         "Chelsey Williams",
         "David Cox",
@@ -10430,7 +10430,7 @@
     },
     {
       "room": 695,
-      "residents": [
+      "students": [
         "Andrea Bowers",
         "Barbara Taylor",
         "Christina Ball",
@@ -10450,7 +10450,7 @@
     },
     {
       "room": 696,
-      "residents": [
+      "students": [
         "Christopher Huff",
         "Christopher Jones",
         "Diane Moreno",
@@ -10464,7 +10464,7 @@
     },
     {
       "room": 697,
-      "residents": [
+      "students": [
         "Brian Evans",
         "Caitlin Green",
         "David Gomez",
@@ -10478,7 +10478,7 @@
     },
     {
       "room": 698,
-      "residents": [
+      "students": [
         "Christina Miller",
         "Dawn Burke",
         "Diane Shelton",
@@ -10488,7 +10488,7 @@
     },
     {
       "room": 699,
-      "residents": [
+      "students": [
         "Alvin Lynch",
         "Ariana Horn",
         "Austin Holmes",
@@ -10508,7 +10508,7 @@
     },
     {
       "room": 700,
-      "residents": [
+      "students": [
         "Cynthia Mills",
         "Gilbert Robinson",
         "Henry Jackson",
@@ -10520,7 +10520,7 @@
     },
     {
       "room": 701,
-      "residents": [
+      "students": [
         "Anna Thomas",
         "Ashley Gonzalez",
         "Barbara James",
@@ -10536,7 +10536,7 @@
     },
     {
       "room": 702,
-      "residents": [
+      "students": [
         "Benjamin Larson",
         "Christian Dudley",
         "Danielle Evans",
@@ -10552,7 +10552,7 @@
     },
     {
       "room": 703,
-      "residents": [
+      "students": [
         "Anthony Jensen II",
         "Carolyn Allen",
         "Christian Woods",
@@ -10569,7 +10569,7 @@
     },
     {
       "room": 704,
-      "residents": [
+      "students": [
         "Charles Tran",
         "Christopher Stevens",
         "Daniel Goodwin",
@@ -10582,7 +10582,7 @@
     },
     {
       "room": 705,
-      "residents": [
+      "students": [
         "Alexander Diaz",
         "Cassandra Martinez",
         "Craig Hansen",
@@ -10596,7 +10596,7 @@
     },
     {
       "room": 706,
-      "residents": [
+      "students": [
         "Brianna Orr",
         "Chad Davis",
         "Jasmine Hensley",
@@ -10610,7 +10610,7 @@
     },
     {
       "room": 707,
-      "residents": [
+      "students": [
         "Courtney Sanford",
         "Donald Avery",
         "Emily Tran",
@@ -10624,7 +10624,7 @@
     },
     {
       "room": 708,
-      "residents": [
+      "students": [
         "Aaron Carson",
         "Alex Gaines",
         "Cameron Williams",
@@ -10640,7 +10640,7 @@
     },
     {
       "room": 709,
-      "residents": [
+      "students": [
         "Angel Dalton",
         "Anne Huffman",
         "Carlos Clark",
@@ -10659,7 +10659,7 @@
     },
     {
       "room": 710,
-      "residents": [
+      "students": [
         "Andrew King",
         "Deborah Mccoy",
         "Elizabeth Stanley",
@@ -10668,7 +10668,7 @@
     },
     {
       "room": 711,
-      "residents": [
+      "students": [
         "Angela Mcgee",
         "Brittany Ochoa",
         "Daniel Richards",
@@ -10685,7 +10685,7 @@
     },
     {
       "room": 712,
-      "residents": [
+      "students": [
         "Andrea Harris",
         "Kelsey Jones",
         "Kent Bryan",
@@ -10698,7 +10698,7 @@
     },
     {
       "room": 713,
-      "residents": [
+      "students": [
         "Elizabeth Horn",
         "Eric Strickland",
         "Jared Johnson",
@@ -10715,7 +10715,7 @@
     },
     {
       "room": 714,
-      "residents": [
+      "students": [
         "Chad Flores",
         "Charles Harper",
         "Christopher Cabrera",
@@ -10736,7 +10736,7 @@
     },
     {
       "room": 715,
-      "residents": [
+      "students": [
         "Barry Burch",
         "Daniel Wagner",
         "Kevin Garrison",
@@ -10746,7 +10746,7 @@
     },
     {
       "room": 716,
-      "residents": [
+      "students": [
         "Carol Pratt",
         "Charles Wilkerson",
         "Christopher Allen",
@@ -10765,7 +10765,7 @@
     },
     {
       "room": 717,
-      "residents": [
+      "students": [
         "Christopher Johnson",
         "Diane Martin",
         "Gregory Daniel MD",
@@ -10781,7 +10781,7 @@
     },
     {
       "room": 718,
-      "residents": [
+      "students": [
         "Beverly Fry",
         "Brian Duncan",
         "Debra Martinez",
@@ -10794,7 +10794,7 @@
     },
     {
       "room": 719,
-      "residents": [
+      "students": [
         "Anthony Ray",
         "Dr. Jaime Sims",
         "Elizabeth Cohen",
@@ -10813,7 +10813,7 @@
     },
     {
       "room": 720,
-      "residents": [
+      "students": [
         "Amber Cook",
         "Colleen Mendoza",
         "Dana Leach",
@@ -10827,7 +10827,7 @@
     },
     {
       "room": 721,
-      "residents": [
+      "students": [
         "Brent Stewart",
         "Cindy French",
         "Jennifer Williams",
@@ -10839,7 +10839,7 @@
     },
     {
       "room": 722,
-      "residents": [
+      "students": [
         "Andrea Pena",
         "Charles Murphy",
         "Mary Martin",
@@ -10853,7 +10853,7 @@
     },
     {
       "room": 723,
-      "residents": [
+      "students": [
         "Alexander Case",
         "Benjamin Brown",
         "Clinton Richardson",
@@ -10865,7 +10865,7 @@
     },
     {
       "room": 724,
-      "residents": [
+      "students": [
         "Bethany Alvarez",
         "Brianna Wilson",
         "Brittany Smith",
@@ -10882,7 +10882,7 @@
     },
     {
       "room": 725,
-      "residents": [
+      "students": [
         "Alicia Rodriguez",
         "Beth Carter",
         "Bethany Bailey",
@@ -10901,7 +10901,7 @@
     },
     {
       "room": 726,
-      "residents": [
+      "students": [
         "Andrew Walton",
         "Anna Marshall",
         "Michelle Galvan",
@@ -10912,7 +10912,7 @@
     },
     {
       "room": 727,
-      "residents": [
+      "students": [
         "Alejandro Carr",
         "Christopher Burns",
         "Corey Barrett",
@@ -10925,7 +10925,7 @@
     },
     {
       "room": 728,
-      "residents": [
+      "students": [
         "Desiree Fletcher",
         "Erica Rivera",
         "Heather Ramirez",
@@ -10941,7 +10941,7 @@
     },
     {
       "room": 729,
-      "residents": [
+      "students": [
         "Allen Martin",
         "Amanda Griffin",
         "Carmen Baker",
@@ -10958,7 +10958,7 @@
     },
     {
       "room": 730,
-      "residents": [
+      "students": [
         "Andre Fox",
         "Ashley Chapman",
         "Benjamin Collins",
@@ -10977,7 +10977,7 @@
     },
     {
       "room": 731,
-      "residents": [
+      "students": [
         "Alicia Alvarez",
         "Andrew Cabrera",
         "Angela Nelson",
@@ -11001,7 +11001,7 @@
     },
     {
       "room": 732,
-      "residents": [
+      "students": [
         "Brenda Adams",
         "Bryan Delacruz",
         "Jennifer Edwards",
@@ -11012,7 +11012,7 @@
     },
     {
       "room": 733,
-      "residents": [
+      "students": [
         "Christopher Gilbert",
         "Gabriel Cross",
         "John Gallagher",
@@ -11031,7 +11031,7 @@
     },
     {
       "room": 734,
-      "residents": [
+      "students": [
         "Amanda Mora",
         "Debra Duran",
         "Denise Cochran",
@@ -11048,7 +11048,7 @@
     },
     {
       "room": 735,
-      "residents": [
+      "students": [
         "Alyssa Cole DDS",
         "Diane Rodgers",
         "James Smith",
@@ -11061,7 +11061,7 @@
     },
     {
       "room": 736,
-      "residents": [
+      "students": [
         "Emma Howard",
         "Isaiah Williams",
         "Jamie Jarvis",
@@ -11075,7 +11075,7 @@
     },
     {
       "room": 737,
-      "residents": [
+      "students": [
         "Anthony Griffin",
         "Caitlin Kim",
         "Cassandra Gomez",
@@ -11093,7 +11093,7 @@
     },
     {
       "room": 738,
-      "residents": [
+      "students": [
         "Ashley Howell",
         "Bethany Hanson",
         "Brent Cantu",
@@ -11110,7 +11110,7 @@
     },
     {
       "room": 739,
-      "residents": [
+      "students": [
         "Christopher Johnson",
         "Dan Hernandez",
         "Daniel Brown",
@@ -11124,7 +11124,7 @@
     },
     {
       "room": 740,
-      "residents": [
+      "students": [
         "Christina Jones",
         "Cynthia Vance",
         "Dean King",
@@ -11143,7 +11143,7 @@
     },
     {
       "room": 741,
-      "residents": [
+      "students": [
         "Amy Price",
         "Andrew Chen MD",
         "Ashley Moreno",
@@ -11161,7 +11161,7 @@
     },
     {
       "room": 742,
-      "residents": [
+      "students": [
         "Catherine Mccann",
         "Chelsea Scott",
         "Christopher Thompson",
@@ -11176,7 +11176,7 @@
     },
     {
       "room": 743,
-      "residents": [
+      "students": [
         "Alan Williams",
         "Amy Cook",
         "Benjamin Shields",
@@ -11193,7 +11193,7 @@
     },
     {
       "room": 744,
-      "residents": [
+      "students": [
         "Charles Brooks",
         "Charles Davis",
         "John Shelton",
@@ -11204,7 +11204,7 @@
     },
     {
       "room": 745,
-      "residents": [
+      "students": [
         "Angela Cook",
         "Carl Glover",
         "Joshua Arnold",
@@ -11218,7 +11218,7 @@
     },
     {
       "room": 746,
-      "residents": [
+      "students": [
         "Alisha Harrell",
         "Allison Dougherty",
         "Christina Price",
@@ -11232,7 +11232,7 @@
     },
     {
       "room": 747,
-      "residents": [
+      "students": [
         "Brian Skinner",
         "Charles Pena",
         "Jamie Dudley",
@@ -11250,7 +11250,7 @@
     },
     {
       "room": 748,
-      "residents": [
+      "students": [
         "Charles Bailey Jr.",
         "Christopher Barnes",
         "Christopher Martinez",
@@ -11264,7 +11264,7 @@
     },
     {
       "room": 749,
-      "residents": [
+      "students": [
         "Allison Young",
         "Billy Doyle",
         "Bruce Lucero",
@@ -11282,7 +11282,7 @@
     },
     {
       "room": 750,
-      "residents": [
+      "students": [
         "Caitlin Jones",
         "Caroline Francis",
         "Catherine Edwards",
@@ -11298,7 +11298,7 @@
     },
     {
       "room": 751,
-      "residents": [
+      "students": [
         "Bethany Hill",
         "Brandi Cabrera",
         "Jacqueline Hubbard",
@@ -11315,7 +11315,7 @@
     },
     {
       "room": 752,
-      "residents": [
+      "students": [
         "Albert Phillips",
         "Alvin Nelson",
         "Angela Smith",
@@ -11332,7 +11332,7 @@
     },
     {
       "room": 753,
-      "residents": [
+      "students": [
         "Antonio Bryan",
         "Brittany Kelly",
         "Crystal Robinson",
@@ -11345,7 +11345,7 @@
     },
     {
       "room": 754,
-      "residents": [
+      "students": [
         "Amber Bailey",
         "Gregory Cooper",
         "Gregory Lawson",
@@ -11355,7 +11355,7 @@
     },
     {
       "room": 755,
-      "residents": [
+      "students": [
         "Angel Gonzalez",
         "Anita Zamora",
         "Dana Anderson",
@@ -11372,7 +11372,7 @@
     },
     {
       "room": 756,
-      "residents": [
+      "students": [
         "Allen Burton",
         "Amber Wright",
         "Bianca Christian",
@@ -11389,7 +11389,7 @@
     },
     {
       "room": 757,
-      "residents": [
+      "students": [
         "April Mercer",
         "Carrie Gomez",
         "Diana Reid",
@@ -11403,7 +11403,7 @@
     },
     {
       "room": 758,
-      "residents": [
+      "students": [
         "Brandy Molina",
         "Cheryl Morgan",
         "Glenn Carpenter",
@@ -11421,7 +11421,7 @@
     },
     {
       "room": 759,
-      "residents": [
+      "students": [
         "Antonio Owen",
         "Candace Mckenzie",
         "Cheryl Hughes",
@@ -11441,7 +11441,7 @@
     },
     {
       "room": 760,
-      "residents": [
+      "students": [
         "Adrian Green",
         "Collin Hunt",
         "Gail Cooper",
@@ -11454,7 +11454,7 @@
     },
     {
       "room": 761,
-      "residents": [
+      "students": [
         "Caitlin Jennings",
         "Chris Walsh",
         "Cody Flynn",
@@ -11468,7 +11468,7 @@
     },
     {
       "room": 762,
-      "residents": [
+      "students": [
         "April Jones",
         "Daniel Riley",
         "Dave Rodriguez",
@@ -11484,7 +11484,7 @@
     },
     {
       "room": 763,
-      "residents": [
+      "students": [
         "Brian Bullock",
         "Kayla Arroyo",
         "Kelsey Tucker",
@@ -11496,7 +11496,7 @@
     },
     {
       "room": 764,
-      "residents": [
+      "students": [
         "Angela Baker",
         "Anthony Lee",
         "Jeffrey Bradley",
@@ -11510,7 +11510,7 @@
     },
     {
       "room": 765,
-      "residents": [
+      "students": [
         "Jimmy Morris",
         "John Yu",
         "Kenneth Kennedy",
@@ -11523,7 +11523,7 @@
     },
     {
       "room": 766,
-      "residents": [
+      "students": [
         "Ashley Beard",
         "Barbara Lee",
         "Brittany Bishop",
@@ -11543,7 +11543,7 @@
     },
     {
       "room": 767,
-      "residents": [
+      "students": [
         "David Woodard",
         "Emily Greer",
         "Gregory Murphy",
@@ -11559,7 +11559,7 @@
     },
     {
       "room": 768,
-      "residents": [
+      "students": [
         "Charles Willis",
         "David Campbell",
         "Jasmin Neal",
@@ -11575,7 +11575,7 @@
     },
     {
       "room": 769,
-      "residents": [
+      "students": [
         "Aaron Smith",
         "Anthony Knight",
         "Ashley Hall",
@@ -11590,7 +11590,7 @@
     },
     {
       "room": 770,
-      "residents": [
+      "students": [
         "Amy Graham",
         "Daniel Johnson",
         "David Schmidt",
@@ -11604,7 +11604,7 @@
     },
     {
       "room": 771,
-      "residents": [
+      "students": [
         "Alexis George",
         "Brian Allen",
         "Chris Walters",
@@ -11623,7 +11623,7 @@
     },
     {
       "room": 772,
-      "residents": [
+      "students": [
         "Diamond Stevenson",
         "Isaac Terry",
         "Jacob Brown",
@@ -11633,7 +11633,7 @@
     },
     {
       "room": 773,
-      "residents": [
+      "students": [
         "Alexis Bradford",
         "Christopher Mathis",
         "David Payne",
@@ -11649,7 +11649,7 @@
     },
     {
       "room": 774,
-      "residents": [
+      "students": [
         "Andre Rubio",
         "Carlos Lang",
         "Christian Torres",
@@ -11662,7 +11662,7 @@
     },
     {
       "room": 775,
-      "residents": [
+      "students": [
         "Angela Oconnor",
         "Austin Clark",
         "Dylan Smith",
@@ -11676,7 +11676,7 @@
     },
     {
       "room": 776,
-      "residents": [
+      "students": [
         "Brianna Bean",
         "Eric Sanders",
         "Jay Lambert",
@@ -11688,7 +11688,7 @@
     },
     {
       "room": 777,
-      "residents": [
+      "students": [
         "Austin Lewis",
         "Charles Thomas DDS",
         "Felicia Weeks",
@@ -11698,7 +11698,7 @@
     },
     {
       "room": 778,
-      "residents": [
+      "students": [
         "Ashley Ellis",
         "Carlos Charles",
         "Caroline Simmons",
@@ -11716,7 +11716,7 @@
     },
     {
       "room": 779,
-      "residents": [
+      "students": [
         "Andrew Flowers",
         "Jeremy Jacobs",
         "Jonathan Miller",
@@ -11734,7 +11734,7 @@
     },
     {
       "room": 780,
-      "residents": [
+      "students": [
         "Charles Simon",
         "Courtney Beck",
         "Edward Dillon",
@@ -11748,7 +11748,7 @@
     },
     {
       "room": 781,
-      "residents": [
+      "students": [
         "Alexis Moore",
         "Frank Little",
         "Jessica Evans",
@@ -11766,7 +11766,7 @@
     },
     {
       "room": 782,
-      "residents": [
+      "students": [
         "Angel Alvarez",
         "Bradley Reed",
         "Eric Walker",
@@ -11779,7 +11779,7 @@
     },
     {
       "room": 783,
-      "residents": [
+      "students": [
         "Barry Smith",
         "Brandon Benton",
         "Jacqueline Christensen",
@@ -11792,7 +11792,7 @@
     },
     {
       "room": 784,
-      "residents": [
+      "students": [
         "Andrew Nash MD",
         "Chelsea Buckley",
         "Janet Hawkins",
@@ -11809,7 +11809,7 @@
     },
     {
       "room": 785,
-      "residents": [
+      "students": [
         "Adam Hoover",
         "Christopher Payne",
         "Curtis Tran",
@@ -11824,7 +11824,7 @@
     },
     {
       "room": 786,
-      "residents": [
+      "students": [
         "Brian Rice MD",
         "Carmen Martin",
         "Felicia Lucas",
@@ -11841,7 +11841,7 @@
     },
     {
       "room": 787,
-      "residents": [
+      "students": [
         "Cindy Wright PhD",
         "David Adams",
         "Emily Clark",
@@ -11854,7 +11854,7 @@
     },
     {
       "room": 788,
-      "residents": [
+      "students": [
         "Catherine Robinson",
         "David Moore",
         "Kevin Davis",
@@ -11864,7 +11864,7 @@
     },
     {
       "room": 789,
-      "residents": [
+      "students": [
         "Andrew Hall",
         "Elizabeth Butler",
         "Jesus Stewart",
@@ -11879,7 +11879,7 @@
     },
     {
       "room": 790,
-      "residents": [
+      "students": [
         "Alan Ramirez",
         "Amber Byrd",
         "Gabriel Smith",
@@ -11892,7 +11892,7 @@
     },
     {
       "room": 791,
-      "residents": [
+      "students": [
         "Autumn Jackson",
         "Brad Ortiz",
         "Donna Mccoy",
@@ -11907,7 +11907,7 @@
     },
     {
       "room": 792,
-      "residents": [
+      "students": [
         "Amber Ortiz",
         "Clifford Sims",
         "Felicia Sims",
@@ -11919,7 +11919,7 @@
     },
     {
       "room": 793,
-      "residents": [
+      "students": [
         "Adam Morgan",
         "Adrian Smith",
         "Allen Coleman",
@@ -11939,7 +11939,7 @@
     },
     {
       "room": 794,
-      "residents": [
+      "students": [
         "Alexander Ware",
         "Evan Smith",
         "Judy Richardson",
@@ -11949,7 +11949,7 @@
     },
     {
       "room": 795,
-      "residents": [
+      "students": [
         "Ashley Blair",
         "Christopher Mata",
         "Dakota Aguilar",
@@ -11966,7 +11966,7 @@
     },
     {
       "room": 796,
-      "residents": [
+      "students": [
         "Alexandria Cox",
         "Jasmine Hensley",
         "Jeremy Simpson",
@@ -11979,7 +11979,7 @@
     },
     {
       "room": 797,
-      "residents": [
+      "students": [
         "Darlene Clark",
         "Heather Oconnor",
         "James Chandler",
@@ -11995,7 +11995,7 @@
     },
     {
       "room": 798,
-      "residents": [
+      "students": [
         "Alexis Estrada",
         "Charles Franklin",
         "Devin Goodwin",
@@ -12005,7 +12005,7 @@
     },
     {
       "room": 799,
-      "residents": [
+      "students": [
         "Anthony Chung",
         "Bobby Fisher",
         "Catherine Russo",
@@ -12023,7 +12023,7 @@
     },
     {
       "room": 800,
-      "residents": [
+      "students": [
         "Daniel Davis",
         "Kevin Garner",
         "Kevin Harvey",
@@ -12033,7 +12033,7 @@
     },
     {
       "room": 801,
-      "residents": [
+      "students": [
         "Courtney Hill",
         "Jonathan Patel",
         "Madison Rose",
@@ -12048,7 +12048,7 @@
     },
     {
       "room": 802,
-      "residents": [
+      "students": [
         "Christopher Manning",
         "Holly Jackson",
         "Jonathon Garcia",
@@ -12065,7 +12065,7 @@
     },
     {
       "room": 803,
-      "residents": [
+      "students": [
         "Andre Cruz IV",
         "Billy Gomez",
         "Carly Hernandez",
@@ -12081,7 +12081,7 @@
     },
     {
       "room": 804,
-      "residents": [
+      "students": [
         "Amanda Jones MD",
         "Barbara Gonzales",
         "Lauren Dunlap",
@@ -12092,7 +12092,7 @@
     },
     {
       "room": 805,
-      "residents": [
+      "students": [
         "Andrea Russo",
         "Charles Johnston",
         "Diane Lane",
@@ -12107,7 +12107,7 @@
     },
     {
       "room": 806,
-      "residents": [
+      "students": [
         "Ashley Phillips",
         "Brandi Gamble",
         "Caroline Hawkins",
@@ -12124,7 +12124,7 @@
     },
     {
       "room": 807,
-      "residents": [
+      "students": [
         "Desiree Henderson",
         "Edwin Horton",
         "Erica Garcia",
@@ -12138,7 +12138,7 @@
     },
     {
       "room": 808,
-      "residents": [
+      "students": [
         "Alfred Tran",
         "Ana Beard",
         "Christina Greene",
@@ -12154,7 +12154,7 @@
     },
     {
       "room": 809,
-      "residents": [
+      "students": [
         "Casey Johnson",
         "George Clark",
         "George Walker",
@@ -12172,14 +12172,14 @@
     },
     {
       "room": 810,
-      "residents": [
+      "students": [
         "Daniel Franklin",
         "Ryan Garcia"
       ]
     },
     {
       "room": 811,
-      "residents": [
+      "students": [
         "Daniel Stevenson",
         "Karina Martin",
         "Robert Guerrero",
@@ -12189,7 +12189,7 @@
     },
     {
       "room": 812,
-      "residents": [
+      "students": [
         "Anthony Rivera",
         "Hannah Poole",
         "Hunter Hawkins",
@@ -12201,7 +12201,7 @@
     },
     {
       "room": 813,
-      "residents": [
+      "students": [
         "Albert Cunningham",
         "Ashley Jones",
         "Brian Huber",
@@ -12226,7 +12226,7 @@
     },
     {
       "room": 814,
-      "residents": [
+      "students": [
         "Angela Gregory",
         "Anthony Allen",
         "Beth Howard",
@@ -12241,7 +12241,7 @@
     },
     {
       "room": 815,
-      "residents": [
+      "students": [
         "Andrea Williams",
         "Carrie Mcclain",
         "David Johnson",
@@ -12255,7 +12255,7 @@
     },
     {
       "room": 816,
-      "residents": [
+      "students": [
         "Amy Palmer",
         "Christopher Nielsen",
         "Douglas Brown",
@@ -12270,7 +12270,7 @@
     },
     {
       "room": 817,
-      "residents": [
+      "students": [
         "Ariana Brown",
         "Brian Collins",
         "Calvin Coleman",
@@ -12287,7 +12287,7 @@
     },
     {
       "room": 818,
-      "residents": [
+      "students": [
         "April Figueroa",
         "Brian Wolf",
         "Carla Doyle",
@@ -12304,7 +12304,7 @@
     },
     {
       "room": 819,
-      "residents": [
+      "students": [
         "Ana Ramirez",
         "April Martinez",
         "Edward Martin",
@@ -12318,7 +12318,7 @@
     },
     {
       "room": 820,
-      "residents": [
+      "students": [
         "Alexander Spencer",
         "Anthony Rogers",
         "Anthony Rosales",
@@ -12336,7 +12336,7 @@
     },
     {
       "room": 821,
-      "residents": [
+      "students": [
         "Ann Adams",
         "Christina Gilbert",
         "Derrick Jackson",
@@ -12352,7 +12352,7 @@
     },
     {
       "room": 822,
-      "residents": [
+      "students": [
         "Amanda Davidson",
         "Christopher Cruz",
         "James Mcdonald",
@@ -12367,7 +12367,7 @@
     },
     {
       "room": 823,
-      "residents": [
+      "students": [
         "Ashley Swanson",
         "Jennifer Bell",
         "Jennifer Scott",
@@ -12379,7 +12379,7 @@
     },
     {
       "room": 824,
-      "residents": [
+      "students": [
         "Carolyn Johnson",
         "Emily Garcia",
         "Francisco Leach",
@@ -12393,7 +12393,7 @@
     },
     {
       "room": 825,
-      "residents": [
+      "students": [
         "Jason Payne",
         "Kendra Anderson",
         "Lauren Shaw",
@@ -12409,7 +12409,7 @@
     },
     {
       "room": 826,
-      "residents": [
+      "students": [
         "Chase Smith",
         "Hannah Woods",
         "Jamie Daniel",
@@ -12423,7 +12423,7 @@
     },
     {
       "room": 827,
-      "residents": [
+      "students": [
         "Anthony Reynolds",
         "Dustin Moon",
         "Jeffrey Fischer",
@@ -12435,7 +12435,7 @@
     },
     {
       "room": 828,
-      "residents": [
+      "students": [
         "Angela Howell",
         "Brandon Lucas",
         "Derek Williams",
@@ -12450,7 +12450,7 @@
     },
     {
       "room": 829,
-      "residents": [
+      "students": [
         "Albert Vaughn",
         "Christian Arnold",
         "Julia Wright",
@@ -12467,7 +12467,7 @@
     },
     {
       "room": 830,
-      "residents": [
+      "students": [
         "Andrew Burns",
         "Daniel Powell",
         "Frank Lawrence",
@@ -12480,7 +12480,7 @@
     },
     {
       "room": 831,
-      "residents": [
+      "students": [
         "Albert Blevins",
         "Brian Kim",
         "Matthew Warner",
@@ -12491,7 +12491,7 @@
     },
     {
       "room": 832,
-      "residents": [
+      "students": [
         "Carl Sherman",
         "Jason Crawford",
         "Jennifer Chavez",
@@ -12510,7 +12510,7 @@
     },
     {
       "room": 833,
-      "residents": [
+      "students": [
         "Allison Green",
         "Breanna Horn",
         "Cynthia Edwards",
@@ -12524,7 +12524,7 @@
     },
     {
       "room": 834,
-      "residents": [
+      "students": [
         "Amy Stewart",
         "Gregory Swanson",
         "Jamie Rivera",
@@ -12539,7 +12539,7 @@
     },
     {
       "room": 835,
-      "residents": [
+      "students": [
         "Brianna Ward",
         "Carol Valencia",
         "Carolyn Gordon",
@@ -12560,7 +12560,7 @@
     },
     {
       "room": 836,
-      "residents": [
+      "students": [
         "Aaron Gallegos",
         "Ashley Ramirez",
         "Christopher Sanders",
@@ -12579,7 +12579,7 @@
     },
     {
       "room": 837,
-      "residents": [
+      "students": [
         "Brian Flowers",
         "Christine Chambers",
         "Darrell Bolton",
@@ -12595,7 +12595,7 @@
     },
     {
       "room": 838,
-      "residents": [
+      "students": [
         "Amy Hughes",
         "Anita Vaughn",
         "Anne Burnett",
@@ -12614,7 +12614,7 @@
     },
     {
       "room": 839,
-      "residents": [
+      "students": [
         "Daniel Mcintyre",
         "Douglas Miller",
         "James Evans",
@@ -12628,7 +12628,7 @@
     },
     {
       "room": 840,
-      "residents": [
+      "students": [
         "Barbara Bradley",
         "Charles Powers",
         "Curtis Cummings",
@@ -12641,7 +12641,7 @@
     },
     {
       "room": 841,
-      "residents": [
+      "students": [
         "Brandi Perez",
         "Candice Cameron",
         "Janice Ho",
@@ -12652,7 +12652,7 @@
     },
     {
       "room": 842,
-      "residents": [
+      "students": [
         "Brian Wise",
         "Emily Wilson",
         "Melissa Young",
@@ -12663,7 +12663,7 @@
     },
     {
       "room": 843,
-      "residents": [
+      "students": [
         "Alexandra Nunez",
         "Anthony Williams",
         "Brian Nelson",
@@ -12680,7 +12680,7 @@
     },
     {
       "room": 844,
-      "residents": [
+      "students": [
         "Cassie Williams",
         "Christine Evans",
         "Eric Vincent",
@@ -12696,7 +12696,7 @@
     },
     {
       "room": 845,
-      "residents": [
+      "students": [
         "Cory Mccarthy",
         "Debbie Garcia",
         "Frederick White Jr.",
@@ -12712,7 +12712,7 @@
     },
     {
       "room": 846,
-      "residents": [
+      "students": [
         "Anne Keller",
         "Brian Johnson",
         "Brian Moore",
@@ -12728,7 +12728,7 @@
     },
     {
       "room": 847,
-      "residents": [
+      "students": [
         "Anita Kirby",
         "Blake Robbins",
         "Brian Davis",
@@ -12749,7 +12749,7 @@
     },
     {
       "room": 848,
-      "residents": [
+      "students": [
         "Amy Wagner",
         "Andrea Rodriguez",
         "Austin Evans",
@@ -12768,7 +12768,7 @@
     },
     {
       "room": 849,
-      "residents": [
+      "students": [
         "Daniel Harris",
         "Diane Johnson",
         "Haley Taylor",
@@ -12782,7 +12782,7 @@
     },
     {
       "room": 850,
-      "residents": [
+      "students": [
         "Abigail Valdez",
         "Blake Chambers",
         "Brian Carson",
@@ -12799,7 +12799,7 @@
     },
     {
       "room": 851,
-      "residents": [
+      "students": [
         "Daniel Gonzales",
         "Jessica Alexander",
         "Katherine Gates",
@@ -12810,7 +12810,7 @@
     },
     {
       "room": 852,
-      "residents": [
+      "students": [
         "Bridget Dean",
         "Candace Crosby MD",
         "Deborah Hayes",
@@ -12825,7 +12825,7 @@
     },
     {
       "room": 853,
-      "residents": [
+      "students": [
         "James Sharp",
         "Jon Lowe",
         "Julie Wallace",
@@ -12838,7 +12838,7 @@
     },
     {
       "room": 854,
-      "residents": [
+      "students": [
         "Alexander Steele",
         "Bonnie Abbott",
         "Cassandra Cooper",
@@ -12856,7 +12856,7 @@
     },
     {
       "room": 855,
-      "residents": [
+      "students": [
         "Alvin Martin",
         "Amber Martinez",
         "Beth Strickland",
@@ -12873,7 +12873,7 @@
     },
     {
       "room": 856,
-      "residents": [
+      "students": [
         "Alicia Harris",
         "Craig Williams",
         "Erica Jackson",
@@ -12888,7 +12888,7 @@
     },
     {
       "room": 857,
-      "residents": [
+      "students": [
         "Alexander Peters",
         "Angelica Greene DDS",
         "Dawn White",
@@ -12899,7 +12899,7 @@
     },
     {
       "room": 858,
-      "residents": [
+      "students": [
         "Ashley Warren",
         "Brian Richards",
         "Charles Nichols PhD",
@@ -12913,7 +12913,7 @@
     },
     {
       "room": 859,
-      "residents": [
+      "students": [
         "Adam Gates",
         "Crystal Roberts",
         "Dana Graham",
@@ -12927,7 +12927,7 @@
     },
     {
       "room": 860,
-      "residents": [
+      "students": [
         "Ashley Rose",
         "Brooke Ellison",
         "David Woods",
@@ -12951,7 +12951,7 @@
     },
     {
       "room": 861,
-      "residents": [
+      "students": [
         "Amanda Martin",
         "Anna Phelps",
         "Cindy Coffey",
@@ -12965,7 +12965,7 @@
     },
     {
       "room": 862,
-      "residents": [
+      "students": [
         "Amber Robinson",
         "Anthony Edwards",
         "Dale Chen",
@@ -12976,7 +12976,7 @@
     },
     {
       "room": 863,
-      "residents": [
+      "students": [
         "Alexis Walters",
         "Allison Matthews",
         "Amanda Lewis",
@@ -12996,7 +12996,7 @@
     },
     {
       "room": 864,
-      "residents": [
+      "students": [
         "Beverly Tyler",
         "James Garcia",
         "Jason Sanders",
@@ -13007,7 +13007,7 @@
     },
     {
       "room": 865,
-      "residents": [
+      "students": [
         "Aaron Davis",
         "Calvin Perkins",
         "Cheryl Johnson",
@@ -13024,7 +13024,7 @@
     },
     {
       "room": 866,
-      "residents": [
+      "students": [
         "Angela Roberts",
         "Cheryl Evans",
         "Cynthia Wallace",
@@ -13041,7 +13041,7 @@
     },
     {
       "room": 867,
-      "residents": [
+      "students": [
         "Carrie Lozano",
         "Christopher Ellis",
         "Dennis Wiggins",
@@ -13057,7 +13057,7 @@
     },
     {
       "room": 868,
-      "residents": [
+      "students": [
         "Alejandra Byrd",
         "Donald Reyes",
         "Jennifer Scott",
@@ -13071,7 +13071,7 @@
     },
     {
       "room": 869,
-      "residents": [
+      "students": [
         "Ashley Taylor",
         "Brianna Anderson",
         "Carmen Hudson",
@@ -13085,7 +13085,7 @@
     },
     {
       "room": 870,
-      "residents": [
+      "students": [
         "Angela Lewis",
         "Ethan Cannon",
         "Jacob Fuller",
@@ -13096,7 +13096,7 @@
     },
     {
       "room": 871,
-      "residents": [
+      "students": [
         "Aimee Garrison",
         "Bradley Sullivan",
         "Brandon Robertson",
@@ -13111,7 +13111,7 @@
     },
     {
       "room": 872,
-      "residents": [
+      "students": [
         "Barbara Anderson",
         "Brett Nichols",
         "Daniel Vasquez",
@@ -13129,7 +13129,7 @@
     },
     {
       "room": 873,
-      "residents": [
+      "students": [
         "Carrie Young",
         "Lori Tucker",
         "Mark Brown",
@@ -13138,7 +13138,7 @@
     },
     {
       "room": 874,
-      "residents": [
+      "students": [
         "Christine Vargas",
         "David Montoya",
         "Jason Sloan",
@@ -13149,7 +13149,7 @@
     },
     {
       "room": 875,
-      "residents": [
+      "students": [
         "Carl Kelly",
         "Carol Gray",
         "Danielle Cook",
@@ -13168,7 +13168,7 @@
     },
     {
       "room": 876,
-      "residents": [
+      "students": [
         "Cathy Payne",
         "Chelsey Smith",
         "Darrell Sanchez",
@@ -13179,7 +13179,7 @@
     },
     {
       "room": 877,
-      "residents": [
+      "students": [
         "Christopher Ayers",
         "Christopher Lloyd",
         "Diana Montgomery",
@@ -13195,7 +13195,7 @@
     },
     {
       "room": 878,
-      "residents": [
+      "students": [
         "Adam Rich",
         "Bryan Willis",
         "Daniel Garcia",
@@ -13211,7 +13211,7 @@
     },
     {
       "room": 879,
-      "residents": [
+      "students": [
         "Brandon Garcia",
         "Christina Hall",
         "Daniel Jefferson MD",
@@ -13231,7 +13231,7 @@
     },
     {
       "room": 880,
-      "residents": [
+      "students": [
         "Amanda Davidson",
         "Angie Perry",
         "Jennifer George",
@@ -13245,7 +13245,7 @@
     },
     {
       "room": 881,
-      "residents": [
+      "students": [
         "Anthony Wilson",
         "Crystal Nielsen",
         "Emily Miller",
@@ -13261,7 +13261,7 @@
     },
     {
       "room": 882,
-      "residents": [
+      "students": [
         "Adam Knox",
         "Brittany Williams",
         "Heather Kane",
@@ -13273,7 +13273,7 @@
     },
     {
       "room": 883,
-      "residents": [
+      "students": [
         "Alexander Stewart",
         "Elizabeth Brock",
         "Eric Willis",
@@ -13287,7 +13287,7 @@
     },
     {
       "room": 884,
-      "residents": [
+      "students": [
         "Alec Robinson",
         "Antonio Barnes",
         "Brian Russell",
@@ -13306,7 +13306,7 @@
     },
     {
       "room": 885,
-      "residents": [
+      "students": [
         "Amy Drake",
         "Crystal Garcia",
         "John Henry",
@@ -13318,7 +13318,7 @@
     },
     {
       "room": 886,
-      "residents": [
+      "students": [
         "Brenda Cook",
         "Heather Bond",
         "Joel Blake",
@@ -13329,7 +13329,7 @@
     },
     {
       "room": 887,
-      "residents": [
+      "students": [
         "David Cruz",
         "Kristina Smith",
         "Malik Stark",
@@ -13341,7 +13341,7 @@
     },
     {
       "room": 888,
-      "residents": [
+      "students": [
         "Ashley Johnson",
         "Brian Young",
         "Joshua Rice",
@@ -13357,7 +13357,7 @@
     },
     {
       "room": 889,
-      "residents": [
+      "students": [
         "Brian Murray",
         "Caitlin Jones",
         "Charles Anderson",
@@ -13370,7 +13370,7 @@
     },
     {
       "room": 890,
-      "residents": [
+      "students": [
         "Dana Conrad",
         "David Dickerson",
         "Janet Porter",
@@ -13383,7 +13383,7 @@
     },
     {
       "room": 891,
-      "residents": [
+      "students": [
         "Andrea Hernandez",
         "Angela Gardner",
         "Donald Phelps",
@@ -13399,7 +13399,7 @@
     },
     {
       "room": 892,
-      "residents": [
+      "students": [
         "Ashley Hunt",
         "Bryan Ramirez",
         "Erin Christensen",
@@ -13414,7 +13414,7 @@
     },
     {
       "room": 893,
-      "residents": [
+      "students": [
         "Albert Nelson",
         "Ashley Brown",
         "Brian Medina",
@@ -13432,7 +13432,7 @@
     },
     {
       "room": 894,
-      "residents": [
+      "students": [
         "Alexandra Howard",
         "Amy Brown",
         "Angela Sanchez",
@@ -13454,7 +13454,7 @@
     },
     {
       "room": 895,
-      "residents": [
+      "students": [
         "Amanda Webb",
         "Carl Goodman",
         "Christina Fitzgerald",
@@ -13465,7 +13465,7 @@
     },
     {
       "room": 896,
-      "residents": [
+      "students": [
         "Amanda Faulkner",
         "April Wilson",
         "John Martinez",
@@ -13478,7 +13478,7 @@
     },
     {
       "room": 897,
-      "residents": [
+      "students": [
         "Anne Davis",
         "April Smith",
         "Caitlin Burton",
@@ -13492,7 +13492,7 @@
     },
     {
       "room": 898,
-      "residents": [
+      "students": [
         "Andrew Rosales",
         "Anthony Harris",
         "Charles Wu",
@@ -13509,7 +13509,7 @@
     },
     {
       "room": 899,
-      "residents": [
+      "students": [
         "Andrew Mckinney",
         "Christine Atkinson",
         "Deborah Rivera",
@@ -13524,7 +13524,7 @@
     },
     {
       "room": 900,
-      "residents": [
+      "students": [
         "David Benitez",
         "Jamie Bryant",
         "Janet Bruce",
@@ -13540,7 +13540,7 @@
     },
     {
       "room": 901,
-      "residents": [
+      "students": [
         "Andrew Villa",
         "Ashley Avery",
         "Ashley Newton MD",
@@ -13553,7 +13553,7 @@
     },
     {
       "room": 902,
-      "residents": [
+      "students": [
         "Jeremy Gutierrez",
         "Kathryn Hodges",
         "Patricia Farley",
@@ -13563,7 +13563,7 @@
     },
     {
       "room": 903,
-      "residents": [
+      "students": [
         "Cole King",
         "Jill Miller",
         "Kimberly Riley",
@@ -13579,7 +13579,7 @@
     },
     {
       "room": 904,
-      "residents": [
+      "students": [
         "Alex Cross",
         "Catherine Blake",
         "Joshua Shelton",
@@ -13592,7 +13592,7 @@
     },
     {
       "room": 905,
-      "residents": [
+      "students": [
         "April Wallace",
         "Carolyn Peters",
         "Christine Kelley",
@@ -13616,7 +13616,7 @@
     },
     {
       "room": 906,
-      "residents": [
+      "students": [
         "Amber Howell",
         "Austin Avery",
         "Christopher Berg",
@@ -13631,7 +13631,7 @@
     },
     {
       "room": 907,
-      "residents": [
+      "students": [
         "Albert Mason",
         "Ashlee Johnson",
         "Catherine Barron",
@@ -13648,7 +13648,7 @@
     },
     {
       "room": 908,
-      "residents": [
+      "students": [
         "Ashley Edwards DDS",
         "Kathryn Smith",
         "Kelly Garner",
@@ -13660,7 +13660,7 @@
     },
     {
       "room": 909,
-      "residents": [
+      "students": [
         "Cassidy Hernandez",
         "Daniel Garcia",
         "Deborah Valenzuela",
@@ -13677,7 +13677,7 @@
     },
     {
       "room": 910,
-      "residents": [
+      "students": [
         "Aaron Richardson",
         "Ashley Moyer",
         "Diane Good",
@@ -13692,7 +13692,7 @@
     },
     {
       "room": 911,
-      "residents": [
+      "students": [
         "Beverly Duran",
         "Daniel Jones",
         "Derrick Levy",
@@ -13707,7 +13707,7 @@
     },
     {
       "room": 912,
-      "residents": [
+      "students": [
         "Gerald Lane",
         "Jennifer Mcintosh",
         "Jessica Phillips MD",
@@ -13725,7 +13725,7 @@
     },
     {
       "room": 913,
-      "residents": [
+      "students": [
         "Deborah Fisher",
         "Jonathan Turner",
         "Kimberly Ellis"
@@ -13733,7 +13733,7 @@
     },
     {
       "room": 914,
-      "residents": [
+      "students": [
         "Barry Romero",
         "Brian Diaz",
         "Christina Martinez",
@@ -13751,7 +13751,7 @@
     },
     {
       "room": 915,
-      "residents": [
+      "students": [
         "Abigail Robbins",
         "Angela Hudson",
         "Christina Williams",
@@ -13761,7 +13761,7 @@
     },
     {
       "room": 916,
-      "residents": [
+      "students": [
         "Anna Perkins",
         "David Garcia",
         "Debra Cuevas",
@@ -13774,7 +13774,7 @@
     },
     {
       "room": 917,
-      "residents": [
+      "students": [
         "Daniel Hill",
         "Denise Carpenter",
         "Dr. Ann Benton",
@@ -13788,7 +13788,7 @@
     },
     {
       "room": 918,
-      "residents": [
+      "students": [
         "Alexandra Jackson",
         "Ashley Wilson",
         "Christina Lowery",
@@ -13807,7 +13807,7 @@
     },
     {
       "room": 919,
-      "residents": [
+      "students": [
         "Douglas Hart",
         "Michael Brandt",
         "Misty Nguyen",
@@ -13817,7 +13817,7 @@
     },
     {
       "room": 920,
-      "residents": [
+      "students": [
         "Chad Moore",
         "Chad Morris",
         "Howard Scott",
@@ -13830,7 +13830,7 @@
     },
     {
       "room": 921,
-      "residents": [
+      "students": [
         "Amy Herrera",
         "Daniel Tucker",
         "Dennis Hughes",
@@ -13845,7 +13845,7 @@
     },
     {
       "room": 922,
-      "residents": [
+      "students": [
         "Alexander Hill",
         "Angela Gardner",
         "Laura Palmer",
@@ -13860,7 +13860,7 @@
     },
     {
       "room": 923,
-      "residents": [
+      "students": [
         "Amy Curry",
         "Bryan Dominguez",
         "Caroline Sandoval",
@@ -13874,7 +13874,7 @@
     },
     {
       "room": 924,
-      "residents": [
+      "students": [
         "Amanda Davis",
         "Amber Mitchell",
         "Christian King",
@@ -13891,7 +13891,7 @@
     },
     {
       "room": 925,
-      "residents": [
+      "students": [
         "Benjamin Leonard",
         "Dennis Barnes",
         "Jonathan Smith",
@@ -13904,7 +13904,7 @@
     },
     {
       "room": 926,
-      "residents": [
+      "students": [
         "Adam Combs",
         "Alexander Miller",
         "Amanda Obrien",
@@ -13923,7 +13923,7 @@
     },
     {
       "room": 927,
-      "residents": [
+      "students": [
         "Amanda Alvarado",
         "Darren Brewer",
         "Jessica Rivera",
@@ -13937,7 +13937,7 @@
     },
     {
       "room": 928,
-      "residents": [
+      "students": [
         "Christopher Abbott",
         "Cindy Lewis",
         "Eddie Mcconnell",
@@ -13950,7 +13950,7 @@
     },
     {
       "room": 929,
-      "residents": [
+      "students": [
         "Alexandra Conrad",
         "Ashley Meyer",
         "Casey Barnes",
@@ -13964,7 +13964,7 @@
     },
     {
       "room": 930,
-      "residents": [
+      "students": [
         "April Hernandez",
         "Charles Palmer",
         "Dennis Davis",
@@ -13984,7 +13984,7 @@
     },
     {
       "room": 931,
-      "residents": [
+      "students": [
         "Adam Mueller",
         "Bryan Ochoa",
         "Edward Taylor",
@@ -13996,7 +13996,7 @@
     },
     {
       "room": 932,
-      "residents": [
+      "students": [
         "Catherine Fisher",
         "Chelsea Duncan",
         "Christopher Morris",
@@ -14010,7 +14010,7 @@
     },
     {
       "room": 933,
-      "residents": [
+      "students": [
         "Charles Fields",
         "Christopher Knox",
         "Craig Martin",
@@ -14025,7 +14025,7 @@
     },
     {
       "room": 934,
-      "residents": [
+      "students": [
         "Fernando Lopez",
         "Joe Montgomery",
         "Michele Morgan",
@@ -14034,7 +14034,7 @@
     },
     {
       "room": 935,
-      "residents": [
+      "students": [
         "Anthony Martinez",
         "Brittney Wong",
         "Christopher Robinson",
@@ -14049,7 +14049,7 @@
     },
     {
       "room": 936,
-      "residents": [
+      "students": [
         "Alexandra Peck",
         "Amy Sullivan",
         "Anthony Villanueva",
@@ -14067,7 +14067,7 @@
     },
     {
       "room": 937,
-      "residents": [
+      "students": [
         "Adam Morgan",
         "Alan Bradley",
         "Colin Newman",
@@ -14083,7 +14083,7 @@
     },
     {
       "room": 938,
-      "residents": [
+      "students": [
         "Amber Garcia",
         "Charles Harris",
         "Chloe Gibbs",
@@ -14100,7 +14100,7 @@
     },
     {
       "room": 939,
-      "residents": [
+      "students": [
         "Brooke Clark",
         "Denise Morales",
         "Frank Webster",
@@ -14114,7 +14114,7 @@
     },
     {
       "room": 940,
-      "residents": [
+      "students": [
         "Alexandria Dean",
         "Claire Ramirez",
         "Jeremiah Yang",
@@ -14126,7 +14126,7 @@
     },
     {
       "room": 941,
-      "residents": [
+      "students": [
         "Debra Stone",
         "Dr. Vanessa Estrada",
         "Joshua Roberson",
@@ -14142,7 +14142,7 @@
     },
     {
       "room": 942,
-      "residents": [
+      "students": [
         "Benjamin Davis",
         "Christopher Hernandez",
         "Cynthia Cruz",
@@ -14158,7 +14158,7 @@
     },
     {
       "room": 943,
-      "residents": [
+      "students": [
         "Amanda Williams",
         "Heather Cervantes",
         "Justin Marshall",
@@ -14168,7 +14168,7 @@
     },
     {
       "room": 944,
-      "residents": [
+      "students": [
         "Aaron Bishop",
         "Alan Vega",
         "Anthony Garcia",
@@ -14181,7 +14181,7 @@
     },
     {
       "room": 945,
-      "residents": [
+      "students": [
         "Ann Carson",
         "Brendan Roman",
         "Brittney Brown",
@@ -14196,7 +14196,7 @@
     },
     {
       "room": 946,
-      "residents": [
+      "students": [
         "Adrienne Higgins",
         "Bryan Chase",
         "Erica Walker",
@@ -14212,7 +14212,7 @@
     },
     {
       "room": 947,
-      "residents": [
+      "students": [
         "Andrea Taylor",
         "Daniel Adams",
         "Deborah Adams",
@@ -14225,7 +14225,7 @@
     },
     {
       "room": 948,
-      "residents": [
+      "students": [
         "Amber Gonzalez",
         "Brenda Henry",
         "Dustin Kelley",
@@ -14243,7 +14243,7 @@
     },
     {
       "room": 949,
-      "residents": [
+      "students": [
         "Amanda Huffman",
         "Andrew Smith",
         "Claudia Stephens",
@@ -14258,7 +14258,7 @@
     },
     {
       "room": 950,
-      "residents": [
+      "students": [
         "Aaron Lee",
         "Brianna Weeks",
         "Denise Taylor",
@@ -14275,7 +14275,7 @@
     },
     {
       "room": 951,
-      "residents": [
+      "students": [
         "Anita Campbell",
         "Anthony Murray",
         "Chad Santos",
@@ -14288,7 +14288,7 @@
     },
     {
       "room": 952,
-      "residents": [
+      "students": [
         "Andrew Hanson",
         "Caitlin Powell",
         "Christopher Parker",
@@ -14306,7 +14306,7 @@
     },
     {
       "room": 953,
-      "residents": [
+      "students": [
         "Andrew Nguyen",
         "Cathy Chapman DVM",
         "Christina Mendoza",
@@ -14322,7 +14322,7 @@
     },
     {
       "room": 954,
-      "residents": [
+      "students": [
         "Brittany Cisneros",
         "Emily Torres",
         "John Nelson",
@@ -14334,7 +14334,7 @@
     },
     {
       "room": 955,
-      "residents": [
+      "students": [
         "Ashley Conley",
         "Barry Davis",
         "Brian Huff",
@@ -14352,7 +14352,7 @@
     },
     {
       "room": 956,
-      "residents": [
+      "students": [
         "Amy Wright",
         "Andrew Vincent",
         "Charles Garcia",
@@ -14363,7 +14363,7 @@
     },
     {
       "room": 957,
-      "residents": [
+      "students": [
         "Brian Maxwell",
         "Brian Price",
         "Brittany Berry",
@@ -14377,7 +14377,7 @@
     },
     {
       "room": 958,
-      "residents": [
+      "students": [
         "Ann Williams",
         "Catherine Rivers",
         "Dr. Michael Lee",
@@ -14396,7 +14396,7 @@
     },
     {
       "room": 959,
-      "residents": [
+      "students": [
         "Amanda King",
         "Anthony Wilson",
         "Brittany Peterson",
@@ -14409,7 +14409,7 @@
     },
     {
       "room": 960,
-      "residents": [
+      "students": [
         "Brenda Morris",
         "Cody Reilly",
         "Jason Harris",
@@ -14422,7 +14422,7 @@
     },
     {
       "room": 961,
-      "residents": [
+      "students": [
         "Bradley Adkins",
         "Brenda Weiss",
         "Cassie Green",
@@ -14444,7 +14444,7 @@
     },
     {
       "room": 962,
-      "residents": [
+      "students": [
         "Ana Oconnell DDS",
         "Christopher Lane",
         "Daniel Patterson",
@@ -14458,7 +14458,7 @@
     },
     {
       "room": 963,
-      "residents": [
+      "students": [
         "Christopher Hurley",
         "Hayley May",
         "Kara Miller",
@@ -14469,7 +14469,7 @@
     },
     {
       "room": 964,
-      "residents": [
+      "students": [
         "James Higgins",
         "John Bowman",
         "Julie Pena",
@@ -14479,7 +14479,7 @@
     },
     {
       "room": 965,
-      "residents": [
+      "students": [
         "Alyssa Cardenas",
         "Brent Goodwin",
         "Bruce Brown",
@@ -14499,7 +14499,7 @@
     },
     {
       "room": 966,
-      "residents": [
+      "students": [
         "Cheryl Mcgee",
         "Dr. Noah Davis",
         "Eugene Cochran",
@@ -14515,7 +14515,7 @@
     },
     {
       "room": 967,
-      "residents": [
+      "students": [
         "Claire Stanley",
         "George Lee",
         "Heidi Johnson",
@@ -14531,7 +14531,7 @@
     },
     {
       "room": 968,
-      "residents": [
+      "students": [
         "Andrew Vasquez",
         "Christopher Hoffman",
         "Daniel Anderson",
@@ -14553,7 +14553,7 @@
     },
     {
       "room": 969,
-      "residents": [
+      "students": [
         "Ashley Hernandez",
         "Dana Simmons",
         "David Ortega",
@@ -14574,7 +14574,7 @@
     },
     {
       "room": 970,
-      "residents": [
+      "students": [
         "Cynthia Collins",
         "David Green",
         "Jose Stein",
@@ -14585,7 +14585,7 @@
     },
     {
       "room": 971,
-      "residents": [
+      "students": [
         "Aaron Campos",
         "Darlene Robinson",
         "Eric Gibson",
@@ -14599,7 +14599,7 @@
     },
     {
       "room": 972,
-      "residents": [
+      "students": [
         "Cory Burgess",
         "Dr. Janice Clay",
         "Nathan Fox",
@@ -14608,7 +14608,7 @@
     },
     {
       "room": 973,
-      "residents": [
+      "students": [
         "Angela Romero",
         "Brittany Jones",
         "Christie Holmes",
@@ -14622,7 +14622,7 @@
     },
     {
       "room": 974,
-      "residents": [
+      "students": [
         "Ashley Howard",
         "Dr. Samuel Phillips DDS",
         "Franklin Robinson",
@@ -14635,7 +14635,7 @@
     },
     {
       "room": 975,
-      "residents": [
+      "students": [
         "David Werner",
         "Heather Stewart",
         "Jacob Byrd",
@@ -14649,7 +14649,7 @@
     },
     {
       "room": 976,
-      "residents": [
+      "students": [
         "Andrew Perez",
         "Brenda Wilson",
         "Chad Haney",
@@ -14661,7 +14661,7 @@
     },
     {
       "room": 977,
-      "residents": [
+      "students": [
         "Brendan Morton",
         "Charles Campbell",
         "Heather Taylor",
@@ -14676,7 +14676,7 @@
     },
     {
       "room": 978,
-      "residents": [
+      "students": [
         "Amy Summers",
         "Heather Hicks",
         "Jason Davis",
@@ -14693,7 +14693,7 @@
     },
     {
       "room": 979,
-      "residents": [
+      "students": [
         "Dr. Bridget Patrick",
         "Edwin Campbell",
         "Jeff Bell",
@@ -14708,7 +14708,7 @@
     },
     {
       "room": 980,
-      "residents": [
+      "students": [
         "Corey Lowe",
         "Jamie Lee",
         "Jennifer Wilson",
@@ -14727,7 +14727,7 @@
     },
     {
       "room": 981,
-      "residents": [
+      "students": [
         "Angela Green",
         "Christopher Bradshaw",
         "David Bowen",
@@ -14744,7 +14744,7 @@
     },
     {
       "room": 982,
-      "residents": [
+      "students": [
         "James Garcia",
         "Lisa Jackson",
         "Maria Howell",
@@ -14757,7 +14757,7 @@
     },
     {
       "room": 983,
-      "residents": [
+      "students": [
         "Brian Perez",
         "Gabriel Skinner",
         "Harry Lawson",
@@ -14768,7 +14768,7 @@
     },
     {
       "room": 984,
-      "residents": [
+      "students": [
         "Donald Howard",
         "Dr. Annette Walters MD",
         "Elizabeth Murphy",
@@ -14786,7 +14786,7 @@
     },
     {
       "room": 985,
-      "residents": [
+      "students": [
         "Andrea Mccullough",
         "Jill Peterson",
         "William Christian"
@@ -14794,7 +14794,7 @@
     },
     {
       "room": 986,
-      "residents": [
+      "students": [
         "Daniel Case",
         "David Douglas",
         "John Erickson",
@@ -14812,7 +14812,7 @@
     },
     {
       "room": 987,
-      "residents": [
+      "students": [
         "Charles Duarte",
         "Chase Huber",
         "Jacob Chavez",
@@ -14824,7 +14824,7 @@
     },
     {
       "room": 988,
-      "residents": [
+      "students": [
         "Brett Martinez",
         "Brittany Mason",
         "Carol Fernandez",
@@ -14839,7 +14839,7 @@
     },
     {
       "room": 989,
-      "residents": [
+      "students": [
         "Beth Morris",
         "Bradley Medina",
         "Jackie Green",
@@ -14854,7 +14854,7 @@
     },
     {
       "room": 990,
-      "residents": [
+      "students": [
         "Amber Owen",
         "Amy Boyer",
         "Mason Jones",
@@ -14864,7 +14864,7 @@
     },
     {
       "room": 991,
-      "residents": [
+      "students": [
         "David Johnston",
         "Dr. Jason Moody",
         "George Smith",
@@ -14878,7 +14878,7 @@
     },
     {
       "room": 992,
-      "residents": [
+      "students": [
         "Amber Johnson DDS",
         "Audrey Johnson",
         "Dawn Noble",
@@ -14896,7 +14896,7 @@
     },
     {
       "room": 993,
-      "residents": [
+      "students": [
         "Amanda Mccullough",
         "Crystal King",
         "Elizabeth Haas",
@@ -14911,7 +14911,7 @@
     },
     {
       "room": 994,
-      "residents": [
+      "students": [
         "Carol Gray",
         "Eric Huff",
         "Felicia Jacobs",
@@ -14922,7 +14922,7 @@
     },
     {
       "room": 995,
-      "residents": [
+      "students": [
         "Ann Lewis",
         "Anna Garner",
         "Curtis Lopez",
@@ -14940,7 +14940,7 @@
     },
     {
       "room": 996,
-      "residents": [
+      "students": [
         "Aaron Brown",
         "Brett Hicks",
         "Caitlyn Parker",
@@ -14953,7 +14953,7 @@
     },
     {
       "room": 997,
-      "residents": [
+      "students": [
         "Ashley Edwards",
         "Jeffrey Miranda",
         "Katherine Mckenzie",
@@ -14967,7 +14967,7 @@
     },
     {
       "room": 998,
-      "residents": [
+      "students": [
         "Alexander Martin",
         "Brandon Morgan",
         "Carrie Dyer",
@@ -14986,7 +14986,7 @@
     },
     {
       "room": 999,
-      "residents": [
+      "students": [
         "Aaron Daniel",
         "Alice Hayes",
         "Cheryl Harris",
@@ -15004,46 +15004,46 @@
   ],
   "rooms_with_min_avg_age": [
     {
-      "room": 661,
-      "min_avg_age_days": 4665
+      "room": 105,
+      "avg_age_days": 38146
     },
     {
-      "room": 913,
-      "min_avg_age_days": 7570
+      "room": 25,
+      "avg_age_days": 36666
     },
     {
-      "room": 111,
-      "min_avg_age_days": 11932
+      "room": 972,
+      "avg_age_days": 35943
     },
     {
-      "room": 957,
-      "min_avg_age_days": 12449
+      "room": 783,
+      "avg_age_days": 34020
     },
     {
-      "room": 773,
-      "min_avg_age_days": 13194
+      "room": 983,
+      "avg_age_days": 33654
     }
   ],
   "rooms_with_max_age_diff": [
     {
       "room": 712,
-      "max_age_diff_days": 42161
+      "age_diff_days": 42161
     },
     {
       "room": 875,
-      "max_age_diff_days": 42100
+      "age_diff_days": 42100
     },
     {
       "room": 381,
-      "max_age_diff_days": 42036
+      "age_diff_days": 42036
     },
     {
       "room": 213,
-      "max_age_diff_days": 42001
+      "age_diff_days": 42001
     },
     {
       "room": 83,
-      "max_age_diff_days": 41978
+      "age_diff_days": 41978
     }
   ],
   "rooms_with_mixed_gender": [
