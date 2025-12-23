@@ -1,26 +1,68 @@
+import argparse
 import json
-from InputOperations import CreateRoomTable, CreateStudentsTable, CreateIndexesTable, ExtractingRoomsInfo, ExtractingStudentsInfo
-from CalculatingFunctions import CalculatungRoomsAndPeople, CalculatungMixedGenderRooms, CalculatungMinAvgAge, CalculatungMaxAgeDiff
-from OutputOperations import OutputJSON
-from db_config import conn, cur
 
-rooms_data = json.load(open("rooms.json"))
-students_data = json.load(open("students.json"))
+from db.connection import conn, cursor
+from data_io.load_data import insert_rooms, insert_students
+from services.calculations import (
+    get_rooms_with_students,
+    get_rooms_with_min_avg_age,
+    get_rooms_with_max_age_diff,
+    get_mixed_gender_rooms,
+)
+from data_io.export_json import export_to_json
+from repositories.schema import (
+    create_rooms_table,
+    create_indexes,
+    create_students_table,
+)
+from data_io.import_json import import_rooms_info, import_students_info
 
-CreateRoomTable(cur)
-CreateStudentsTable(cur)
-CreateIndexesTable(cur)
 
-ExtractingRoomsInfo(cur, rooms_data)
-ExtractingStudentsInfo(cur, students_data)
+def parse_args():
+    parser = argparse.ArgumentParser(description="Rooms and students processing")
+    parser.add_argument(
+        "--rooms",
+        required=True,
+        help="Path to rooms JSON file"
+    )
+    parser.add_argument(
+        "--students",
+        required=True,
+        help="Path to students JSON file"
+    )
+    parser.add_argument(
+        "--output",
+        default="result.json",
+        help="Path to output JSON file"
+    )
+    return parser.parse_args()
 
-rooms_and_people = CalculatungRoomsAndPeople(cur)
-min_avg_age = CalculatungMinAvgAge(cur)
-max_age_diff = CalculatungMaxAgeDiff(cur)
-mixed_gender_rooms = CalculatungMixedGenderRooms(cur)
 
-OutputJSON(rooms_and_people, min_avg_age, max_age_diff, mixed_gender_rooms)
+def main():
+    args = parse_args()
 
-conn.commit()
-cur.close()
-conn.close()
+    rooms = import_rooms_info(cursor, args)
+    students = import_students_info(cursor, args)
+
+    create_rooms_table(cursor);
+    create_students_table(cursor);
+    create_indexes(cursor);
+
+    insert_rooms(cursor, rooms)
+    insert_students(cursor, students)
+
+    export_to_json(
+        get_rooms_with_students(cursor),
+        get_rooms_with_min_avg_age(cursor),
+        get_rooms_with_max_age_diff(cursor),
+        get_mixed_gender_rooms(cursor),
+        filepath=args.output,
+    )
+
+    conn.commit()
+    cursor.close()
+    conn.close()
+
+
+if __name__ == "__main__":
+    main()
