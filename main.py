@@ -44,9 +44,9 @@ def main():
     rooms = import_rooms_info(cursor, args)
     students = import_students_info(cursor, args)
 
-    create_rooms_table(cursor);
-    create_students_table(cursor);
-    create_indexes(cursor);
+    create_rooms_table(cursor)
+    create_students_table(cursor)
+    create_indexes(cursor)
 
     insert_rooms(cursor, rooms)
     insert_students(cursor, students)
