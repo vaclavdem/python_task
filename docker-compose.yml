@@ -29,7 +29,13 @@ services:
       - .:/app
     command: >
       sh -c "sleep 5 &&
-             python main.py --rooms rooms.json --students students.json"
+             python main.py
+             --rooms rooms.json
+             --students students.json
+             --output_first_query result_first_query.json
+             --output_second_query result_second_query.json
+             --output_third_query result_third_query.json
+             --output_fourth_query result_fourth_query.json"
 
 volumes:
   pg_data:

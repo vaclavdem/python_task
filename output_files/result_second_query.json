@@ -1,0 +1,24 @@
+{
+  "rooms_with_min_avg_age": [
+    {
+      "room": 105,
+      "avg_age_days": 38151
+    },
+    {
+      "room": 25,
+      "avg_age_days": 36671
+    },
+    {
+      "room": 972,
+      "avg_age_days": 35948
+    },
+    {
+      "room": 783,
+      "avg_age_days": 34025
+    },
+    {
+      "room": 983,
+      "avg_age_days": 33659
+    }
+  ]
+}
