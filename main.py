@@ -9,12 +9,7 @@ from services.calculations import (
     get_rooms_with_max_age_diff,
     get_mixed_gender_rooms,
 )
-from data_io.export_json import (
-    export_to_json_fourth_query,
-    export_to_json_first_query,
-    export_to_json_third_query,
-    export_to_json_second_query,
-)
+from data_io.export_json import export_to_json
 from repositories.schema import (
     create_rooms_table,
     create_indexes,
@@ -36,24 +31,9 @@ def parse_args():
         help="Path to students JSON file"
     )
     parser.add_argument(
-        "--output_first_query",
-        default="result_first_query.json",
-        help="Path to output JSON file for first query"
-    )
-    parser.add_argument(
-        "--output_second_query",
-        default="result_second_query.json",
-        help="Path to output JSON file for second query"
-    )
-    parser.add_argument(
-        "--output_third_query",
-        default="result_third_query.json",
-        help="Path to output JSON file for third query"
-    )
-    parser.add_argument(
-        "--output_fourth_query",
-        default="result_fourth_query.json",
-        help="Path to output JSON file for fourth query"
+        "--output",
+        default="result.json",
+        help="Path to output JSON file"
     )
     return parser.parse_args()
 
@@ -71,10 +51,13 @@ def main():
     insert_rooms(cursor, rooms)
     insert_students(cursor, students)
 
-    export_to_json_first_query(get_rooms_with_students(cursor), filepath=args.output_first_query)
-    export_to_json_second_query(get_rooms_with_min_avg_age(cursor), filepath=args.output_second_query)
-    export_to_json_third_query(get_rooms_with_max_age_diff(cursor), filepath=args.output_third_query)
-    export_to_json_fourth_query(get_mixed_gender_rooms(cursor), filepath=args.output_fourth_query)
+    export_to_json(
+        get_rooms_with_students(cursor),
+        get_rooms_with_min_avg_age(cursor),
+        get_rooms_with_max_age_diff(cursor),
+        get_mixed_gender_rooms(cursor),
+        filepath=args.output,
+    )
 
     conn.commit()
     cursor.close()

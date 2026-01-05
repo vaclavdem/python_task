@@ -35,6 +35,3 @@ def insert_students(cursor, students):
                 student.room,
             )
         )
-
-
-
