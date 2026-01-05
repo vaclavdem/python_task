@@ -7,12 +7,9 @@ def insert_rooms(cursor, rooms):
     """
     for room in rooms:
         cursor.execute(
-            """
-            INSERT INTO rooms (id, name)
-            VALUES (%s, %s)
-            ON CONFLICT (name) DO NOTHING
-            """,
+            "INSERT INTO rooms (id, name) VALUES (%s, %s) ON CONFLICT (id) DO NOTHING",
             (room.id, room.name)
+
         )
 
 
@@ -28,8 +25,7 @@ def insert_students(cursor, students):
             """
             INSERT INTO students (id, name, birthday, sex, room)
             VALUES (%s, %s, %s, %s, %s)
-            ON CONFLICT (id)
-            DO UPDATE SET room = EXCLUDED.room
+            ON CONFLICT (id) DO NOTHING
             """,
             (
                 student.id,

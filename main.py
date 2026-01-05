@@ -16,8 +16,9 @@ from data_io.export_json import (
     export_to_json_second_query,
 )
 from repositories.schema import (
-    create_students_table,
     create_rooms_table,
+    create_indexes,
+    create_students_table,
 )
 from data_io.import_json import import_rooms_info, import_students_info
 
@@ -65,6 +66,7 @@ def main():
 
     create_rooms_table(cursor)
     create_students_table(cursor)
+    create_indexes(cursor)
 
     insert_rooms(cursor, rooms)
     insert_students(cursor, students)
