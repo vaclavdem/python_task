@@ -1,0 +1,24 @@
+{
+  "rooms_with_max_age_diff": [
+    {
+      "room": 712,
+      "age_diff_days": 42161
+    },
+    {
+      "room": 875,
+      "age_diff_days": 42100
+    },
+    {
+      "room": 381,
+      "age_diff_days": 42036
+    },
+    {
+      "room": 213,
+      "age_diff_days": 42001
+    },
+    {
+      "room": 83,
+      "age_diff_days": 41978
+    }
+  ]
+}
