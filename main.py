@@ -1,21 +1,10 @@
 import argparse
-import json
-
+from pathlib import Path
 from db.connection import conn, cursor
 from data_io.load_data import insert_rooms, insert_students
-from services.calculations import (
-    get_rooms_with_students,
-    get_rooms_with_min_avg_age,
-    get_rooms_with_max_age_diff,
-    get_mixed_gender_rooms,
-)
-from data_io.export_json import export_to_json
-from repositories.schema import (
-    create_rooms_table,
-    create_indexes,
-    create_students_table,
-)
+from data_io.export_json import export_sql_to_json
 from data_io.import_json import import_rooms_info, import_students_info
+from db.run_sql import run_sql_file
 
 
 def parse_args():
@@ -30,34 +19,27 @@ def parse_args():
         required=True,
         help="Path to students JSON file"
     )
-    parser.add_argument(
-        "--output",
-        default="result.json",
-        help="Path to output JSON file"
-    )
     return parser.parse_args()
 
 
 def main():
     args = parse_args()
 
+    sql_dir = Path("sql")
+    ddl_file = sql_dir / "ddl" / "schema.sql"
+    output_dir = Path("output_files")
+    output_dir.mkdir(exist_ok=True)
+
     rooms = import_rooms_info(cursor, args)
     students = import_students_info(cursor, args)
 
-    create_rooms_table(cursor)
-    create_students_table(cursor)
-    create_indexes(cursor)
+    run_sql_file(cursor, ddl_file)
 
     insert_rooms(cursor, rooms)
     insert_students(cursor, students)
 
-    export_to_json(
-        get_rooms_with_students(cursor),
-        get_rooms_with_min_avg_age(cursor),
-        get_rooms_with_max_age_diff(cursor),
-        get_mixed_gender_rooms(cursor),
-        filepath=args.output,
-    )
+    for sql_file in sql_dir.glob("*.sql"):
+        export_sql_to_json(cursor, sql_file, output_dir)
 
     conn.commit()
     cursor.close()

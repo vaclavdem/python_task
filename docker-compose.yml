@@ -10,7 +10,7 @@ services:
       POSTGRES_USER: ${USER}
       POSTGRES_PASSWORD: ${PASSWORD}
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - pg_data:/var/lib/postgresql/data
 
@@ -24,12 +24,12 @@ services:
       POSTGRES_USER: ${USER}
       POSTGRES_PASSWORD: ${PASSWORD}
       POSTGRES_HOST: ${HOST}
-      POSTGRES_PORT: ${HOST}
+      POSTGRES_PORT: ${PORT}
     volumes:
       - .:/app
     command: >
-      sh -c "sleep 5 &&
-             python main.py --rooms rooms.json --students students.json"
+      sh -c "sleep 5 && python main.py --rooms rooms.json --students students.json"
+
 
 volumes:
   pg_data:
